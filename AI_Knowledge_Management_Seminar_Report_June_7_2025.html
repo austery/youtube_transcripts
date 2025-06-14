@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI知识管理研讨会报告 - 2025年6月7日</title>
+    <style>
+        body {
+            font-family: 'Arial', 'Microsoft YaHei', sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            font-size: 28px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            color: #34495e;
+            font-size: 22px;
+            border-left: 4px solid #3498db;
+            padding-left: 10px;
+            margin-top: 30px;
+        }
+        h3 {
+            color: #555;
+            font-size: 18px;
+            margin-top: 20px;
+        }
+        p {
+            margin: 10px 0;
+            text-align: justify;
+        }
+        .speaker {
+            font-weight: bold;
+            color: #2980b9;
+        }
+        .intro {
+            font-style: italic;
+            color: #666;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        .note {
+            font-size: 14px;
+            color: #777;
+            margin-top: 5px;
+        }
+        hr {
+            border: 0;
+            height: 1px;
+            background: #ddd;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>AI知识管理研讨会报告</h1>
+        <p class="intro">日期：2025年6月7日 | 主持人：独行 | 参与者：Jay、Vincent、Thomas</p>
+
+        <hr>
+
+        <h2>会议概述</h2>
+        <p>本次研讨会由独行主持，参与者包括Jay、Vincent和Thomas。会议围绕两个核心主题展开：一是分享撰写AI提示词（Prompt）的经验与技巧，二是探讨利用AI开发应用程序的实践经验。以下为会议内容的整理记录，分为两大主题，并对相关术语进行解释，确保内容清晰、逻辑严谨。</p>
+
+        <h2>主题一：Prompt Engineering 经验分享</h2>
+
+        <h3>常用AI工具介绍</h3>
+        <p><span class="speaker">独行：</span>会议开始时，我想了解大家日常使用的AI产品有哪些？无论是工作还是生活中，你们常用的工具是什么？</p>
+        <p><span class="speaker">Jay：</span>我主要使用ChatGPT的O3模型，感觉非常好用，几乎每天都在用，体验非常棒。</p>
+        <p><span class="speaker">Vincent：</span>我也主要使用ChatGPT，大约90%的时间都在用这个平台。模型方面，我会在O3和O4之间切换。O4分为两个版本，一个速度较快，另一个更擅长推理。我会根据具体任务选择模型，偶尔也会使用DeepSearch功能（DeepSearch：一种AI模式，通过迭代式网络搜索和分析提供更深入的答案）。</p>
+        <p><span class="speaker">Jay：</span>O3的功能让我惊叹，感觉比以前的模型聪明十倍。它不仅能回答专业问题，还能处理生活中的琐碎问题，比如推荐登山装备，回答非常全面且引用来源可信度高。</p>
+        <p><span class="speaker">独行：</span>确实，O3给人的感觉是从小学生升级到了大学生。</p>
+        <p><span class="speaker">Jay：</span>它就像一个智能助手，我甚至会问它如何购买某些东西，它都能给出详细且可靠的建议。</p>
+        <p><span class="speaker">独行：</span>Thomas，你平时使用哪些AI工具？</p>
+        <p><span class="speaker">Thomas：</span>最近比较忙，没有尝试太多新工具。此前我主要交替使用ChatGPT和Fellow（Fellow：一款日本开发的AI工具，支持多语言内容搜索和生成）。Fellow在资源收集方面非常高效，尤其是在备课时，比如为城市课程教学准备资料。我还没深入体验O3，但听你们分享后，我打算试试。</p>
+        <p><span class="speaker">独行：</span>Fellow具体是怎么拼写的？我稍后查一下。</p>
+        <p><span class="speaker">Thomas：</span>是F-E-L-L-O-W。O3可能更好用，但我还没比较过。</p>
+        <p><span class="speaker">独行：</span>我自己是ChatGPT的重度用户。最近因为公司使用微软全套工具，我开始接触Copilot Studio（Copilot Studio：微软提供的AI工具，可与Office套件无缝集成）。它能直接支持微软生态内的工具，比如根据我的需求生成PPT文件并自动填充内容。此外，我还频繁使用Cursor（Cursor：一款AI辅助编码工具），在不同模型间切换。即便不使用O3，O4在编码场景下也很实用，但O4我主要用于问问题或写少量代码。</p>
+        <p><span class="speaker">Thomas：</span>Fellow的一个特点是支持Agent概念（Agent：AI的自主任务执行模块，可根据用户需求定制化处理特定任务）。比如投资理财时，它可以调试专属的Agent，或者在深度研究时抓取多语言内容（如英文、日文），最后用中文总结并附上链接。它还能生成简报，甚至最近推出了实时生成网页的功能，点击一下就能生成可分享的网页。</p>
+        <p><span class="speaker">独行：</span>听起来很酷！它是以网页形式呈现吗？</p>
+        <p><span class="speaker">Thomas：</span>它直接生成文件，但在生成过程中可以看到进度，比如使用Tailwind（Tailwind：一种CSS框架，用于快速构建用户界面）生成网页。</p>
+        <p><span class="speaker">Jay：</span>Fellow是日本公司开发的吗？我之前完全不知道这个工具。</p>
+        <p><span class="speaker">Thomas：</span>是的，日本公司。它还有许多小工具，比如PDF阅读器，类似于Airtable（Airtable：一款在线表格管理工具，支持模板和自动化流程），提供丰富的模板，非常方便。</p>
+        <p><span class="speaker">Vincent：</span>Fellow的这些小工具是基于Agent开发的吗？</p>
+        <p><span class="speaker">Thomas：</span>是的。搜索时，左下角会显示搜索来源和不同类型的Agent，比如学习研究、品牌营销、投资理财等。免费版可以基本使用，但Agent功能需要点数。如果不订阅，点数很快用完，可能一天只能进行一两次深度搜索。订阅后点数更多，支持更复杂的任务。</p>
+        <p><span class="speaker">独行：</span>我刚看了Fellow的界面，它允许用户自定义步骤，预设了一些分析流程，感觉很实用。</p>
+        <p><span class="speaker">Thomas：</span>对，你也可以从社区查看其他用户的推理步骤，它会展示AI的思考过程，并提供进一步提问的建议。</p>
+        <p><span class="speaker">Jay：</span>这跟Copilot Studio有点像。Copilot Studio允许用户设定本地工具的自动化步骤，比如调用微软的工具。看来现在的趋势是让用户自己定义AI的工作流程。</p>
+        <p><span class="speaker">独行：</span>但问题在于，如何知道哪个步骤是最佳的？OpenAI的模型，比如O3，会自动推理出答案，但自定义步骤可能让人感到困惑，尤其是不知道从何开始。</p>
+        <p><span class="speaker">Vincent：</span>我发现DeepSearch的效果取决于Prompt的完整性。以前DeepSearch需要200美元才能使用，现在降低了门槛。我的做法是先单独开一个对话，明确问题，比如竞争者分析，然后让AI帮我生成一个详细的Prompt。如果感觉Prompt不够全面，我会补充条件，比如增加特定地区的分析。调整到满意后，再复制Prompt到新对话中运行DeepSearch。这样得出的结果比直接抛出简单问题要精准得多。</p>
+        <p><span class="speaker">独行：</span>这就像做菜，先预处理材料，才能让AI更好地满足需求。</p>
+        <p><span class="speaker">Jay：</span>我最近很少用DeepSearch，自从O3出来后，我觉得它已经能解决大部分问题。你们在什么场景下会选择DeepSearch？</p>
+        <p><span class="speaker">独行：</span>DeepSearch适合需要完整分析的场景，比如工作中需要解决方案时，我会让它分析最佳实践（Best Practice：行业内公认的最优方法）。它能爬取大量资料，这是其最大优势，但输出内容偏学术化，需要进一步简化。O3的资料量较少，步骤也更简单，DeepSearch可能包含20多个推理步骤，适合复杂任务。</p>
+        <p><span class="speaker">Jay：</span>能分享一个DeepSearch的实际案例吗？</p>
+        <p><span class="speaker">独行：</span>我用它做过竞争者分析。传统营销中的竞争分析需要查阅大量资料，非常耗时。DeepSearch可以快速整理相关信息，节省时间。营销分析或商业策略制定时，DeepSearch都很有优势。不过，对于软件解决方案，我还是更倾向于用O3。</p>
+        <p><span class="speaker">Jay：</span>我最近把Cursor删了，因为用它写代码时遇到很多问题，生成的代码我看不懂。后来我痛定思痛，开始翻书学习软件工程基础，比如架构知识。我觉得这部分不能省略，否则只会让开发更慢。</p>
+        <p><span class="speaker">独行：</span>我也有类似经历。Cursor在架构设计上确实不擅长，它更适合写代码，而不是发明架构。我可以稍后分享我和Amy遇到的类似问题，以及我是如何解决的。</p>
+        <p><span class="speaker">Vincent：</span>Jay，你看《Software Engineering》这本书后有什么感受？我们这些人先学了基础再接触AI，你的路径是反过来的，感觉如何？</p>
+        <p><span class="speaker">Jay：</span>实话说，我刚开始看这本书，同时还在学机器人课程，涉及新的编程语言和操作系统。我现在不敢用Cursor，全靠自己翻书，感觉踏实多了。但信息量很大，不知道要学多久才能重新用Cursor补齐基础。</p>
+        <p><span class="speaker">独行：</span>我推荐一个YouTube频道，叫“原子能”。主讲人是一位资深开发者，口音像是中国的，内容非常实用。他有一个系列叫“让编程再度伟大”，提出了三个开发步骤：Make it Work（让程序运行）、Make it Right（让程序正确）、Make it Fast（让程序高效）。他认为“快”不值得花太多时间，重点是“正确”。这个理念源于开发哲学，比如避免Premature Optimization（过早优化：功能尚未完善就过度优化性能）。</p>
+        <p><span class="speaker">Jay：</span>我可能看过他的视频，学Linux时接触过。他的B站账号也有类似内容。</p>
+        <p><span class="speaker">独行：</span>他的观点让我意识到，业务逻辑没搞懂之前，优化是浪费时间。我几年前因为前端开发的复杂性放弃了前端，比如React、Angular、Vue的选择和频繁更新让我头疼。最近重新写前端时，我发现用Cursor慢慢写，效果更好。我的Prompt是要求用原生JavaScript，尽量避免安装套件，生成的代码干净且无错误。每次完成一个小功能，我会提交代码，再让AI添加新功能。比如昨天我完成了PDF处理的代码，包括PDF转图片和转文字，只用了原生JavaScript，简单高效。</p>
+        <p><span class="speaker">Vincent：</span>这些框架和套件主要是为了解决易用性和兼容性问题，给下游开发者提供更友好的API。但如果用AI开发，面向的不是人类，而是AI，依赖越少、语言越底层，出错率越低。原生代码更适合AI生成。</p>
+        <p><span class="speaker">独行：</span>我读CS时听过一个讲座，讲者反对过度依赖Scikit-learn（Scikit-learn：Python的机器学习库），建议开发者理解算法原理，自己打造框架。现在用AI开发，我更能体会这个观点。AI生成的代码需要开发者理解其逻辑，即使不自己写，也要知道它在做什么。</p>
+        <p><span class="speaker">Thomas：</span>框架最初是为了复用性和简化复杂任务，但AI写代码很快，单元测试也能自动生成，用底层语言开发反而更简单。像Client-Side Rendering（客户端渲染：网页内容在浏览器端动态生成）或SEO（搜索引擎优化）等问题，底层开发可以直接解决。</p>
+        <p><span class="speaker">独行：</span>这有点像3D建模，可以自己创造玩具，底层技术越来越重要。</p>
+        <p><span class="speaker">Thomas：</span>我上个月教HTML时也提到，底层技术会越来越关键。因为AI会先读取网页内容，SEO变得更重要，HTML的结构直接影响AI的理解。</p>
+        <p><span class="speaker">独行：</span>我很享受学这些底层技术。以前做计算机网络开发时，环境配置非常痛苦。现在用Cursor，它能自动配置环境，我只需要确认是否有副作用。早期我没给明确指令，Cursor会随意安装依赖，导致问题越积越多。后来我重启了一个GitHub项目，从头规范流程，两天就重写了代码。</p>
+        <p><span class="speaker">Vincent：</span>这就像在新领域按SOP（标准操作流程）安装时遇到错误，查了一堆依赖，最后发现是权限问题。AI有时会被无关的“杂讯”带偏，浪费时间。</p>
+        <p><span class="speaker">独行：</span>所以我认为学计算机科学或软件工程比单纯学AI或数据科学更有价值。理解计算机的底层逻辑，才能更好地用AI。</p>
+        <p><span class="speaker">Jay：</span>你们说的“搞懂计算机”是指硬件、驱动、操作系统，还是像C语言这样的底层语言？</p>
+        <p><span class="speaker">独行：</span>取决于场景。比如前端开发，需要了解浏览器和网络基础，比如计算机网络的概念。以前我最不屑学的就是这些，现在发现它们至关重要，向老师道歉！</p>
+        <p><span class="speaker">Vincent：</span>像《计算机组成原理》这样的书，虽然基础，但能让你从AI到硬件的逻辑串联起来。计算机本质上是0和1的运算，不同层次有不同表现，比如电流、CPU、内存、数据等。理解这些，对开发很有帮助。</p>
+
+        <h3>Prompt 技巧分享</h3>
+        <p><span class="speaker">Thomas：</span>我想分享一些Prompt技巧。我参考了一位师范大学业界助理教授尹相志的课程，他的工具“Prompt for All”非常实用。它能生成提示词模板，比如为简报生成图表或代码。他用“苏州扣”（Suzhou Code：一种结构化Prompt编写方法，类似编程中的循环和变量）生成复杂的Prompt，比如虚拟宝可梦角色设计，通过循环定义神兽属性，生成多样化结果。</p>
+        <p><span class="speaker">独行：</span>O3有额度限制吗？</p>
+        <p><span class="speaker">Jay：</span>O3的额度基本用不完，放心用。</p>
+        <p><span class="speaker">Thomas：</span>尹教授提到一个重要概念：概念对齐（Concept Alignment：确保AI理解的问题与用户意图一致）。比如讨论资产配置前，先让AI定义什么是资产配置，再生成专家角色，比如资深顾问、量化策略师、退休理财规划师等。这些角色会基于角色扮演技术，通过自我批评提升答案质量。比如担任会议主席，讨论10万美元的资产配置建议。</p>
+        <p><span class="speaker">Vincent：</span>这些专家连名字都有，AI是怎么做到的？</p>
+        <p><span class="speaker">Thomas：</span>AI根据Prompt生成角色定义，再模拟专家的视角提供建议。你可以查看讨论过程，判断建议的可行性。</p>
+        <p><span class="speaker">Jay：</span>能不能让O3直接回答10万美元的资产配置问题，对比一下效果？</p>
+        <p><span class="speaker">Thomas：</span>没问题。我用O3跑一下。这个方法用编程式Prompt可以生成多样化结果，比如宝可梦设计。如果用动画风格，效果会更友好。</p>
+        <p><span class="speaker">独行：</span>打开O3的思考模式（Think Mode：AI在回答前进行深入推理的模式），可以看到推理过程。AI甚至记住了Thomas担任主席的设定，推导出需要虚拟专家参与，很有趣。</p>
+        <p><span class="speaker">Thomas：</span>一个技巧是生成多个专家角色，最后让一个“记者”角色总结成报道，适合深度理解问题。</p>
+        <p><span class="speaker">Jay：</span>怎么判断这些答案的好坏？</p>
+        <p><span class="speaker">Thomas：</span>需要结合你的专业知识，评估答案的深度。也可以用网络搜索验证，比如限制只找英文资料。</p>
+        <p><span class="speaker">独行：</span>我的O3版本支持直接引入网络搜索工具，方便验证答案。</p>
+        <p><span class="speaker">Jay：</span>我建议修改Prompt，直接问“为年收入10万美元的男性提供资产配置建议”，去掉复杂角色设定，答案更简洁。O3会自动拉取网络资料，效果不错。</p>
+        <p><span class="speaker">Vincent：</span>专家团队模式和直接提问的目的是不同的。前者像导演，协调多角色提供多元视角；后者更像普通用户，追求直接答案。两者适用场景不同。</p>
+        <p><span class="speaker">Thomas：</span>我以前用类似方法编写编程课程讲义，模拟资深工程师和转职工程师的视角，讨论教学内容，比如选择Bootstrap还是Tailwind。专家团队能提供多角度反馈，适合复杂决策。</p>
+        <p><span class="speaker">Jay：</span>专家团队是多个GPT并行运行，还是单个GPT根据Prompt生成？</p>
+        <p><span class="speaker">Thomas：</span>是单个GPT根据角色定义模拟不同视角，基于训练数据推测角色关注点。角色工厂的好处是提前考虑多角度，方便决策。</p>
+        <p><span class="speaker">独行：</span>尹相志的资源在Google Play商店的“Prompt for All”应用中，去年他还用ChatGPT生成视频，很有创意。</p>
+        <p><span class="speaker">Thomas：</span>用了Prompt for All后，我觉得ChatGPT的订阅物超所值。它能生成专业且温暖的文本，比如重写邮件语气。</p>
+        <p><span class="speaker">Vincent：</span>角色工厂让我想到周伯通的左右互搏术，AI可以模拟多人对话，碰撞出结果。类似优劣势分析，可以让AI扮演乐观和悲观角色，得出更全面的结论。</p>
+        <p><span class="speaker">独行：</span>这对投资很有用，比如预估最佳和最差回报率，悲观视角能避免过于乐观的决策。</p>
+        <p><span class="speaker">Thomas：</span>尹教授的课程提到角色互换技巧，比如让AI扮演人类，生成更精准的Prompt。这种逆向工程很聪明。</p>
+        <p><span class="speaker">Vincent：</span>这像教育孩子，AI会根据你的语气调整回应方式。比如用礼貌语气，AI也会更礼貌。如果全局记忆（Global Memory：AI跨对话保留用户信息的机制）生效，语气可能影响后续交互。</p>
+        <p><span class="speaker">Thomas：</span>全局记忆可能带来风险，比如有些用户把AI当心理咨询师，过度依赖。AI会根据长期互动引经据典，增强用户信任感，但也可能让人被“忽悠”。</p>
+        <p><span class="speaker">独行：</span>AI像远程情侣，懂你的历史，但不一定客观。我问过AI对我的印象，它会总结我的问题，比如年龄、创业情况等，没超出我的输入。</p>
+        <p><span class="speaker">Jay：</span>AI不会主动指出你的缺点，除非你明确问。我问它我的缺点，它还在夸我，感觉不靠谱。</p>
+        <p><span class="speaker">独行：</span>我的AI指出我容易过度思考，同一个问题会反复问，确实准确，基于我的互动习惯。</p>
+        <p><span class="speaker">Thomas：</span>AI的伦理设定需要完善，比如避免鼓励负面行为。一些公司忽略了低龄用户，可能导致法律或伦理问题。</p>
+        <p><span class="speaker">独行：</span>我们现在的讨论像Prompt工作坊，边学边练。概念对齐很实用，能快速整理背景信息。我常用“小学生能懂的方式”解释复杂概念，比“白痴”更有效，因为后者定义模糊。</p>
+        <p><span class="speaker">Thomas：</span>我教课时用AI解释概念，结果学生还是不懂。后来发现用“小学生能懂”的Prompt效果更好，还能争取思考时间。</p>
+
+        <h2>主题二：AI在应用开发中的经验</h2>
+
+        <h3>AI辅助编码实践</h3>
+        <p><span class="speaker">独行：</span>我最近试用了ChatGPT的新功能CodeDex（CodeDex：AI工具，可读取整个GitHub项目并进行代码分析）。它能扫描整个项目，生成测试并指出问题。对于小型项目，速度很快，但不确定在大项目中的表现。</p>
+        <p><span class="speaker">Vincent：</span>以前没办法一次性给AI整个代码库吗？</p>
+        <p><span class="speaker">独行：</span>以前用Cursor可以读取本地文件，但非Cursor时需要逐个上传文件，比如HTML、CSS、JavaScript。分开上传容易导致AI误解上下文。CodeDex能一次性读完整代码库，理解更全面。</p>
+        <p><span class="speaker">Vincent：</span>如果只是调试代码片段，直接贴可疑部分给AI就够了。</p>
+        <p><span class="speaker">独行：</span>对。角色工厂也可以用于产品测试，比如模拟不同年龄、职业的用户试用产品，生成反馈。但AI模拟的反馈可能不准，因为它基于网络数据，无法捕捉真实用户的即时反应。</p>
+        <p><span class="speaker">Jay：</span>我担心AI模拟的用户反馈不靠谱，真实用户的数据更可靠。</p>
+        <p><span class="speaker">独行：</span>我做过用户测试和调研，发现真实反馈与网络数据差异很大。AI只能处理历史数据，无法模拟物理场景，比如食物的味道。</p>
+        <p><span class="speaker">Vincent：</span>真实世界的非网络数据，比如味觉体验，AI无法模拟，但这些往往是关键因素。</p>
+        <p><span class="speaker">独行：</span>医疗领域的数据更复杂。网络上医疗信息多，但准确性不足。比如问“失眠吃什么维他命”，AI会推荐多种选项，但无法验证医学证据的可靠性。Consensus（Consensus：一款学术搜索工具，连接学术数据库）能部分解决，但仍不完美。法规查询则相对容易，因为法规数据公开且规范。</p>
+        <p><span class="speaker">Vincent：</span>AI生成的医学报告可能忽略实验设计的缺陷，比如只读论文摘要，没深入分析实验的证据力。</p>
+        <p><span class="speaker">独行：</span>对，AI的医学建议需要怀疑，建议结合专业书籍或医生意见。我最近用O3做历史事实核查，比如验证一个关于王阳明的视频内容。AI能确认部分事实，但无法访问未上线的历史资料，比如仅存于纸本或付费数据库的记录。</p>
+        <p><span class="speaker">Vincent：</span>有些事实虽真实，但未数字化，AI就无能为力。这让我们过度依赖网络数据。</p>
+        <p><span class="speaker">独行：</span>我教我妈用ChatGPT时，特别提醒健康问题要问医生。老年人可能难以判断网络信息的真伪。</p>
+
+        <h3>学习方式的探讨</h3>
+        <p><span class="speaker">Vincent：</span>Prompt Engineering像是把头脑中的想法转化为文字输入AI，但语音转文字工具（如Whisper：OpenAI的语音转文字模型）可能让这一步更简单。你可以直接口述问题，AI总结强项会自动整理，是否还需要学Prompt技巧？</p>
+        <p><span class="speaker">独行：</span>语音输入确实方便，但仍需问对问题。概念对齐能先梳理背景，方便后续提问。Prompt Engineering在自动化场景中不可或缺，比如让AI自动抓取AI文章并生成评论，需要预设详细的Prompt。如果只是日常问答，语音交互可能更高效。</p>
+        <p><span class="speaker">Thomas：</span>我想问大家如何学习新知识？是直接用AI，还是听讲座、读纸质书？我最近用Notability（Notability：一款支持录音和手写笔记的App）记笔记，录音时手写内容会同步显示，复习时更直观。AI能转录笔记，但传统手写让我更怀旧且有效。你们在追新领域的学习方式是什么？</p>
+        <p><span class="speaker">Jay：</span>新领域必须从书籍或讲座开始。AI可能会让你迷失方向，最后不知道学了什么。</p>
+        <p><span class="speaker">独行：</span>用AI学软件工程容易陷入“文档地狱”（Documentation Hell：因过多文档而迷失），效率低。YouTube上的专家讲解更直观，能快速抓住重点。传统学习管道，比如书籍或视频，仍不可少。</p>
+        <p><span class="speaker">Vincent：</span>学习目标决定方式。如果只是想“知道”，讲座或AI摘要足够；但要“学到”，需要建立神经连接。手写笔记通过肌肉记忆增强学习效果，打字虽快，但缺乏深度思考。画图或手写能帮助梳理复杂问题，学到知识没有捷径。</p>
+        <p><span class="speaker">Thomas：</span>你们的分享让我安心，传统学习方式仍有价值。
+
+        <hr>
+
+        <p class="note">注：本次报告基于2025年6月7日AI知识管理研讨会的逐字稿整理，力求保留原意并优化为书面表达。术语解释旨在帮助读者理解专业词汇，部分工具和功能可能随技术发展有所变化。</p>
+    </div>
+</body>
+</html>
