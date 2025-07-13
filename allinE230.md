@@ -1,0 +1,1998 @@
+---
+title: "AI Doom vs Boom, EA Cult Returns, BBB Upside, US Steel and Golden Votes - All-In Podcast Transcript"
+layout: "post.njk"  
+date: "2025-06-01"
+tags:
+  - "视频笔记"
+data:
+  author: "Lei"
+  podcast_program: ""
+  speaker: ""
+  guest: "" 
+  source: ""
+---
+
+<div class="container">
+
+# AI Doom vs Boom, EA Cult Returns, BBB Upside, US Steel and Golden Votes
+
+*All-In Podcast Transcript*
+
+## Introduction & Banter / 引言与闲聊
+
+<div class="speaker-turn">
+
+**Jason Calacanis:**
+
+All right, everybody. Welcome back to the AllIn podcast. The number one
+podcast in the world. You got what you wanted, folks. The original
+Quartet is here live from DC with a great shirt. Is that your
+haberdasher making that shirt or is that a Tom Ford? That white shirt is
+so crisp, so perfect. David Sachs, you're talking about me.
+
+好的，各位。欢迎回到 AllIn
+播客。世界排名第一的播客。各位，你们如愿以偿了。最初的四人组现在正在华盛顿特区现场直播，穿着一件很棒的衬衫。那是你的服装商做的衬衫还是汤姆·福特的？那件白衬衫太挺括了，太完美了。大卫·萨克斯，你是在说我。
+
+**David Sacks:**
+
+You're Zar. You're Zary.
+
+你是“扎尔”（Zar）。你是“扎里”（Zary）。
+
+**Jason Calacanis:**
+
+I'll tell you exactly what it is. I'll tell you what it is. You can tell
+me if it's right. Brioni.
+
+我来告诉你它到底是什么。我告诉你它是什么。你可以告诉我它对不对。布里奥尼（Brioni）。
+
+**Chamath Palihapitiya:**
+
+Yes, of course it's Brioni. Brioni spread collar. Look at that. How many
+years have I spent being rich? When a man turns 50, the only thing he
+should wear is Brioni. The stitching is Looks very luxurious. That's how
+Chamath knew, right, Chamath? How'd you figure it out? The stitching?
+
+是的，当然是布里奥尼。布里奥尼的宽角领。看看那个。我当了多少年有钱人了？男人到了50岁，唯一应该穿的就是布里奥尼。那针脚看起来非常奢华。查马斯就是这么知道的，对吧，查马斯？你是怎么看出来的？针脚吗？
+
+**David Sacks:**
+
+It's just how it lays with the collar. To be honest with you, it's the
+button catch. The Brioni has a very specific style of button catches. If
+you don't know what that means, it's because you're fucking ignorant,
+malcontent yourself. I'm looking it up right now. Right. Yeah.
+
+就是它领子的设计方式。老实说，是纽扣的扣袢。布里奥尼的纽扣扣袢风格非常独特。如果你不知道那是什么意思，那是因为你他妈的无知，自寻烦恼。我现在就查一下。对。是的。
+
+**Jason Calacanis:**
+
+I just asked you to continue.
+
+我只是请你继续。
+
+**Chamath Palihapitiya:**
+
+We'll let your winners ride.
+
+我们会让你的赢家继续赢下去。
+
+We open source it to the fans and they've just gone crazy with it.
+
+我们把它开源给粉丝们，他们简直为之疯狂。
+
+**Jason Calacanis:**
+
+All right, everybody. The All-In Summit is going into its fourth year
+September 7th through 9th and the goal is of course to have the world's
+most important conversations. Go to allin.com yada yada yada to join us
+at the summit.
+
+好的，各位。All-In
+峰会将于9月7日至9日进入第四个年头，其目标当然是进行世界上最重要的对话。请访问
+allin.com 等等等等，加入我们的峰会。
+
+
+
+## AI Doomerism and Its Agendas / AI末日论及其议程
+
+<div class="speaker-turn">
+
+**Jason Calacanis:**
+
+All right. It's a lot in the docket, but there's kind of a very unique
+thing going on in the world. David, everybody knows about AI doomerism.
+Basically, people who are concerned, rightfully so, that AI could have
+some, you know, significant impacts on the world. Dario Amodei said he
+could see employment spike to 10 to 20% in the next couple years.
+They're 4% now as we've always talked about here. He told Axios that AI
+companies and government needs to stop sugar coating what's coming. He
+expects a mass elimination of jobs across tech, finance, legal, and
+consulting. Okay, that's a debate we've had here. And entry-level
+workers will be hit the hardest. He wants lawmakers to take action and
+more CEOs to speak out. Poly market thinks regulatory capture via this
+AI safety bill is very unlikely. US enacts AI safety bill in 2025
+currently stands at a 13% chance. But Sax, you wanted to discuss this
+because it seems like there is more at work than just a couple of
+technologists with I think we'd all agree there are legitimate concerns
+about job destruction or job and employment displacement that could
+occur with AI. We all agree on that where we're seeing robo taxis start
+to hit the streets and I don't think anybody believes that being a cab
+driver is going to exist as a job 10 years from now. So there seems to
+be something here about AI doomerism but it's being taken to a different
+level by a group of people maybe with a different agenda.
+
+好的。议程上有很多内容，但世界上正在发生一件非常独特的事情。大卫，大家都知道AI末日论。基本上，这些人有理由担心AI可能会对世界产生一些，你知道的，重大影响。达里奥·阿莫迪（Dario
+Amodei）表示，他预见到未来几年失业率可能飙升至10%到20%。正如我们一直在这里讨论的，目前是4%。他告诉Axios，AI公司和政府需要停止粉饰即将发生的事情。他预计科技、金融、法律和咨询行业将出现大规模的职位裁减。好吧，这是我们在这里讨论过的一个问题。入门级工人将受到最严重的冲击。他希望立法者采取行动，并有更多首席执行官发声。Poly
+market认为通过这项AI安全法案实现监管俘获的可能性非常小。美国在2025年颁布AI安全法案的可能性目前为13%。但是萨克斯，你想讨论这个问题，因为似乎不仅仅是一些技术专家在起作用，我想我们都同意，对于AI可能导致的职位摧毁或职位和就业流失存在合理的担忧。我们都同意这一点，我们看到机器人出租车开始上路，而且我不认为有人相信出租车司机这个职业在10年后还会存在。所以这里似乎有一些关于AI末日论的问题，但它正在被一群可能怀有不同议程的人提升到了另一个层面。
+
+**David Sacks:**
+
+Yeah. Well, first of all, let's just acknowledge that there are concerns
+and risks associated with AI. It is a profound and transformative
+technology and there are legitimate concerns about where it might lead.
+I mean the future is unknown and that can be kind of scary. Now, that
+being said, I think that when somebody makes a pronouncement that says
+something like 50% of white collar jobs are going to be lost within 2
+years, that's a level of specificity that I think is just unknowable and
+is more associated with an attempt to grab headlines. And to be frank,
+if you go back and look at Anthropic's announcement or Dario's
+announcement, there is a pattern of trying to grab headlines by making
+the most sensationalist version of what could be a legitimate concern.
+If you go back three years ago, they created this concern that AI models
+could be used to create bioweapons.
+
+是的。嗯，首先，让我们承认AI确实存在担忧和风险。它是一项深刻且具有变革性的技术，人们对其可能带来的后果存在合理的担忧。我的意思是，未来是未知的，这可能会有点吓人。话虽如此，我认为当有人发表声明说，类似50%的白领工作将在两年内消失时，这种具体程度我认为是不可知的，更多的是为了博取头条新闻。坦率地说，如果你回顾Anthropic的公告或达里奥的公告，你会发现一种模式，即通过制造最耸人听闻的说法来吸引眼球，而这些说法可能源于合理的担忧。如果你回到三年前，他们制造了这样一种担忧，即AI模型可能被用来制造生物武器。
+
+And they showed what was supposedly a sample I think of Claude
+generating an output that can be used by a bioterrorist or something
+like that. And on the basis of that it actually got a lot of play and in
+the UK Rishi Sunak got very interested in this cause and that led to the
+first AI safety summit at Bletchley Park. So that sort of concern really
+drove some of the initial AI safety concerns. But it turns out that that
+particular output was discredited. It wasn't true. I'm not saying that
+AI couldn't be used or misused to maybe create a bioweapon one day, but
+it was not an imminent threat in the way that it was portrayed. There
+have been other examples of this. You know, obviously people are
+concerned about could the AI develop into a super intelligence that
+grows beyond our control. Could it lead to widespread job loss? I mean,
+these are legitimate things to worry about, but I think these concerns
+are being hyped up to a level that there's simply no evidence for. And
+the question is why? And I think that there is an agenda here that
+people should be concerned about.
+
+他们展示了一个据称是Claude生成的样本输出，我认为这个输出可以被生物恐怖分子之类的使用。基于此，它确实引起了很多关注，在英国，里希·苏纳克（Rishi
+Sunak）对此非常感兴趣，这导致了在布莱切利公园举行的第一次AI安全峰会。所以这种担忧确实推动了一些最初的AI安全顾虑。但事实证明，那个特定的输出被证明是不可信的。它不是真的。我不是说AI不可能被用来或滥用来制造生物武器，但它不像所描绘的那样是一个迫在眉睫的威胁。还有其他类似的例子。你知道，显然人们担心AI是否会发展成超出我们控制的超级智能。它是否会导致大规模失业？我的意思是，这些都是值得担忧的事情，但我认为这些担忧被夸大到了根本没有任何证据支持的程度。问题是为什么？我认为这里有一个人们应该关注的议程。
+
+**Jason Calacanis:**
+
+So, let's start with maybe Freeberg things that we all agree on here.
+There are millions of people who drive trucks and Ubers and lifts and
+door dashes. You would, I think, agree the majority of that work in
+about 5 to 10 years, just to put a number on it, will be done by
+self-driving, robots, cars, etc., trucks.
+
+那么，让我们从弗里伯格（Freeberg）的观点开始，我们在这里都同意的一些事情。有数百万人在开卡车、优步（Uber）、来福车（Lyft）和送外卖（DoorDash）。我想，你会同意，大约5到10年后，这项工作的大部分将由自动驾驶汽车、机器人、汽车等完成，包括卡车。
+
+**David Freeberg:**
+
+Yeah, Dave, I think it's that might be the wrong way to look at it or I
+wouldn't look at it that way. And maybe I'll just give frame it a
+different way, please. If I'm deploying capital, let's say I'm a CEO of
+a company and I can now have software that's written by AI. Does that
+mean that I'm going to fire 80% of my software engineers? Basically, it
+means one software engineer can output, call it 20, 50 times as much
+software as they previously could by using that software generation
+tool.
+
+是的，戴夫（Dave），我认为这可能是一种错误的看法，或者我不会那样看。或许我可以换一种方式来阐述，可以吗？如果我正在部署资本，假设我是一家公司的首席执行官，我现在可以拥有由AI编写的软件。这是否意味着我将解雇80%的软件工程师？基本上，这意味着一个软件工程师通过使用该软件生成工具，可以产出比以前多20到50倍的软件。
+
+So the return on the invested capital, the money I'm spending to pay the
+salary of that software engineer is now much much higher. I'm getting
+much more out of that person because of the unlocking of the
+productivity because of the AI tool than I previously could. So when you
+have a higher ROI on deployed capital, do you deploy more capital or
+less capital? Suddenly you have this opportunity to make 20 times on
+your money versus two times on your money. If you have a chance to make
+20 times on your money, you're going to deploy a lot more capital. And
+this is the story of technology going back to the first invention of the
+first technology of the caveman. When we have this ability to create
+leverage, humans have a tendency to do more and invest more, not less.
+And I think that's what's about to happen. I think we see this across
+the spectrum. People assumed, "Oh my gosh, software can now be written
+with one person. You can create a whole startup. You don't need to have
+venture capital anymore." In fact, what I think we're going to see is
+much more venture capital flowing into new tech startups. Much more
+capital being deployed because the return on the invested capital is so
+so so much higher because of AI. So generally speaking, I think that the
+premise that AI destroys jobs is wrong because it doesn't take into
+account the significantly higher return on invested capital, which means
+more capital is going to be deployed, which means actually far more jobs
+are going to be created, far more work is going to get done. And so I
+think that the counterbalancing effect is really hard to see without
+taking that zoomed out perspective.
+
+因此，投入资本的回报，也就是我用来支付软件工程师薪水的钱，现在的回报率要高得多得多。由于AI工具释放了生产力，我从这个人身上获得的收益比以前多得多。那么，当你的已部署资本回报率更高时，你会部署更多资本还是更少资本？突然之间，你有了让你的钱翻20倍的机会，而不是两倍。如果你有机会让你的钱翻20倍，你就会部署更多的资本。这就是技术的故事，可以追溯到穴居人发明的第一个技术。当我们拥有这种创造杠杆的能力时，人类倾向于做得更多，投资更多，而不是更少。我认为这就是即将发生的事情。我认为我们在各个领域都能看到这一点。人们曾以为，“天哪，现在一个人就可以编写软件了。你可以创办一家完整的初创公司。你不再需要风险投资了。”事实上，我认为我们将看到更多的风险投资流入新的科技初创公司。更多的资本将被部署，因为由于AI的存在，投入资本的回报率大大提高了。所以总的来说，我认为AI摧毁就业机会的前提是错误的，因为它没有考虑到投入资本回报率显著提高这一点，这意味着将部署更多资本，这意味着实际上将创造更多的就业机会，完成更多的工作。因此，我认为如果不从宏观角度来看，很难看到这种制衡效应。
+
+To respond to Sax's point, I do think anytime you see a major change
+socially, society, there's a vacuum. How's the system going to operate
+in the future? And anytime there's a vacuum in the system, a bunch of
+people will rush in and say, I know how to fill that vacuum. I know what
+to do because I am smarter, more educated, more experienced, more
+knowledgeable, more moral. I have some superiority over everyone else.
+And therefore, I should be in a position to define how the new system
+should operate. And so, there's a natural kind of power vacuum that
+emerges anytime there's a major transition like this. and there will be
+a scrambling and a fighting and a whole bunch of different
+representation. Typically fear is a great way of getting into power and
+people are going to try and create new control systems because of the
+transition that's underway. You're going to see this around the world.
+
+回应萨克斯的观点，我确实认为每当社会发生重大变革时，都会出现真空。未来的系统将如何运作？每当系统中出现真空时，就会有一群人涌入并说，我知道如何填补那个真空。我知道该怎么做，因为我更聪明、受教育程度更高、经验更丰富、知识更渊博、道德更高尚。我比其他人更有优越性。因此，我应该有资格来定义新系统应该如何运作。因此，每当发生这样的重大转变时，自然会产生一种权力真空。并且会出现争夺、斗争和各种不同的代表。通常，恐惧是获得权力的一种好方法，人们会因为正在发生的转变而试图建立新的控制系统。你会在世界各地看到这种情况。
+
+**Jason Calacanis:**
+
+Yeah. I mean, so Chamath, it's pretty clear, you know, Freeberg didn't
+answer this question specifically, so I'm going to give it to you again.
+You would agree jobs like driving things are going to go away. If we had
+to pick a number somewhere between 5 and 10 years, the majority of those
+would go away. He's positioning, hey, a lot more jobs will be created
+because there'll be all these extra venture capital and opportunities,
+etc. But job displacement will be very real and we're seeing, I think,
+job displacement. Now, you had a tweet recently, you know, you were
+talking about entry level jobs and how that seems to be going away in
+the white collar space. So, where do you land on job displacement?
+Freeberg's already kind of given the big picture here, but let's step
+back to for people who are listening who have relatives who drive Uber
+or a truck or are graduating from college and want to go work at a, you
+know, I don't know, the Magnificent 7 or in tech and they're not hiring
+and and we know the reason they're not hiring because they're leaning
+into AI. So, let's talk about the job displacement in the medium term.
+
+是的。我的意思是，所以查马斯，很明显，你知道，弗里伯格没有具体回答这个问题，所以我再问你一遍。你会同意像驾驶这类工作将会消失吗？如果我们必须选择一个数字，大约在5到10年之间，这些工作中的大部分将会消失。他的立场是，嘿，将会创造更多的就业机会，因为会有所有这些额外的风险投资和机会等等。但职位流失将是非常真实的，而且我认为我们正在看到职位流失。现在，你最近发了一条推文，你知道，你在谈论入门级职位，以及白领领域似乎正在消失的入门级职位。那么，你对职位流失持什么看法？弗里伯格已经给出了大概的轮廓，但让我们退一步，为那些正在收听的、有亲戚开优步或卡车，或者即将大学毕业想去，你知道，我不知道，科技七巨头或科技行业工作，但他们没有招聘，而且我们知道他们不招聘的原因是因为他们正在向AI倾斜的人们考虑一下。那么，让我们谈谈中期的职位流失问题。
+
+**Chamath Palihapitiya:**
+
+I'm going to ignore your question and I'm going to Why should you be any
+different than the other? So I now content on this podcast. There's two
+people not wanting to answer the question about job displacement.
+Interesting trend. No, no. We'll go back to that. Let me start by just
+saying that it seems that these safety warnings tend to be pretty
+coincidental with key fundraising moments in Anthropic journey. So let's
+just start with that. And if you put that into an LLM and try to figure
+out if what I just said was true, it's interesting, but you find it's
+relatively accurate. I think that there is a very smart business
+strategy here. And I've said a version of this about the other companies
+at the foundational model layer that aren't Meta and Google because Meta
+and Google frankly sit on these money gushers where they just generate
+so much capital that they can fund these things to infinity. But if
+you're not them, so if you're OpenAI or if you're Anthropic, you have to
+find an angle. And I think the angles are slightly different for both.
+But I think what this suggests is that there's a pattern that exists and
+I think that that explains some of the framing of what we see in the
+press, Jason, and why we get these exaggerated claims.
+
+我将忽略你的问题，我将……
+为什么你应该与其他人不同？所以我现在在这个播客上很满意。有两个人不想回答关于职位流失的问题。有趣的趋势。不，不。我们会回到那个问题。让我先说，这些安全警告似乎与
+Anthropic
+发展过程中的关键融资时刻相当巧合。所以让我们从这里开始。如果你把这些信息输入一个大型语言模型（LLM）并试图弄清楚我刚才说的是否属实，这很有趣，但你会发现它相对准确。我认为这里有一个非常聪明的商业策略。关于基础模型层面上除了
+Meta 和谷歌之外的其他公司，我也说过类似的话，因为 Meta
+和谷歌坦率地说，它们坐拥这些摇钱树，它们能产生如此多的资本，以至于可以无限期地资助这些项目。但如果你不是它们，比如你是
+OpenAI 或者你是
+Anthropic，你就必须找到一个切入点。我认为两者的切入点略有不同。但我认为这表明存在一种模式，我认为这解释了我们在媒体上看到的一些框架，杰森，以及为什么我们会得到这些夸大的说法。
+
+**Jason Calacanis:**
+
+Perfect. So there are people who are doing this for nefarious reasons is
+I guess where you're sort of getting at here. It's a way to market. It's
+smart. It's smart. If you fall, it's up to you.
+
+完美。所以有些人是出于不正当的目的这样做，我想这就是你在这里想表达的意思。这是一种营销方式。这很聪明。这很聪明。如果你上当了，那是你自己的事。
+
+**Chamath Palihapitiya:**
+
+Yeah.
+
+是的。
+
+**Jason Calacanis:**
+
+Okay. Well, there's also an industrial complex according to some folks
+that are backing this. If you've heard of effective altruism, that was
+like this movement of a bunch of I don't know, I guess they consider
+themselves intellectual sachs and they were kind of backing a large
+swath of organizations that I guess we would call in the industry
+astroturfing or what do they call it when you make so many of these
+organizations that they're not real in politics and flooding the zone
+perhaps. So if you were to look at this article here, Nick, I think you
+have the AI existential risk industrial complex graphic there. It seems
+like a group of people according to this article have backed to the tune
+of 1.6 billion, a large number of organizations to scare the bejesus out
+of everybody and make YouTube videos, TikToks, and they've made a map of
+it. There's some key takeaways here from that article where it says here
+that it's an inflated ecosystem. There's a great deal of redundancy.
+Same names, acronyms, logos with only minor changes. Same extreme
+talking points. Same group of people just with different titles. Same
+funding source. There's a funding source called Open Philanthropy which
+was funded by Dustin Moskovitz who is one of the Facebook billionaires.
+Jim, you worked with him, right? I mean he wasn't he like Zuck's
+roommate at Harvard or something and one of the first engineers made a
+lot of money so he funded this he he's he's an EA and he funded this
+group called Open Philanthropy which then has become the feeder for
+essentially all these other organizations which are almost different
+fronts to basically the same underlying EA ideology and what's
+interesting is that the guy who set this up for Dustin Holden Karnofsky
+who is a major effective altruist and was doing out all the money. He's
+married to Dario's sister and she she's I guess associated with EA and
+she was one of the co-founders of Anthropic. So these are not
+coincidences. I mean the reality is there's a very specific ideological
+and political agenda here. Now what is that agenda?
+
+好的。嗯，根据一些支持这种说法的人士的说法，还有一个产业复合体。如果你听说过有效利他主义（effective
+altruism），那就像是一群我不知道，我想他们自认为是知识分子的人发起的运动，他们支持了一大批组织，我想在行业内我们会称之为“水军营销”（astroturfing），或者当你在政治上制造这么多虚假组织并试图“饱和攻击”（flooding
+the
+zone）时，他们是怎么称呼的。所以如果你看一下这篇文章，尼克，我想你那里有AI存在风险产业复合体的图表。根据这篇文章，似乎有一群人已经资助了16亿美元，支持了大量的组织，目的是把所有人都吓个半死，制作YouTube视频、TikTok视频，他们还绘制了一张地图。这篇文章中有一些关键的要点，这里说这是一个膨胀的生态系统。存在大量的冗余。相同的名称、首字母缩写、徽标，只有微小的变化。相同的极端论点。同样的一群人，只是头衔不同。相同的资金来源。有一个名为“开放慈善”（Open
+Philanthropy）的资金来源，由Facebook的亿万富翁之一达斯汀·莫斯科维茨（Dustin
+Moskovitz）资助。吉姆，你和他一起工作过，对吧？我的意思是他不是扎克伯格在哈佛的室友之类的吗，也是最早的工程师之一，赚了很多钱，所以他资助了这个，他是一个有效利他主义者（EA），他资助了这个名为“开放慈善”的组织，然后这个组织基本上成为了所有其他组织的输送者，这些组织几乎都是同一个潜在EA意识形态的不同幌子。有趣的是，为达斯汀设立这个组织的人霍尔顿·卡诺夫斯基（Holden
+Karnofsky）是一位主要的有效利他主义者，并且负责分配所有资金。他娶了达里奥的妹妹，而她，我想，与EA有关，并且是Anthropic的联合创始人之一。所以这些都不是巧合。我的意思是，现实是这里有一个非常具体的意识形态和政治议程。那么这个议程是什么呢？
+
+**David Sacks:**
+
+It's basically global AI governance if you will. They want AI to be
+highly regulated but not just at the level of the nation state but let's
+say internationally supernationally to well if you just do a quick
+search on global compute governance it'll tell you what the key aspects
+are so number one they want regulation of computational resources this
+includes access to GPUs they want AI safety and security regulation they
+want international you call from globalist agreements and they want
+ethical and societal considerations or policy built into this. Now, what
+does that sound like? That sounds a lot to me like what the Biden
+administration was pursuing. Specifically, we had that Biden executive
+order on AI, which was 100 pages of burdensome regulation that was
+designed to promote AI safety, but had all these DEI requirements. So,
+you know, it led to woke AI. You remember when Google launched Black
+George Washington and so forth, they had the Biden diffusion rule which
+created this global licensing framework to sell GPUs all over the world.
+So extreme restrictions on proliferation of servers of computing power.
+They created what's called the AI safety institute and they again
+fostered these international AI summits. So if you actually look at what
+the Biden administration was tangibly doing in terms of policy and you
+look at what EA's agenda is with respect to global compute governance,
+they were pushing hard on these fronts. And now if you look at the level
+of personnel, there were very very powerful Biden staffers who now all
+work in Anthropic. So probably the most powerful Biden staffer on AI
+over the past four years was a lawyer named Tarun Chhabra and he now
+works at Anthropic for Dario. Elizabeth Kelly who was the founding
+director of the AI safety institute in the government now works at
+Anthropic. Like I mentioned Dario's sister is married to Holden
+Karnofsky who doles out all the money to these EA organizations. So if
+you were to do something like create a network map, you would see very
+quickly that there's three key nodes here. There's the effective
+altruist movement of which Sam Bankman-Fried's the most notable member
+but which I think Dustin Moskovitz is now the main funder. There's the
+Biden administration and like the key staffers and then you've got
+Anthropic and it's a very tightly wound network. Now why does this
+matter?
+
+如果你愿意，可以称之为全球AI治理。他们希望AI受到高度监管，但不仅仅是在国家层面，而是比如说在国际上，超国家层面上。嗯，如果你快速搜索一下“全球计算治理”，它会告诉你关键的方面是什么。所以第一，他们希望监管计算资源，这包括获取GPU。他们希望有AI安全和保障法规。他们希望有国际性的，你称之为全球主义者协议。他们希望将伦理和社会考量或政策融入其中。现在，这听起来像什么？在我看来，这很像拜登政府正在推行的政策。具体来说，我们有拜登关于AI的行政命令，那是一份长达100页的繁琐法规，旨在促进AI安全，但其中包含了所有这些DEI（多样性、公平性和包容性）要求。所以，你知道，这导致了“觉醒AI”（woke
+AI）。你还记得谷歌推出黑人乔治·华盛顿等等，他们有拜登的扩散规则，该规则创建了一个在全球销售GPU的全球许可框架。因此，对计算能力的服务器扩散进行了极端限制。他们创建了所谓的AI安全研究所，并再次推动了这些国际AI峰会。所以，如果你实际看看拜登政府在政策方面具体做了什么，再看看EA在全球计算治理方面的议程，你会发现他们正在这些方面大力推进。现在，如果你看看人事层面，有一些非常非常有权势的拜登政府官员现在都在Anthropic工作。因此，在过去四年中，拜登政府在AI领域最有权势的官员可能是一位名叫塔伦·查布拉（Tarun
+Chhabra）的律师，他现在在Anthropic为达里奥工作。曾任政府AI安全研究所创始主任的伊丽莎白·凯利（Elizabeth
+Kelly）现在也在Anthropic工作。正如我提到的，达里奥的妹妹嫁给了霍尔顿·卡诺夫斯基，后者向这些EA组织分发所有资金。所以，如果你要做类似创建网络图的事情，你会很快看到这里有三个关键节点。有效利他主义运动，其中萨姆·班克曼-弗里德（Sam
+Bankman-Fried）是最著名的成员，但我认为达斯汀·莫斯科维茨现在是主要的资助者。拜登政府及其关键幕僚。然后是Anthropic。这是一个非常紧密联系的网络。现在，这为什么重要？
+
+**Jason Calacanis:**
+
+Yeah. Also the goals I think is Yes. Well, the the goal, like I said, is
+is global compute governance. It's basically establishing national and
+then international regulations of AI. Now, but they would claim, let's
+just pause here for a minute. They would claim the reason they're doing
+it. And so, we we'll we'll save if we believe this or not, but they are
+concerned about job destruction in the short term. They're also
+concerned as science fiction as it is that the AI when we get to like a
+sort of generalized super intelligence is going to kill humanity. That
+this is a nonzero chance. Elon has said this before. They've sort of
+taken it to a almost like a certainty. Yes, we're going to have so many
+of these general intelligences. But they only believe that when they're
+raising money.
+
+是的。还有我认为目标是，是的。嗯，目标，正如我所说，是全球计算治理。它基本上是建立国家层面然后是国际层面的AI法规。现在，但是他们会声称，让我们在这里暂停一下。他们会声称他们这样做的原因。所以，我们姑且不论我们是否相信这一点，但他们确实担心短期内的就业岗位流失。他们还担心，尽管听起来像科幻小说，但当AI发展到某种通用超级智能时，它会毁灭人类。这是一个非零概率事件。埃隆（Elon）以前也说过这个。他们几乎把它当成了一种确定性。是的，我们将拥有如此多的通用智能。但他们只有在筹集资金时才相信这一点。
+
+**David Sacks:**
+
+Well, that's what I'm sort of getting at. Like, so I think they believe
+it all the time, but maybe maybe the press releases are timed for for
+the fund building. But let me let me answer that. Right. Yeah. Yeah.
+Look, I mean, it is a great product. Claude kicks ass. I'm more
+interested in the political dimension of this. I'm not bashing a
+specific product or company. But look, I think that there is some
+nonzero risk of AI growing into a super intelligence that's beyond our
+control. They have a name for that. They call it X risk or existential
+risk. I think it's very hard to put a percentage on that. I'm willing to
+acknowledge that is a risk. You know, I think about that all the time
+and I do think we should be concerned about it. But there's two problems
+I think with this approach. Number one is X-Risk is not the only kind of
+risk. I would say that China winning the AI race is a huge risk. I don't
+really want to see a CCP AI running the world. And if you hobble our own
+innovation, our own AI efforts in the name of stomping out every
+possibility of X-risk, then you probably end up losing the AI race to
+China because they're not going to abide by those same regulations. So
+again, you can't optimize for solving only one risk while ignoring all
+the others. And I would say the risk of China winning the AI race is,
+you know, it might be like 30%. Whereas I think X risk is probably a
+much lower percentage. So there are there are other risks to to worry
+about. And I I do think that they are single-mindedly focused on scaring
+people with some of these headlines around first it was the bioweapons
+then it was the super intelligence now it's the job loss and I think
+it's a tried and true tactic of people who want to give more power to
+the government to scare the population right because if you can scare
+the population and make them fearful then they will cry out for the
+government to solve the problem and that's what I see here is that
+you've got this elaborate network of front organizations which are all
+motivated by this EA ideology. They're funded by a hardcore leftist. And
+by the way, I became aware of Dustin's politics because of the Chesa
+Boudin recall. I found out that he was a big funder of Chesa Boudin.
+Remember this? Yeah. Dustin Moskovitz and Cari Tuna, his wife. Also,
+Reed Hastings just joined the board of of Anthropic. remember when he
+back in 2016 to tried to drive Peter Thiel off of the board of Facebook
+for supporting Trump. So, you know, these are like committed leftists.
+They're Trump haters. But the point is that these are people who
+fundamentally believe in empowering government to the maximum more
+government and empowering government to the maximum extent. Now my
+problem with that is I actually think that probably the single greatest
+dystopian risk associated with AI is the risk that government uses it to
+control all of us. To me like you end up in some sort of Orwellian
+future where AI is controlled by the government and out of all the risks
+we've talked about that's the only one for which I've seen tangible
+evidence. So in other words, if you go back to last year when we had the
+whole woke AI, there was plenty of evidence that the people who were
+creating these products were infusing their left-wing or woke values
+into the product to the point where it was lying to all of us and it was
+rewriting history. And there was plenty of evidence that the Biden EO
+was trying to enshrine that idea. Was basically trying to require DEI be
+infused into AI models. and it wanted to anoint two or three winners in
+this AI race. So, I'm quite convinced that prior to Donald Trump winning
+the election, we were on a path of global compute governance where two
+or three big AI companies are going to be anointed as the winners. And
+the quid pro quo is that they were going to infuse those AI models with
+woke values. And there was plenty of evidence for that. You look at the
+policies, you look at the models. This was not a theoretical concern.
+This was real. And I think the only reason why we've moved off of that
+trajectory is because of Trump's election. But we could very easily be
+moved back onto that trajectory.
+
+嗯，这正是我想要表达的。比如，所以我认为他们一直都相信这一点，但也许，也许新闻稿是为筹款而安排时间的。但让我来回答这个问题。对。是的。是的。看，我的意思是，它确实是一个很棒的产品。Claude非常出色。我更感兴趣的是这个问题的政治层面。我不是在抨击某个特定的产品或公司。但是，看，我认为AI发展成超出我们控制的超级智能确实存在一些非零风险。他们对此有一个名称。他们称之为X风险或存在风险。我认为很难给出一个百分比。我愿意承认这是一种风险。你知道，我一直在思考这个问题，我确实认为我们应该对此感到担忧。但我认为这种方法存在两个问题。第一，X风险不是唯一的风险。我想说，中国赢得AI竞赛是一个巨大的风险。我真的不想看到一个由中共控制的AI来统治世界。如果你为了消除X风险的每一种可能性而束缚我们自己的创新和AI努力，那么你最终可能会输掉与中国的AI竞赛，因为他们不会遵守那些相同的法规。所以，你不能只优化解决一种风险而忽略所有其他风险。我想说，中国赢得AI竞赛的风险，你知道，可能在30%左右。而我认为X风险的百分比可能要低得多。所以还有其他风险需要担心。我确实认为他们一心一意地专注于用这些头条新闻来吓唬人，首先是生物武器，然后是超级智能，现在是失业，我认为这是那些想赋予政府更多权力的人惯用的伎俩，目的是恐吓民众，对吧？因为如果你能恐吓民众，让他们感到恐惧，那么他们就会呼吁政府解决问题，这就是我在这里看到的。你有一个由这些幌子组织组成的复杂网络，它们都受到这种EA意识形态的驱动。它们由一个铁杆左派资助。顺便说一句，我是在切萨·布丹（Chesa
+Boudin）罢免案中了解到（达斯汀）Dustin的政治立场的。我发现他是切萨·布丹的主要资助者。还记得吗？是的。达斯汀·莫斯科维茨（Dustin
+Moskovitz）和他的妻子卡莉·图纳（Cari Tuna）。还有，里德·哈斯廷斯（Reed
+Hastings）刚刚加入了Anthropic的董事会。还记得他在2016年曾试图因为彼得·蒂尔（Peter
+Thiel）支持特朗普而将他赶出Facebook董事会吗？所以，你知道，这些人就像是坚定的左派。他们是特朗普的憎恨者。但关键是，这些人从根本上相信要最大限度地赋予政府权力，更多的政府权力，最大限度地赋予政府权力。现在我的问题是，我实际上认为，与AI相关的最大的反乌托邦风险可能是政府利用它来控制我们所有人。对我来说，你最终会进入某种奥威尔式的未来，AI由政府控制，在我们谈论的所有风险中，这是我唯一看到具体证据的风险。换句话说，如果你回到去年我们讨论“觉醒AI”的时候，有大量证据表明，创造这些产品的人正在将他们的左翼或“觉醒”价值观注入产品中，以至于它对我们所有人撒谎，并且正在改写历史。而且有大量证据表明，拜登的行政命令试图将这一想法神圣化。基本上是试图要求将DEI注入AI模型中。并且它想在这场AI竞赛中指定两三个赢家。所以我非常相信，在唐纳德·特朗普赢得选举之前，我们正走在全球计算治理的道路上，两三家大型AI公司将被指定为赢家。而交换条件是他们将把那些“觉醒”价值观注入那些AI模型中。而且有大量证据证明这一点。你看看那些政策，你看看那些模型。这不是一个理论上的担忧。这是真实的。我认为我们偏离那个轨道唯一的原因是特朗普的当选。但我们很可能很容易回到那个轨道上。
+
+**Jason Calacanis:**
+
+If you were to look at all three opinions here and and put them
+together, they could all be true at the same time. You've got a a number
+of people, some might call useful idiots, some might call just, you
+know, people with god complexes who believe they know how the world
+should operate. Effective altruism kind of falls into that. Oh, we can
+make a formula that that's their kind of idea where we can tell you
+where to put your money, rich people, in order to create the most good
+and you know, we're these enlightened individuals with the best view of
+the world. They might be, who knows, maybe they're the smartest kids in
+the room, but they're kind of delusional. The second piece I'll do here
+is I think you're absolutely correct, Chamath, that there are people who
+have economic interests who are then using those useful idiots andor
+delusional people with god complexes to serve their need, which is to be
+one of the three winners. And then Sachs, inherent to all of that is
+they have a political ideology. So why not use these people with
+delusions of grandeur in order to secure the bag for their companies for
+their investments and secure their candidates into office so that they
+can block further people from getting H100s cuz they literally want to.
+
+如果你看看这里所有的三种观点，并把它们放在一起，它们可能同时都是正确的。有一群人，有些人可能称之为有用的白痴，有些人可能称之为，你知道，有上帝情结的人，他们相信自己知道世界应该如何运作。有效利他主义有点属于这种情况。哦，我们可以制定一个公式，那是他们的想法，我们可以告诉你们这些有钱人把钱投到哪里，以创造最大的善，你知道，我们是这些开明的个体，拥有对世界的最佳视角。他们可能是，谁知道呢，也许他们是房间里最聪明的人，但他们有点妄想。我要做的第二点是，我认为你完全正确，查马斯，有些人有经济利益，他们然后利用那些有用的白痴和/或有上帝情结的妄想者来满足他们的需求，那就是成为三个赢家之一。然后萨克斯，所有这一切的内在原因是他们有政治意识形态。那么，为什么不利用这些有自大妄想的人来为他们的公司、他们的投资确保利益，并确保他们的候选人上任，这样他们就可以阻止更多的人获得H100，因为他们确实想这样做。
+
+**Chamath Palihapitiya:**
+
+By the way, that's the part that's very smart about what they're doing
+because you know it's not like they're illiquid. They're full of
+liquidity in the sense that you're bringing in people that are very
+technically capable and you're setting up these funding rounds where a
+large portion goes right back out the door via secondaries and so
+there's all these people that are making money having this worldview and
+so to your point Jason it's going to cement that worldview and then they
+are going to propagate it even more aggressively into the world.
+
+顺便说一句，这正是他们所做的事情中非常聪明的部分，因为你知道他们并非缺乏流动性。他们充满了流动性，因为你正在引入技术能力非常强的人，并且你正在组织这些融资轮，其中很大一部分通过二级市场直接流出，所以所有这些人都通过持有这种世界观来赚钱，所以正如你所说，杰森，这将巩固这种世界观，然后他们将更积极地将其传播到世界各地。
+
+**David Sacks:**
+
+So I think the threshold question is should you fear government
+overregulation or should you fear autocomplete and I would say you
+should not be so afraid of the autocomplete right now it may get so good
+that it's an AGI but right now it's an exceptionally good autocomplete.
+
+所以我认为关键问题是，你应该害怕政府过度监管，还是应该害怕自动完成功能？我想说，你现在不应该那么害怕自动完成功能，它可能会变得非常好，以至于成为通用人工智能（AGI），但现在它只是一个异常出色的自动完成功能。
+
+**Jason Calacanis:**
+
+Yeah. And I just think that again it's a tried and true tactic of people
+who want to give immeasurably more power to the government to try and
+make people afraid and they stampede people into these policies. Right.
+And it gives them power. Exactly.
+
+是的。我只是再次认为，这是一种屡试不爽的策略，那些想赋予政府无法估量的更多权力的人，试图让人们感到害怕，然后他们驱使人们接受这些政策。没错。而且这赋予了他们权力。完全正确。
+
+**David Sacks:**
+
+Now, why do I think this is important to talk about? On last week's
+show, I talked about the trip to the Middle East and how we started
+doing these AI acceleration partnerships with the Gulf States who have a
+lot of resources, a lot of money, and they're intensely interested in
+AI. and the Biden administration was pushing them away. It basically
+said, "You can't have the chips. You can't build data centers." And it
+was pushing them into the arms of China. The thing that I thought was so
+bizarre is that the various groups and organizations and former Biden
+staffers who wrote this policy have been agitating in Washington and
+they've been trying to portray themselves as China hawks. And I'm like,
+wait, this doesn't make any sense because this policy again, there's
+there's basically two camps in this new cold war. It's US versus China.
+you can pull the Gulf States into our orbit or you can drive them into
+China's orbit. So, this to me just didn't make any sense. And what's
+happened is that frankly, you've got this EA ideology that's really
+motivating things, which is a desire to lock down compute, right?
+They're afraid of proliferation. They're afraid of diffusion. That's
+really their motivation. and they're trying to rebrand themselves as
+China hawks because they know that in the Trump administration that idea
+is just not going to get much purchase. Right.
+
+现在，我为什么认为讨论这个很重要？在上周的节目中，我谈到了中东之行，以及我们如何开始与海湾国家建立这些AI加速合作伙伴关系，这些国家拥有大量资源和资金，并且对AI非常感兴趣。而拜登政府却在疏远他们。它基本上是说，“你们不能拥有芯片。你们不能建立数据中心。”这正把他们推向中国的怀抱。我认为非常奇怪的是，撰写这项政策的各个团体、组织和前拜登政府官员一直在华盛顿煽动，并试图将自己描绘成对华鹰派。我就想，等等，这完全说不通，因为这项政策再次表明，在这场新的冷战中，基本上有两个阵营。美国对抗中国。你可以将海湾国家拉入我们的轨道，或者你可以将它们推入中国的轨道。所以，这对我来说完全说不通。坦率地说，发生的情况是，你有了这种EA（有效利他主义）意识形态，它真正在驱动事情，那就是一种锁定计算能力的愿望，对吧？他们害怕扩散。他们害怕传播。这才是他们真正的动机。他们正试图将自己重新包装成对华鹰派，因为他们知道在特朗普政府中，这种想法根本不会得到多少支持。没错。
+
+**Jason Calacanis:**
+
+And your position as ZAR is a level playing field. People compete and
+the good guys, you know, the West should be supported to hit artificial
+general intelligence as fast as possible. So the bad guys, China, don't
+get it first. That that's a well open competition.
+
+而你作为“沙皇”（ZAR）的立场是创造一个公平的竞争环境。人们竞争，而好人，你知道，西方应该得到支持，以尽快达到通用人工智能。这样坏人，中国，就不会先得到它。那是一场开放的竞争。
+
+**David Sacks:**
+
+I don't know if I would frame it around AGI specifically, but what I
+would say is that look, I think our policy should be to win the AI race
+because the alternative is that China wins it. And that would be very
+bad for our economy and our military. How do you win the AI race? You
+got to out innovate. You got to have innovation. That means we can't
+have overregulation and red tape. We got to build out the most AI
+infrastructure, data centers, energy, which includes our partners. And
+then third, I think it means AI diplomacy because we want to build out
+the biggest ecosystem. We know that biggest app store wins, biggest
+ecosystem wins, right? And the policies under the Biden administration
+were doing the opposite of all those things. But again, you have to go
+back to what was driving that. And it was not driven by this China hawk
+mentality. That is now a convenient rebranding. It was driven by this EA
+ideology, this doomerism. And so this is why I'm talking about it is I
+want to expose it because I think a lot of people on the Republican side
+don't realize where the ideology is really coming from and who's funding
+it. They're obviously Trump haters and they need to be extirpated quite
+frankly.
+
+我不知道我是否会特别围绕通用人工智能（AGI）来阐述，但我想说的是，看，我认为我们的政策应该是赢得AI竞赛，因为另一种可能是中国赢得它。这对我们的经济和军事来说都将非常糟糕。你如何赢得AI竞赛？你必须超越创新。你必须拥有创新。这意味着我们不能有过度监管和繁文缛节。我们必须建立最大规模的AI基础设施、数据中心、能源，这包括我们的合作伙伴。然后第三，我认为这意味着AI外交，因为我们想建立最大的生态系统。我们知道最大的应用商店会赢，最大的生态系统会赢，对吧？而拜登政府领导下的政策却在做与所有这些事情相反的事情。但是，你必须追溯是什么在驱动这一切。它不是由这种对华鹰派心态驱动的。那现在是一种方便的重新包装。它是由这种EA（有效利他主义）意识形态，这种末日论驱动的。所以我谈论它的原因是我想要揭露它，因为我认为很多共和党方面的人没有意识到这种意识形态真正来自哪里，以及谁在资助它。他们显然是特朗普的憎恨者，坦率地说，他们需要被根除。
+
+
+
+## Job Displacement and Economic Impact of AI / AI带来的职位流失与经济影响
+
+<div class="speaker-turn">
+
+**Jason Calacanis:**
+
+When we look at they do they need to be extirpated. I mean, you know,
+Freeberg, I want I want to come back around again cuz I respect your
+opinion on, you know, how close we are to turning certain corners,
+especially in science. So, I understand big picture you believe that the
+opportunity will be there. Hey, we got people out of fields, you know,
+in the agricultural revolution, we put them into factories, industrial
+revolution, then we went to this information revolution. So, your
+position is we will have a similar transition and it'll be okay. But do
+you not believe that the speed because we've talked about this privately
+and and publicly on the pod that this speed the velocity at which these
+changes are occurring you would agree are faster than the industrial
+revolution much faster than the information revolution. So let's one
+more time talk about job displacement and I think the real concern here
+for a group of people who are buying into this ideology is specifically
+unions job displacement. This is something the EU cares about. This is
+something the Biden administration cares about. If truck drivers lose
+their jobs, just like we went to bat previously for coal miners, and
+there were only 75,000 or 150,000 in the country at the time, but it
+became the national dialogue. Oh my god, the the the coal miners. How
+fast is this going to happen? One more time on drivers specifically.
+Okay, coders, you think there'll be more code to write, but driving,
+there's not going to be more driving to be done. So is this time
+different in terms of the velocity of the change and the job
+displacement in your mind? Freeberg.
+
+当我们审视他们时，他们确实需要被根除。我的意思是，你知道，弗里伯格，我想再次回到这个问题，因为我尊重你关于，你知道，我们距离某些转折点有多近的看法，尤其是在科学领域。所以，我理解从宏观角度来看，你相信机会是存在的。嘿，我们让人们摆脱了田地，你知道，在农业革命中，我们把他们送进了工厂，工业革命，然后我们进入了这场信息革命。所以，你的立场是我们将经历类似的转变，一切都会好起来的。但是，难道你不相信这种速度吗？因为我们私下里和在播客上公开讨论过这个问题，这些变化发生的速度，你同意比工业革命快得多，比信息革命快得多。所以，让我们再谈一次职位流失问题，我认为对于一群信奉这种意识形态的人来说，真正的担忧是具体到工会和职位流失。这是欧盟关心的事情。这是拜登政府关心的事情。如果卡车司机失去工作，就像我们以前为煤矿工人争取权益一样，当时全国只有7.5万或15万煤矿工人，但这却成为了全国性的对话。哦，我的天啊，那些煤矿工人。这会以多快的速度发生？再具体谈谈司机。好吧，程序员，你认为会有更多的代码要写，但是驾驶，不会有更多的驾驶工作要做。那么，在你看来，这次在变化速度和职位流失方面是否有所不同？弗里伯格。
+
+**David Freeberg:**
+
+The velocity is greater but the benefit will be faster. So the benefit
+of the industrial revolution which ultimately drove lower price products
+and broader availability of products through manufacturing was one of
+the key outputs of that revolution. Meaning that we created a consumer
+market that largely didn't exist prior. Remember prior to the industrial
+revolution, if you wanted to buy a table or some clothes, they were
+handmade. They were kind of artisanal. Suddenly, the industrial
+revolution unlocked the ability to mass-produce things in factories. And
+that dropped the cost and the availability and the abundance of things
+that everyone wanted to have access to, but they otherwise wouldn't have
+been able to afford. So suddenly everyone could go and buy blankets and
+clothes and canned food and all of these incredible things that started
+to come out of this industrial revolution that happened at the time. And
+I think that folks are underestimating and underrealizing the benefits
+at this stage of what's going to come out of the AI revolution and how
+it's ultimately going to benefit people's availability of products, cost
+of goods, access to things. So the counterbalancing force Jcal is
+deflationary which is um let's assume that the cost of everything comes
+down by half. That's a huge relief on people's need to work 60 hours a
+week. Suddenly you only need to work 30 hours a week and you can have
+the same lifestyle or perhaps even a better lifestyle than you have
+today. So the counterargument to your point, and I'll talk about the
+pace of change in specific jobs in a moment, but the counterargument to
+your point is that there's going to be this cost reduction and abundance
+that doesn't exist today. Give an example. Let's give like some examples
+that we could see automation and food prep. So we're seeing a lot of
+restaurants install robotic systems to make food and people are like,
+"Oh, job loss, job loss." But let me just give you the counter side. The
+counter side is that the cost of your food drops in half. So suddenly,
+you know, all the labor cost that's built into making the stuff you want
+to pick up, everyone's freaking out right now about inflation. Oh my
+god, it's \$8 for a cup of coffee. It's \$8 for a latte. This is crazy,
+crazy, crazy. What if that dropped down to two bucks? You're going to be
+like, man, this is pretty awesome with good service and good experience.
+And don't make it all dystopian, but suddenly there's going to be this
+like incredible reduction or deflationary effect in the cost of food.
+And we're already starting to see automation play it way in the food
+system to bring inflation down. And that's going to be very powerful for
+people.
+
+速度更快，但益处也会更快显现。工业革命的益处最终通过制造业推动了产品价格的降低和产品供应的扩大，这是那场革命的关键成果之一。这意味着我们创造了一个以前基本上不存在的消费市场。记住，在工业革命之前，如果你想买一张桌子或一些衣服，它们都是手工制作的。它们有点像手工艺品。突然之间，工业革命释放了在工厂大规模生产物品的能力。这降低了成本，增加了每个人都想获得但以前可能买不起的东西的供应量和丰富程度。所以突然之间，每个人都可以去购买毯子、衣服、罐头食品以及所有这些在当时工业革命中开始出现的令人难以置信的东西。我认为人们目前低估了AI革命将带来的好处，以及它最终将如何惠及人们的产品可获得性、商品成本和获取事物的途径。所以，JCal，反制力量是通货紧缩，也就是说，假设所有东西的成本都下降一半。这对人们每周工作60小时的需求来说是一个巨大的缓解。突然之间，你每周只需要工作30小时，就可以拥有相同的生活方式，甚至可能比现在更好的生活方式。所以，对你观点的反驳，我稍后会谈到特定工作的变化速度，但对你观点的反驳是，将会出现这种成本降低和充裕，而这是今天不存在的。举个例子。让我们举一些我们可以看到的自动化和食品制备的例子。我们看到很多餐馆安装机器人系统来制作食物，人们会说，“哦，失业了，失业了。”但让我告诉你另一面。另一面是你的食物成本下降了一半。所以突然之间，你知道，制作你想要的外卖食品的所有劳动力成本，现在每个人都在为通货膨胀而恐慌。天哪，一杯咖啡要8美元。一杯拿铁要8美元。这太疯狂了，太疯狂了，太疯狂了。如果降到两美元呢？你会觉得，哇，这真是太棒了，服务好，体验好。不要把它都想成反乌托邦式的，但突然之间，食品成本会发生这种令人难以置信的降低或通货紧缩效应。我们已经开始看到自动化在食品系统中发挥作用以降低通货膨胀。这对人们来说将非常强大。
+
+**Jason Calacanis:**
+
+Shout out to Zume Pizza, CloudKitchens and Cafe X. We all took swings at
+the bat at that exact concept is that it could be done better, cheaper,
+faster. One of the amazing things of these vision action models that are
+now being employed is you can rapidly learn using vision systems and
+then deploy automation systems in those sorts of environments where you
+have a lot of kind of repetitive tasks that the system can be trained
+and installed in a matter of weeks. And historically that would have
+been a whole startup that it would have taken years to figure out how to
+get all these things together and custom program it, custom code it.
+
+向 Zume Pizza、CloudKitchens 和 Cafe X
+致敬。我们都曾尝试过这个确切的概念，即可以做得更好、更便宜、更快。现在正在应用的这些视觉动作模型的神奇之处在于，你可以使用视觉系统快速学习，然后在那些有大量重复性任务的环境中部署自动化系统，这些系统可以在几周内完成培训和安装。而在历史上，这可能需要一个完整的初创公司花费数年时间才能弄清楚如何将所有这些东西整合在一起，并进行自定义编程和编码。
+
+**David Freeberg:**
+
+So the flip side is like when Uber hit those people were not drivers.
+Think about the jobs that all those people had prior to Uber coming to
+market. And then the reason they drove for Uber is they could make more
+money driving for Uber or now driving or Door Dash and the flexibility.
+So their lifestyle got better. They had all of this more control in
+their life. Their incomes went up. And so there's a series of things
+that you are correct won't make sense in the future from a kind of
+standard of work perspective. But the right way to think about it is
+opportunity gets created. New jobs emerge, new industry, new income,
+costs go down. And so I keep harping on this that it's really hard today
+to be very prescriptive to Sax's point about what exactly is around the
+corner. But it is an almost certainty that what is around the corner is
+more capital will be deployed. That means the economy grows. That means
+there's a faster deployment of growth of new jobs, new opportunities for
+people to make more money, to be happier in the work that they do. And
+the flip side being things are going to get cheaper. So, I mean, I know
+we're waxing philosophical here, but I think it's really key because you
+can focus on the one side of the coin and miss the whole other. And
+that's what a lot of journalist commentators and fearmongers do is they
+miss that other side.
+
+所以，另一方面，就像优步（Uber）出现时，那些人并非都是司机。想想在优步进入市场之前，那些人都有什么工作。然后他们为优步开车的原因是，他们开优步或者现在开
+DoorDash
+可以赚更多的钱，而且工作更灵活。所以他们的生活方式变得更好了。他们对自己的生活有了更多的控制权。他们的收入增加了。因此，从某种标准的工作角度来看，你说的没错，未来有些事情将不再合理。但正确的思考方式是，机会被创造出来了。新的工作岗位出现，新的行业出现，新的收入出现，成本下降。所以我一直在强调这一点，今天很难像萨克斯那样具体说明未来会发生什么。但几乎可以肯定的是，未来将部署更多的资本。这意味着经济增长。这意味着新工作、新机会的增长将更快地部署，人们将有更多机会赚更多的钱，在工作中更快乐。另一方面，东西会变得更便宜。所以，我的意思是，我知道我们在这里有点纸上谈兵，但我认为这非常关键，因为你可能只关注硬币的一面而忽略了另一面。而很多记者、评论员和危言耸听者就是这样，他们忽略了另一面。
+
+**Jason Calacanis:**
+
+Got it. Well said, Freeberg. Well said.
+
+明白了。说得好，弗里伯格。说得好。
+
+**David Sacks:**
+
+I think I've heard Satya turn this question around about job loss saying
+well do you believe that GDP is going to grow by 10% a year because what
+are we talking about here I in order to have the kind of disruption that
+you're talking about where I don't know 10 to 20% of knowledge workers
+end up losing their jobs AI is going to have to be such a profound force
+that it's going to have to create GDP growth like we've never seen
+before.
+
+我想我听萨提亚（Satya）反问过这个关于失业的问题，他说，那么你相信GDP会每年增长10%吗？因为我们在这里谈论的是什么？为了产生你所说的那种颠覆，比如我不知道，10%到20%的知识工作者最终失去工作，AI必须成为一种如此深刻的力量，以至于它必须创造出我们前所未见的GDP增长。
+
+**David Freeberg:**
+
+That's right. So, it's easier for people to say, "Oh, well, 20% of
+people are going to lose their jobs." But wait, are we we're talking
+about a world in where the economy is growing 10% every year. Like, do
+do you actually believe that's more income? That's more income for
+everyone. That's new jobs being created. It's an inevitability. We've
+seen this in every revolution. You know, prior to the industrial
+revolution, 60% of Americans worked in agriculture. And when the tractor
+came around and factories came around, those folks got to get out of
+doing manual labor in the fields where they were literally, you know,
+tilling the fields by hand. and they got to go work in a factory where
+they didn't have to do manual labor to move things. Yeah, they did
+things in the factory with their hands, but it wasn't about grunt work
+in the field all day in the sun. And it became a better standard of
+living. It became new jobs. And today, it became a 5-day work week. It
+went from a 7-day 7-day work week to five, 100 hours a week to 45, 50
+hours a week. And now I think the next phase is we're going to end up in
+less than 30 hours a week with people making more money and having more
+abundance for every dollar that they earn with respect to what they can
+purchase and the lives they can live. That means more time with your
+family, more time with your friends, more time to explore interesting
+opportunities. So, you know, we've been through this conversation a
+number of times. I I know I'm not...
+
+没错。所以，人们更容易说，“哦，好吧，20%的人会失业。”但是等等，我们谈论的是一个经济每年增长10%的世界。比如，你真的相信那是更多的收入吗？那是每个人的更多收入。那是正在创造的新工作。这是不可避免的。我们在每一次革命中都看到了这一点。你知道，在工业革命之前，60%的美国人从事农业。当拖拉机出现，工厂出现时，那些人摆脱了在田里从事体力劳动，他们以前真的是，你知道，用手耕种田地。他们可以去工厂工作，在那里他们不需要做体力活来搬运东西。是的，他们在工厂里用手做事，但那不是整天在阳光下在田里做苦力。这带来了更好的生活水平。带来了新的工作。而今天，它变成了每周5天工作制。从每周7天工作制变成了5天，从每周100小时工作制变成了每周45、50小时。现在我认为下一阶段是，我们将每周工作少于30小时，人们赚更多的钱，他们每赚一美元就能购买更多的东西，过上更富足的生活。这意味着有更多的时间陪伴家人，更多的时间陪伴朋友，更多的时间探索有趣的机会。所以，你知道，我们已经讨论过很多次这个问题了。我知道我不是……
+
+**Jason Calacanis:**
+
+No, it's important to bring it up, I think, and and really unpack it
+because the fear is peaking now, Sachs. People are using this moment in
+time to scare people that hey the jobs are going to go away and they
+won't come back. But what we're seeing on the ground saxs is I'm seeing
+many more startups getting created and able to accomplish more tasks and
+hit a higher revenue per employee than they did in the last two cycles.
+So it used to be you know you try to get to a quarter million in revenue
+per employee than 500. Now we're regularly seeing startups hit a million
+dollars in revenue per employee, something that was rarified air
+previously, which then speaks to your point, Freeberg, that there'll be
+more abundance. There'll be more capital generated, more more capital
+deployed, with more capital deployed for more opportunities, but you're
+going to need to be more resilient.
+
+不，我认为提出来很重要，并且要真正地深入分析，因为恐惧现在正在达到顶峰，萨克斯。人们正在利用这个时机来恐吓人们，说嘿，工作岗位会消失，而且不会再回来。但我们在实地看到的情况是，萨克斯，我看到更多的初创公司正在创建，并且能够完成更多的任务，实现比前两个周期更高的每位员工收入。所以过去，你知道，你试图达到每位员工25万美元的收入，然后是50万美元。现在我们经常看到初创公司达到每位员工100万美元的收入，这在以前是凤毛麟角的事情，这就印证了你的观点，弗里伯格，即会有更多的富足。会产生更多的资本，部署更多的资本，随着更多资本部署到更多机会上，但你需要更有韧性。
+
+**David Sacks:**
+
+I think yeah, I think it's actually very hard to completely eliminate a
+human job. The ones that you cited and JCal you keep citing the same
+ones because I actually don't think there's that many that fit in this
+category the drivers and maybe level one customer support because those
+jobs are so monolithic but when you think about even like what a
+salesperson does right it's like yes they spend a lot of time with
+prospects but they also spend time negotiating contracts and they spend
+time doing post-sale implementation and follow-up and they spend time
+learning the product and giving feedback I mean it's a multifaceted job
+and you can use AI to automate pieces of it, but to eliminate the whole
+job is actually very hard. And so I just think this idea that boom, 20%
+of the workforce is going to be unemployed in two years. I just don't
+think that it's going to work that way. But look, if there is widespread
+job disruption, then obviously the government's going to have to react
+and we're going to be in a very different societal order. But my point
+is, you want the government to start reacting now before this actually
+happens. We don't need to be precogs and predict it.
+
+我想是的，我认为完全消除一个人的工作实际上非常困难。你引用的那些，JCal
+你一直引用同样的例子，因为我实际上不认为有那么多属于这个类别——司机，也许还有一级客户支持——因为那些工作太单一了。但是当你思考，比如说，一个销售人员做什么，对吧？是的，他们花很多时间与潜在客户打交道，但他们也花时间谈判合同，他们花时间做售后实施和跟进，他们花时间学习产品并提供反馈。我的意思是，这是一个多方面的工作，你可以使用AI来自动化其中的一部分，但要完全消除整个工作实际上非常困难。所以我只是认为，这种“砰”的一声，两年内20%的劳动力将失业的想法，我只是不认为事情会那样发展。但是，看，如果出现大范围的工作中断，那么政府显然将不得不做出反应，我们将处于一个非常不同的社会秩序中。但我的观点是，你希望政府现在就开始做出反应，在这一切真正发生之前。我们不需要成为先知并预测它。
+
+**Jason Calacanis:**
+
+Yeah. It's a total power grab. It's a total power grab to give the
+government and these organizations more power before the risk is even
+manifested. And let me say this as well with respect to all these
+regulations that were created, the 100-page by NEO and the 200-page
+diffusion rule, none of these regulations solve the excess problem. None
+of these things actually would prevent the most existential risk that
+we're talking about. They don't solve for alignment. They don't sign for
+the kill switch. None of that.
+
+是的。这完全是攫取权力。这完全是在风险甚至尚未显现之前，就赋予政府和这些组织更多权力的攫取行为。关于所有这些制定的法规，那份长达100页的NEO法规和200页的扩散规则，我也想说，这些法规都没有解决过剩问题。这些东西实际上都无法阻止我们正在谈论的最具生存威胁的风险。它们没有解决对齐问题。它们没有签署终止开关协议。这些都没有。
+
+**David Sacks:**
+
+Yeah. If someone actually figures out how to solve that problem, I'm all
+ears. You know, look, I'm not cavalier about these risks. I understand
+that they exist, but I'm not in favor of the fear-mongering. I'm not in
+favor of giving all this power to the government before you even know
+how to solve these problems.
+
+是的。如果有人真的想出如何解决那个问题，我洗耳恭听。你知道，看，我对这些风险并非漠不关心。我理解它们的存在，但我不同意危言耸听。我不同意在你知道如何解决这些问题之前就把所有这些权力交给政府。
+
+**Jason Calacanis:**
+
+Chamath, you did a tweet about entry-level jobs being toast. So, I think
+there is a nuance here. And both parties could be correct. I think the
+job destruction is happening as we speak. I'll just give what one
+example and then drop to you, Chamath. One job in startups that's not
+driving a car or you know super entry level was people would hire
+consultants to do recruitment and to write job descriptions. Now I was
+at a dinner last night talking to a bunch of founders here in Singapore
+and I said how many people have used AI to write a job description?
+Everybody's hand went up. I said how many of you with that job
+description was that job description better than you could have written
+or any consultant? And they they all said yes 100% AI is better at that
+job. That was a job a high-level HR recruitment job or an aspect of it
+Sachs. So that was half the job, a third of the job. To your point, the
+chores are being automated. So I do think we're going to see entry-level
+jobs. Chamath, the ones that get people into an organization, maybe
+they're going away. And that was that your point of your tweet, which
+we'll pull up right here.
+
+查马斯，你发了一条关于入门级工作完蛋了的推文。所以，我认为这里有一个细微差别。双方都可能是正确的。我认为职位摧毁正在发生。我只举一个例子，然后把话筒交给你，查马斯。初创公司中有一项工作，不是开车，也不是你知道的超级入门级的工作，那就是人们会聘请顾问来进行招聘和撰写职位描述。昨晚我在新加坡和一群创始人共进晚餐，我问有多少人用AI写过职位描述？所有人都举手了。我说，你们当中有多少人认为那个职位描述比你们自己写的或任何顾问写的都要好？他们都说，是的，100%
+AI
+在那方面做得更好。那是一项工作，一项高级的人力资源招聘工作，或者是其中的一个方面，萨克斯。所以那是工作的一半，三分之一。正如你所说，琐事正在被自动化。所以我确实认为我们会看到入门级工作。查马斯，那些能让人进入一个组织的工作，也许它们正在消失。这就是你那条推文的观点，我们现在就把它调出来。
+
+**Chamath Palihapitiya:**
+
+If a GPT is a glorified autocomplete, how did we used to do glorified
+autocomplete in the past? It was with new grads. New grads were our
+autocomplete. And to your point, the models are good enough that it
+effectively allows a person to rise in their career without the need of
+new grad grist for the mill, so to speak. So, I think the reason why
+companies aren't hiring nearly as many new grads is that the the folks
+that are already in a company can do more work with these tools. And and
+I think that that's a very good thing. So you're generally going to see
+OPEX as a percentage of revenue shrink naturally and you're going to
+generally see revenue per employee go up naturally but it's going to
+create a tough job market for new grads in the established
+organizations. And so what should new grads do? They should probably
+steep themselves in the tools and go to younger companies or start a
+company. I think that's the only solution for them.
+
+如果GPT是一个美化了的自动完成工具，那么过去我们是如何进行这种美化了的自动完成的呢？是用应届毕业生。应届毕业生就是我们的自动完成工具。正如你所说，这些模型已经足够好，以至于它有效地允许一个人在职业生涯中晋升，而不需要所谓的应届毕业生来充当炮灰。所以，我认为公司之所以没有招聘那么多应届毕业生的原因是，公司里现有的人员可以使用这些工具完成更多的工作。而且我认为这是一件非常好的事情。所以你通常会看到运营支出占收入的百分比自然下降，你通常会看到每位员工的收入自然上升，但这会在成熟的组织中为应届毕业生创造一个艰难的就业市场。那么应届毕业生应该怎么做呢？他们可能应该沉浸在这些工具中，去更年轻的公司或者自己创业。我认为这是他们唯一的解决方案。
+
+**David Sacks:**
+
+Bingo. The most important thing for whether there are jobs available for
+new grads or not is whether the economy is booming. So obviously in the
+wake of a financial crisis, the jobs dry up because everyone's cost
+cutting and those jobs are the first ones to get cut. But if the economy
+is booming, then there's going to be a lot more job creation. And so
+again, if AI is this driver and enabler of tremendous productivity,
+that's going to be good for economic growth. And I think that that will
+lead to more company formation, more company expansion at the same time
+that you're getting more productivity. Now, to give an example, one of
+the things I see a lot discussed online about these coding assistants is
+that they make junior programmers much better because, you know, if
+you're already like a 10x programmer, very experienced, you already knew
+how to do everything. And you could argue that the people who benefit
+the most are the entry-level coders who are willing to now embrace the
+new technology and it makes them much more productive. So in other
+words, it's a huge leveler and it takes an entry-level coder and makes
+them 5x or 10x better. So look, this is an argument I see online. The
+point is just I don't think we know how this cuts yet. I agree.
+
+答对了。对于应届毕业生是否有工作机会而言，最重要的事情是经济是否繁荣。所以很明显，在金融危机之后，工作机会会枯竭，因为每个人都在削减成本，而那些工作是最先被削减的。但如果经济繁荣，那么就会有更多的工作岗位被创造出来。所以再次强调，如果AI是这种巨大生产力的驱动者和推动者，那将对经济增长有利。我认为这将导致更多的公司成立和扩张，同时你也会获得更高的生产力。现在，举个例子，我看到网上经常讨论这些编码助手的一点是，它们让初级程序员变得更好，因为，你知道，如果你已经是一个10倍效率的程序员，非常有经验，你已经知道如何做所有事情了。你可以说，受益最大的是那些愿意现在拥抱新技术并因此变得更有效率的入门级程序员。换句话说，这是一个巨大的平衡器，它能让一个入门级程序员的效率提高5倍或10倍。所以看，这是我在网上看到的一个论点。关键是我认为我们还不知道这将如何发展。我同意。
+
+**Chamath Palihapitiya:**
+
+And I just think there's like this this doomerism is premature and it's
+not a coincidence that it's being funded and motivated by this hardcore
+ideological element.
+
+我只是觉得这种末日论为时过早，而且它受到这种铁杆意识形态因素的资助和驱动并非巧合。
+
+**David Sacks:**
+
+I'll tell you my hiring experience. We have about 30 people at 8090 and
+the way that I have found it to work the best is you have senior people
+act as mentors and then you have an overwhelming corpus of young very
+talented people who are AI native. And if you don't find that mix, what
+you have instead are L7s from Google and Amazon and Meta who come to you
+with extremely high salary demands and stock demands and they just don't
+thrive. And part of why they don't thrive is that they push back on the
+tools and how you use them. They push back on all these things that the
+tools help you get to it faster.
+
+我来告诉你我的招聘经验。我们在 8090 大约有 30
+名员工，我发现效果最好的方式是让资深员工担任导师，然后你拥有一大批非常年轻、才华横溢、精通
+AI 的人才。如果你找不到这种组合，那么你得到的将是来自谷歌、亚马逊和 Meta
+的 L7
+级别员工，他们会提出极高的薪资和股票要求，但他们就是无法茁壮成长。他们无法茁壮成长的部分原因是他们抵制这些工具以及你如何使用它们。他们抵制所有这些能帮助你更快完成工作的工具。
+
+**Chamath Palihapitiya:**
+
+This is why I think it's so important for the young folks to just jump
+in with two feet and be AI native from the jump because you're much more
+hirable frankly to the to the emergent company and the bigger companies
+you'll have a lot of these folks that see the writing on the wall may
+not want to adapt as fast as otherwise. Another way for example that you
+can measure this is if you look inside your company on the productivity
+lift of some of these coding assistants for people as a distribution of
+age. What you'll see is the younger people leverage it way more and have
+way more productivity than older folks. And I'm not saying that as an
+ageist comment. I'm saying that it's an actual reflection of how people
+are reacting to these tools.
+
+这就是为什么我认为年轻人从一开始就全身心投入并成为AI原住民如此重要，因为坦率地说，对于新兴公司和大型公司来说，你更容易被录用。你会发现很多看到不祥之兆的人可能不想那么快适应。例如，衡量这一点的另一种方法是，如果你观察公司内部，这些编码助手对不同年龄段人群生产力提升的分布情况。你会发现，年轻人更多地利用它，生产力也远高于年长的人。我这么说并不是年龄歧视。我说的是，这真实反映了人们对这些工具的反应。
+
+**David Sacks:**
+
+What you're describing is a paradigm shift. It is a big leap. Is you
+know it's like when I went to college, when I took computer science, it
+was object-oriented programming. It was like C++. It was compiled
+languages. It was gnarly. It was nasty work. And then you had these
+high-level abstracted languages. And I used to remember at Facebook, I
+would just get so annoyed because I was like, why is everybody using PHP
+and Python? This is like not even real. But I was one of these old
+lights who didn't understand that I just had to take the leap. And what
+it did was it grew the top of the funnel of the number of developers by
+10x. And as a result, what you had were all of these advancements for
+the internet. And I think what's happening right now is akin to the same
+thing where you're going to grow the number of developers upstream by
+10x. But in order to embrace that, you just have to jump in with two
+feet. And if you're very rigid in how you think the job should be done
+technically, I think you're just going to get left behind.
+
+你所描述的是一种范式转变。这是一个巨大的飞跃。你知道，这就像我上大学时，我学计算机科学，那是面向对象编程。就像C++。那是编译型语言。非常棘手。那是很讨厌的工作。然后你有了这些高级抽象语言。我以前在Facebook的时候，我常常会非常恼火，因为我会想，为什么每个人都在用PHP和Python？这简直不像真的。但我就是那些老顽固之一，不明白我只需要迈出那一步。而它所做的就是将开发者数量的漏斗顶部扩大了10倍。结果就是，你拥有了所有这些互联网的进步。我认为现在发生的事情与此类似，你将把上游的开发者数量增加10倍。但为了拥抱这一点，你必须全身心投入。如果你在技术上对工作应该如何完成非常固执，我认为你只会被甩在后面。
+
+**Jason Calacanis:**
+
+Just a little interesting statistic there. Microsoft announced 6,000 job
+layoffs, about 3% of their workforce, while putting up record profits
+while being in incredible cash position.
+
+这里有一个有趣的小数据。微软宣布裁员6000人，约占其员工总数的3%，而与此同时，该公司却创下了利润记录，并拥有令人难以置信的现金状况。
+
+**David Sacks:**
+
+Total confirmation bias. It's like now every time there's a layoff
+announcement, people try to tie it to AI to feed this doomer story. I
+don't think that's an AI story. I well I actually think it I don't think
+it's an AI story.
+
+完全是确认偏误。现在每次有裁员公告，人们都试图将其与AI联系起来，以助长这种末日论。我不认为这是一个AI的故事。嗯，我实际上认为它……我不认为这是一个AI的故事。
+
+**Jason Calacanis:**
+
+I think it is because the people they're eliminating are management and
+I think the the management layer becomes less you're saying it was it
+was entry level employees. Now you're saying it's management. This is
+total confirmation. I think those are no no I think those are two areas
+that specifically get eliminated. Entry level it's too hard. It it's too
+hard to give them the grunt work. And then for the managers who are old
+and I've been there for 20 years. Hold on. Let me finish. Th for those
+people I think they are unnecessary in this new AI management.
+
+我认为是这样，因为他们裁掉的是管理层，而且我认为管理层变得不那么……你说的是入门级员工。现在你又说是管理层。这完全是确认。我认为那些……不，不，我认为那两个领域是特别会被裁掉的。入门级太难了。太难让他们做那些繁重的工作了。然后对于那些年纪大、在那里工作了20年的经理。等等。让我说完。对于那些人，我认为在这个新的人工智能管理中，他们是不必要的。
+
+**David Sacks:**
+
+What are you talking about? What what is the AI agent that's doing
+management right now in companies? Oh theory doesn't even make sense.
+
+你在说什么？现在公司里有什么AI代理在做管理工作吗？哦，理论上都说不通。
+
+**Jason Calacanis:**
+
+Oh no it it totally does. There are tools now that are telling you this
+is these are the most productive people in the organization. Chamath
+just outlined who's shipping the most etc. who's using the tools. And
+then people are saying, well, why do we have all these highly priced
+people who are not actually shipping code who are LSAs? You're totally
+falling for some sort of narrative here. This makes no sense.
+
+哦不，它完全可以。现在有一些工具会告诉你，这些人是组织中生产力最高的人。查马斯刚才概述了谁交付最多等等，谁在使用这些工具。然后人们会说，好吧，为什么我们有这么多高薪的人，他们实际上并没有交付代码，他们是大型语言模型助手（LSA）？你完全陷入了某种叙事。这根本说不通。
+
+**David Sacks:**
+
+I don't think I am.
+
+我不认为我是。
+
+**Chamath Palihapitiya:**
+
+Yeah, let me be very clear what I'm saying. What I am saying is AI
+natives are extremely productive. They use these tools. They're very
+familiar with them. I think it's very reductive, but what you see is the
+older or more established in your career you are in technical roles,
+what I see is that it's harder and harder for folks like that to embrace
+these tools in the same way. Now, how does it play out in terms of jobs?
+I think that just these tools are good enough where the net new
+incremental task-oriented role that would typically go to a new grad, a
+lot of that can be defrayed by these models. That's what I'm saying very
+clear specifically and I don't think that speaks to management. I agree
+with Sax. It doesn't do...
+
+是的，让我非常清楚地说明我的意思。我想说的是，AI原住民的生产力极高。他们使用这些工具。他们对这些工具非常熟悉。我认为这过于简化了，但你看到的是，你在技术岗位上的职业生涯越久或越成熟，我看到的是，像那样的人越来越难以用同样的方式接受这些工具。那么，这在就业方面是如何体现的呢？我认为，仅仅这些工具就足够好了，那些通常会分配给应届毕业生的净新增的、增量的、面向任务的角色，其中很多都可以由这些模型来承担。这就是我非常明确地具体说明的，我不认为这涉及到管理层。我同意萨克斯的观点。它不会做……
+
+**Jason Calacanis:**
+
+Sergey said Freeberg when he came to our F1 that management would be the
+first thing to go. I was talking to some entrepreneurs last night again
+here in Singapore and they are taking all the GitHub and and Jira cards
+and and things that have been submitted plus all the Slack messages in
+their organization and they're putting them into an LLM and having it
+write management reports of who is the most productive in the
+organization. And in the new version of Windows, it's monitoring your
+entire desktop. Freeberg management is going to know who in the
+organization is actually doing work, what work they're doing, and what
+the result of that work is through AI. That is the future of management.
+And you take out all bias, all you know, loyalty, and the AI is going to
+do that. Couldn't disagree with you more saxs on that, but Freeberg, you
+wanted to wrap somewhere on this point.
+
+谢尔盖（Sergey）在来到我们F1赛场时对弗里伯格说，管理层将是首先被淘汰的。昨晚我在新加坡又和一些企业家交谈，他们正在将所有的GitHub和Jira卡片以及已提交的内容，再加上他们组织中所有的Slack消息，都输入到一个大型语言模型（LLM）中，让它撰写管理报告，指出组织中谁的生产力最高。在新版本的Windows中，它会监控你的整个桌面。弗里伯格，管理层将通过AI了解组织中谁在实际工作，他们在做什么工作，以及工作的结果是什么。这就是管理的未来。你消除了所有的偏见，所有的，你知道的，忠诚度，而AI将会做到这一点。萨克斯，在这点上我完全不同意你的看法，但是弗里伯格，你想在这点上做个总结。
+
+**David Sacks:**
+
+My point is that AI managers are not losing their job because AI is
+replacing them. I didn't say that AI wouldn't be a valuable tool for
+managers to use. Sure, AI would be a great tool for managers, but we're
+not anywhere near the point where managerial jobs are being eliminated
+because they're getting replaced by AI agents. We're still at the
+chatbot stage of this.
+
+我的观点是，AI经理们并没有因为AI取代他们而失业。我并没有说AI不会成为经理们使用的有价值的工具。当然，AI对经理们来说会是一个很棒的工具，但我们远未达到管理岗位因为被AI代理取代而被淘汰的程度。我们目前仍处于这个过程的聊天机器人阶段。
+
+**Jason Calacanis:**
+
+Literally, Sergey said he took their internal Slack, went into like a
+dev conversation, and said, "Who are the underrated people in this
+organization who deserve a raise?" and it gave him the right answer. So,
+wait, that doesn't allow you to cut 6,000 people. I think it's happening
+as we speak. It's just not over.
+
+буквально, Сергей сказал, что он взял их внутренний Slack, зашел в
+разговор разработчиков и спросил: «Кто недооцененные люди в этой
+организации, которые заслуживают повышения?» и он получил правильный
+ответ. Так что, подождите, это не позволяет вам сократить 6000 человек.
+Я думаю, это происходит прямо сейчас. Это просто еще не конец.
+
+**David Sacks:**
+
+You fell for this narrative. You grasped onto this Microsoft
+restructuring where they eliminated 6,000 roles and you're trying to
+attribute that to AI now.
+
+你被这种说法骗了。你抓住了微软重组裁掉6000个职位这件事，现在想把它归咎于AI。
+
+**Jason Calacanis:**
+
+I think it has to do with AI. I think management is looking at it
+saying, "We are going to replace these positions with AI. We might as
+well get rid of them now." It is in flux. We'll see who's right in the
+coming months.
+
+我认为这与AI有关。我认为管理层正在审视这个问题，并说：“我们将用AI取代这些职位。我们不妨现在就摆脱它们。”情况正在变化。我们将在未来几个月看到谁是对的。
+
+
+
+## The "AI Race" and Global Implications / “AI竞赛”及其全球影响
+
+<div class="speaker-turn">
+
+**David Freeberg:**
+
+Can I make another comment, JCal? Wrap this up here so we can get on to
+the next topic. This is a great topic. This is I want to make one last
+point which I think and Sax you may not appreciate this so we can have a
+a healthy argument about this. I think in the same way that all of this
+jobs are going to get lost to AI fear-mongering. There's a similar
+narrative that I think is a false narrative around there's a race in AI
+that's underway between nation states. And the reason I think it's false
+is if I asked you guys the question, who won the industrial revolution?
+The industrial revolution benefited everyone around the world. There are
+factories and there's a continuous effort and continuous improvements in
+manufacturing processes worldwide. That is a continuation of that
+revolution. Similar if I asked who won the internet race, there were
+businesses built out of the US, businesses built out of China,
+businesses built out of India and Europe that have all created value for
+shareholders, created value for consumers, changed the world, etc. And I
+think the same is going to happen in AI. I don't think that there's a
+finish line in AI. I think AI is a new paradigm of work, a new paradigm
+of productivity, a new paradigm of business, of the economy, of
+livelihoods, of pretty much everything uh every interaction humans have
+with ourselves and the world around us will have in its substrate AI and
+as a result, I think it's going to be this continuous process of
+improvement. So, I'm not sure. Look, there there are different models
+and you can look at the performance metrics of models, but you can get
+yourself spun up into a tizzy over which model is ahead of the others.
+Which one's going to quote get to the finish line first? But I think at
+the end of the day, the abundance and the economic prosperity that will
+arise from the continuous performance improvements that come out of AI
+and AI development will benefit all nation states and actually could
+lead to a little bit more of a less resource constrained world where
+we're all fighting over limited resources and there's nation state
+definitions around who has access to what and perhaps more abundance
+which means more peace and uh less of this kind of resourced world. Your
+thought on the kumbaya theory exposed by Freeberg.
+
+我能再发表一个评论吗，JCal？在这里结束这个话题，这样我们就可以进入下一个话题了。这是一个很棒的话题。这是我想提出的最后一点，我认为萨克斯你可能不会认同这一点，所以我们可以就此进行健康的辩论。我认为，就像所有这些工作都会因为AI的危言耸听而消失一样。围绕着国家之间正在进行的AI竞赛，也存在类似的叙事，我认为这是一种错误的叙事。我认为它是错误的原因是，如果我问你们这个问题，谁赢得了工业革命？工业革命惠及了全世界的每一个人。工厂林立，全球制造业流程持续努力和不断改进。这是那场革命的延续。类似地，如果我问谁赢得了互联网竞赛，美国、中国、印度和欧洲都涌现出了企业，它们都为股东创造了价值，为消费者创造了价值，改变了世界等等。我认为同样的事情也会发生在AI领域。我不认为AI有终点线。我认为AI是一种新的工作范式，一种新的生产力范式，一种新的商业范式，一种新的经济范式，一种新的生计范式，几乎所有人类与自身以及周围世界的互动都将以AI为基础，因此，我认为这将是一个持续改进的过程。所以，我不确定。看，有不同的模型，你可以查看模型的性能指标，但你可能会因为哪个模型领先于其他模型而陷入困境。哪个模型会首先“到达终点线”？但我认为，归根结底，AI和AI发展带来的持续性能改进所产生的富足和经济繁荣将惠及所有国家，实际上可能导致一个资源约束更少的世界，我们不再为有限的资源而战，不再有国家对谁能获得什么资源的界定，也许会有更多的富足，这意味着更多的和平，以及更少这种资源匮셔的世界。你对弗里伯格提出的“
+kumbaya”理论有何看法？
+
+**David Sacks:**
+
+Yeah, exactly. Um I I'll partially agree in the sense that I don't think
+the AI race is a finite game. It's an infinite game. I I agree that
+there's no finish line, but that doesn't mean there's not a race going
+on. So for example, an arms race would be a classic example of a
+competition between countries to see who is stronger to basically amass
+power and they might be neutralizing each other. The balance of power
+may stay in equilibrium even though both sides feel the need to
+constantly uplevel their arms, their power. Yeah. And so I think that to
+use the the term that Mearsheimer used at the all-in summit, we are in
+an iron cage. The US and China are the two leading countries in the
+world economically, militarily, technologically. They both care about
+their survival. The best way to ensure your survival in a self-help
+world is by being the most powerful. And so these are great powers who
+care a lot about the balance of power. And they will compete vigorously
+with each other to maintain the greatest balance of power between them.
+and high-tech is a major dimension of that competition and within
+high-tech AI is the most important field. So look, there is going to be
+an intense competition around AI. Now the question is how does that end
+up? I mean it could end up in a tie or in it could end up in a situation
+where both countries benefit. Maybe open source wins. Maybe neither side
+gains a decisive advantage. that they're absolutely going to compete
+because neither one can afford to take the risk that the other one will
+develop a decisive advantage. Prisoners dilemma.
+
+是的，完全正确。嗯，我部分同意，因为我不认为AI竞赛是一场有限的游戏。它是一场无限的游戏。我同意没有终点线，但这并不意味着没有竞赛在进行。例如，军备竞赛就是一个典型的例子，国家之间竞争看谁更强大，以积聚力量，它们可能会相互制衡。即使双方都觉得需要不断提升自己的武器和力量，权力平衡也可能保持均衡。是的。因此，我认为，用米尔斯海默（Mearsheimer）在全体峰会上使用的术语来说，我们处于一个铁笼之中。美国和中国是世界上经济、军事和技术领先的两个国家。它们都关心自己的生存。在一个自助的世界里，确保生存的最佳方式就是成为最强大的国家。因此，这些大国非常关心权力平衡。它们将激烈竞争，以维持它们之间最大的权力平衡。高科技是这场竞争的一个主要方面，而在高科技领域，AI是最重要的领域。所以，看，围绕AI将会有一场激烈的竞争。现在的问题是，结果会怎样？我的意思是，它可能以平局告终，或者可能出现两国都受益的情况。也许开源会赢。也许任何一方都无法获得决定性的优势。它们绝对会竞争，因为任何一方都承担不起另一方发展出决定性优势的风险。囚徒困境。
+
+**David Freeberg:**
+
+Nuclear proliferation is a good analogy. I would argue nuclear
+deterrence led to a more peaceful world in the 20th century. I mean is
+that fair to say Sax that ultimately what happened with nuclear is that
+the actual underlying technology hit you know an asymptote right it
+plateaued right and so we ended up in a situation where in the case of
+the United States versus Soviet Union where both sides had enough nukes
+to blow up the world many times over and there wasn't really that much
+more to innovate so you know the the the underlying technological
+competition had ended the the dynamic was more stable and they were able
+to reach an arms control framework to sort of control the arms race,
+right?
+
+核扩散是一个很好的类比。我认为核威慑在20世纪带来了更和平的世界。我的意思是，萨克斯，这样说公平吗？核武器最终发生的情况是，实际的底层技术达到了，你知道的，一个渐近线，对吧？它达到了平台期，对吧？所以我们最终陷入了这样一种情况，在美国对苏联的情况下，双方都拥有足以多次摧毁世界的核武器，而且确实没有太多可以创新的地方了，所以你知道，底层的技术竞争已经结束，动态更加稳定，他们能够达成一个军备控制框架来某种程度上控制军备竞赛，对吧？
+
+**David Sacks:**
+
+I think AI is a little different. We're in a situation right now where
+the technology is changing very very rapidly and it's potentially on
+some sort of exponential curve and so therefore being a year ahead even
+6 months ahead could result in a major advantage. I think under those
+conditions both sides are going to feel the need to compete very
+vigorously. I don't think they can sign up.
+
+我认为AI有点不同。我们现在所处的情况是，技术变化非常非常迅速，而且它可能处于某种指数曲线上，因此领先一年甚至六个月都可能带来重大优势。我认为在这种情况下，双方都会感到有必要进行非常激烈的竞争。我不认为他们可以签约。
+
+**David Freeberg:**
+
+This is a system of productivity right for an agreement to slow each
+other down. I just don't nuclear was not a system of productivity. It
+was not a system of economic growth. It was a system of literally
+destruction. And this is quite different. This is a system of making
+more with less which unleashes benefits to everyone in a way that
+perhaps should be calming down the conflict in the potential.
+
+这是一个生产力系统，对吧？为了达成协议而互相拖慢对方。我只是觉得核武器不是一个生产力系统。它不是一个经济增长系统。它是一个字面意义上的毁灭系统。而这个则完全不同。这是一个用更少的资源创造更多价值的系统，它以一种或许应该平息潜在冲突的方式，为每个人释放利益。
+
+**David Sacks:**
+
+You got to admit that there's a there is a potential dual use here.
+There's no question that the armies of the future are going to be drones
+and robots and they're going to be AI powered. Yeah. And as long as
+that's the case, these countries are going to compete vigorously to have
+the best AI and they're going to want their leaders or national
+champions or startups and so forth to win the race.
+
+你必须承认这里存在潜在的双重用途。毫无疑问，未来的军队将是无人机和机器人，它们将由人工智能驱动。是的。只要情况如此，这些国家就会激烈竞争以拥有最好的人工智能，并且他们会希望他们的领导人、国家冠军或初创公司等等赢得这场竞赛。
+
+**Jason Calacanis:**
+
+What's the worst case, Saxs, if if China wins the AI race? What is the
+worst case scenario? Ask what it means first. Ask Sax. That's literally
+what I'm asking. Like what would that scenario be? Would they invade
+America and they dominate us forever? What does it mean to citizen?
+
+萨克斯，如果中国赢得AI竞赛，最坏的情况是什么？最坏的情况是什么？先问问这意味着什么。问问萨克斯。这正是我在问的。比如那种情况会是什么样的？他们会入侵美国并永远统治我们吗？这对公民意味着什么？
+
+**David Sacks:**
+
+Yeah. What does it mean to win? Yeah. To me, it would mean that they
+achieve a decisive advantage in AI such that we can't leapfrog them
+back. And an example of this might be something like 5G where Huawei
+somehow leapfrogged us, got to 5G first and disseminated it through the
+world. They weren't concerned about diffusion. They were interested in
+promulgating their technology throughout the world. If the Chinese win
+AI, they will sell more products and services around the globe than the
+US. This is where we have to change our mindset towards diffusion. I
+would define winning as the whole world consolidates around the American
+tech stack. They use American hardware in data centers that again are
+are fundamentally powered by American technology. And you know just look
+at market share. Okay? If we have like 80 to 90% market share that's
+winning. If they have 80% market share then we're in big trouble.
+
+是的。赢得意味着什么？是的。对我来说，这意味着他们在AI领域取得了决定性的优势，以至于我们无法反超他们。这方面的一个例子可能是像5G这样的事情，华为以某种方式超越了我们，首先达到了5G，并将其传播到全世界。他们不关心扩散问题。他们感兴趣的是在全世界推广他们的技术。如果中国人赢得AI，他们将在全球销售比美国更多的产品和服务。这就是我们必须改变对扩散的心态的地方。我会将“赢得”定义为整个世界都围绕美国的科技堆栈进行整合。他们在数据中心使用美国硬件，这些数据中心再次基本上由美国技术驱动。而且你知道，只要看看市场份额就知道了。好吧？如果我们拥有80%到90%的市场份额，那就是赢了。如果他们拥有80%的市场份额，那我们就麻烦大了。
+
+**David Freeberg:**
+
+So it's very simple. It means like yeah but if the market grows up by
+10x it doesn't matter because the world will have every individual in
+every country will now have more they will have a more prosperous life
+and as a result it's not necessarily the framing about if we don't get
+there first we are necessarily going to lose I get that there's an edge
+case of conflict or what have you but I do think that there's a net
+benefit where the whole world suddenly is in this more prosperous state
+and this is a classic example of a dual use technology where there are
+both economic benefits and there are military benefits. Yes, GPS would
+come to mind in this example, right?
+
+所以这很简单。这意味着，是的，但是如果市场增长10倍，那也没关系，因为世界上的每个国家的每个人现在都会拥有更多，他们会过上更繁荣的生活，因此，这不一定是我们不先到达那里就必然会输的框架。我明白存在冲突或其他情况的极端案例，但我确实认为存在净收益，整个世界突然处于这种更繁荣的状态，这是一个军民两用技术的典型例子，既有经济效益，也有军事效益。是的，在这个例子中，GPS会浮现在脑海，对吧？
+
+**David Sacks:**
+
+Like my summary point is just that it's not all about a losing game with
+respect to this quote race with other nation states. But at the end of
+the day, yes, there is risk, but I do think that if the the pace of
+improvement stays on track like it is right now, holy \[ \_\_ \] I think
+we're in a pretty good place. That's just my point.
+
+我的总结观点是，就这场与其他国家的所谓竞赛而言，并非完全是一场输局。但归根结底，是的，存在风险，但我确实认为，如果改进的步伐像现在这样保持下去，天哪，我认为我们处境相当不错。这就是我的观点。
+
+**Jason Calacanis:**
+
+Okay. Some positivity.
+
+好的。一些积极的方面。
+
+**David Sacks:**
+
+Okay. Look, I I hope that the AI race stays entirely positive and it's a
+healthy competition between nations and the competition spurs them on to
+develop more prosperity for their citizens. But as we talked about in
+the AI summit, there's two ways of looking at the world. There's kind of
+the economist way that Jeffrey Sachs was talking about and then there's
+the balance of power way or realist way which Mearsheimer was talking
+about. And when economic prosperity and survival or balance of power
+come into conflict, it's the realist view of the world that it's the
+balance of power that gets privileged. And I just think that's the way
+that governments operate is that prosperity is incredibly important. We
+want economic success, but power is ultimately privileged over that. And
+this is why we're going to compete vigorously in high-tech. That's why
+there is going to be an AI race.
+
+好的。看，我希望AI竞赛能完全保持积极态势，成为国家间的健康竞争，并且这种竞争能激励它们为公民发展更多的繁荣。但正如我们在AI峰会上讨论的那样，看待世界有两种方式。一种是杰弗里·萨克斯（Jeffrey
+Sachs）谈到的经济学家的方式，另一种是米尔斯海默（Mearsheimer）谈到的权力平衡或现实主义的方式。当经济繁荣与生存或权力平衡发生冲突时，现实主义的世界观认为权力平衡优先。我只是认为政府就是这样运作的，繁荣固然极其重要。我们希望经济成功，但权力最终优先于此。这就是为什么我们将在高科技领域激烈竞争。这就是为什么会有一场AI竞赛。
+
+
+
+## The Big Beautiful Bill (BBB) Discussion Revisited / 再议“大而美法案”（BBB）
+
+<div class="speaker-turn">
+
+**Jason Calacanis:**
+
+Okay, perfect segue. We should talk a little bit about what was the
+topic of discussion yesterday. I had a lunch with a bunch of family
+offices and capital allocators uh government folks here in Singapore and
+they were talking about our discussion last week about the big beautiful
+bill and the debt here in the United States. It's permeating everywhere.
+The two conversations at every stop I've made here is the big beautiful
+bill and the balance sheet of the United States as well as tariffs. So,
+we need to maybe revisit our discussion last week. Chamath, you had uh
+and Freeberg did a an impromptu call with Ron Johnson over the weekend,
+which then spurred him going on 20 other podcasts to talk about this.
+Steven Miller from the administration has been tweeting some corrections
+or his perceived corrections about the bill. And Sax, uh, I think you've
+also started tweeting this. Where do we want to start? Maybe.
+
+好的，完美的过渡。我们应该谈谈昨天讨论的话题。我在新加坡和一些家族办公室、资本配置者以及政府官员共进午餐，他们谈到了我们上周关于“大而美法案”以及美国债务的讨论。这个问题无处不在。我在这里的每一站，谈论的两个话题都是“大而美法案”、美国的资产负债表以及关税。所以，我们可能需要重新审视一下上周的讨论。查马斯，你和弗里伯格在周末与罗恩·约翰逊（Ron
+Johnson）进行了一次即兴通话，这促使他又参加了20个其他播客来谈论这个问题。政府的史蒂文·米勒（Steven
+Miller）一直在推特上发布一些关于该法案的更正或他认为的更正。萨克斯，呃，我想你也开始在推特上谈论这个了。我们想从哪里开始呢？也许。
+
+**David Sacks:**
+
+Well, I think there are just a couple of facts that should be cleaned up
+because Okay, so facts from the administration, their view of our
+discussion. Well, even though I was defending the bill last week on the
+whole, I wasn't saying it was perfect. I was just saying it was better
+than the status quo. Yeah, you were clear about that. Yeah. Yeah. But
+even even I in doing that was conceding some points that I think were
+just factually wrong. And the big one was that I said I was disappointed
+that the DOD/GSE cuts weren't included in the big beautiful bill. What
+Steven Miller has pointed out is that reconciliation bills can only deal
+with what's called mandatory spending. They can't deal with what's
+called discretionary spending. And since the DOD/GSE cuts apply to
+discretionary spending, they just can't be dealt with in a
+reconciliation bill. They have to be dealt with separately. There can be
+a separate rescission bill that comes up, but it can't be dealt with in
+this bill. And just to be very clear, look, if the DOD/GSE cuts don't
+happen through rescission, I'm going to be very disappointed in that. I
+really want the DOD/GSE cuts to happen, but it's just a fact that the
+DOD/GSE cuts cannot happen in the big beautiful bill. It's not that kind
+of bill. And I think it's therefore wrong to blame big beautiful bill
+for not containing DOD/GSE cuts when the Senate rules don't allow that.
+You know, it all goes back to the the Byrd rules. There are only
+specific things that can be dealt with through reconciliation, which is
+this 50 vote threshold, and it has to be quote unquote mandatory
+spending. discretionary cuts are dealt with in annual appropriations
+bills that require 60 votes. Now look, this is kind of a crazy system. I
+don't know exactly how it evolved. I guess Robert Byrd is the one who
+came up with all this stuff and maybe they need to change the system,
+but it's just wrong to blame the big beautiful bill for not containing
+the DOD/GSE cuts. That's just a fact.
+
+嗯，我认为有几个事实应该澄清一下，因为……好吧，来自政府的事实，他们对我们讨论的看法。嗯，尽管我上周总体上是在为这项法案辩护，但我并没有说它是完美的。我只是说它比现状要好。是的，你对此说得很清楚。是的。是的。但即使是我在这样做的时候，也承认了一些我认为在事实上是错误的观点。其中最重要的一点是，我说我对国防部/政府支持企业（DOD/GSE）的削减没有被纳入“大而美法案”感到失望。史蒂文·米勒指出，和解法案只能处理所谓的强制性支出。它们不能处理所谓的可自由支配支出。由于国防部/政府支持企业的削减适用于可自由支配支出，因此它们不能在和解法案中处理。它们必须单独处理。可能会有一个单独的撤销法案出现，但不能在这个法案中处理。需要非常明确的是，看，如果国防部/政府支持企业的削减没有通过撤销来实现，我会对此非常失望。我真的希望国防部/政府支持企业的削减能够发生，但这只是一个事实，即国防部/政府支持企业的削减不能在“大而美法案”中发生。它不是那种法案。因此，我认为指责“大而美法案”没有包含国防部/政府支持企业的削减是错误的，因为参议院的规则不允许这样做。你知道，这一切都归结于伯德规则（Byrd
+rules）。只有特定的事情可以通过和解来处理，也就是这个50票的门槛，而且它必须是所谓的强制性支出。可自由支配的削减是在年度拨款法案中处理的，需要60票。现在看，这有点像一个疯狂的系统。我不知道它究竟是如何演变的。我想是罗伯特·伯德（Robert
+Byrd）想出了所有这些东西，也许他们需要改变这个系统，但指责“大而美法案”没有包含国防部/政府支持企业的削减是错误的。这只是一个事实。
+
+Okay, so the other thing is that the BBB does actually cut spending.
+It's just not scored that way because when the bill removes the sunset
+provision from the 2017 tax cuts, the CBO ends up scoring that as
+effectively a spending increase. But tax rates are simply continuing at
+their current level. In other words, at this year's level. So if you
+used the current year as your baseline, okay, and then compared it to
+spending next year, it would score as a cut in spending. So it's just
+not it's not correct to say this bill increases spending. It does
+actually result in a mandatory spending cut, but it's not getting credit
+for that because we're continuing the tax rates at the current year's
+rates.
+
+好的，另一件事是，“大而美法案”（BBB）确实削减了开支。只是没有那样评分，因为当该法案取消了2017年减税政策中的日落条款时，国会预算办公室（CBO）最终将其评为实际上的开支增加。但税率只是继续维持在当前水平。换句话说，维持在今年的水平。所以如果你以今年为基准，好吧，然后将其与明年的开支进行比较，它将被评为开支削减。所以说这个法案增加了开支是不正确的。它确实导致了强制性开支的削减，但它没有因此获得认可，因为我们正在将税率维持在今年的水平。
+
+**Jason Calacanis:**
+
+Do you believe Sachs that this administration which you are part of in
+four years will have spent will have balanced the budget. Will it have
+reduced the deficit or will the deficit continue to grow at 2 trillion a
+year? What is your belief because there's a lot of strategies going on
+here.
+
+萨克斯，你相信你所在的这个政府在四年内会实现预算平衡吗？它会减少赤字，还是赤字会继续以每年2万亿美元的速度增长？你相信什么，因为这里有很多策略在进行。
+
+**David Sacks:**
+
+Yeah. My my belief is that President Trump came into office inheriting a
+terrible fiscal situation. I mean basically that he created and that
+Biden created. They both put 8 trillion. They both put 8 trillion on the
+debt. It's a big difference. It's a big difference to add to the deficit
+when you're in the emergency phase of COVID for that. Sure. It's
+emergency spending. It was never supposed to be permanent and then
+somehow Biden made it permanent and he wanted a lot more. Remember build
+back better? He wanted a lot more. So, you know, it's it's tough when
+you come into office with a what is \$2 trillion annual deficit. So, to
+my original question, now look, hold on. Would I like to see the deficit
+eliminated in one year? Yeah, absolutely. But there's just not the votes
+for that. Well, I asked you for there's a one vote margin here in the
+House and the Democrats aren't cooperating in any way. So, I think that
+the administration is getting the most done that it can. This is a
+mandatory spending cut and I think the DOD/GSE cuts will be dealt with
+hopefully through rescission in a subsequent bill.
+
+是的。我的信念是，特朗普总统上任时继承了一个糟糕的财政状况。我的意思是，基本上是他和拜登共同造成的。他们都增加了8万亿美元。他们都给债务增加了8万亿美元。这有很大的不同。在新冠疫情的紧急阶段增加赤字，与此相比有很大的不同。当然。那是紧急支出。它从来不应该是永久性的，然后不知何故拜登把它变成了永久性的，而且他还想要更多。还记得“重建更美好未来”（Build
+Back
+Better）吗？他想要更多。所以，你知道，当你上任时面临每年2万亿美元的赤字时，情况很艰难。所以，回到我最初的问题，现在看，等等。我希望在一年内消除赤字吗？是的，绝对希望。但根本没有足够的选票来支持这一点。嗯，我问你，众议院这里只有一票的多数，而民主党人根本不合作。所以，我认为政府正在尽其所能地完成工作。这是一项强制性的支出削减，我认为国防部/政府支持企业（DOD/GSE）的削减有望在后续的法案中通过撤销来处理。
+
+**Jason Calacanis:**
+
+I'm asking you about four years from now. Will we be sitting here in
+four years? Will Trump have cut spending by the end of this term? In
+another three and a half years, will we be looking at a balanced budget?
+potentially is that the goal of the administration or will we be at 42
+44 45 trillion at the end of Trump's second term?
+
+我问的是四年后的事。四年后我们还会坐在这里吗？特朗普会在这个任期结束时削减开支吗？再过三年半，我们会看到预算平衡吗？这可能是政府的目标吗？或者在特朗普第二个任期结束时，我们会达到42万亿、44万亿、45万亿的债务规模吗？
+
+**David Sacks:**
+
+David said, listen, if you want that level of specificity, you're going
+to have to get Scott Bessent on. Okay, this is just not my area. I'm not
+going to pretend to have that level of detailed answers. But what I
+believe is that the Trump administration's policy is to spur growth. I
+think that these tax policies will spur growth. I think that AI will
+also be a huge tailwind. It'll be a productivity boost. I think let's
+stop being doomers about it. We need that productivity boost and I think
+that the net result of those things will be to improve the fiscal
+situation. Do I want more spending cuts? Yeah, but look, we're getting
+more than was represented last week. Let's put it that way.
+
+大卫说，听着，如果你想要那种程度的细节，你就得请斯科特·贝森特（Scott
+Bessent）来。好吧，这真的不是我的领域。我不会假装自己有那种程度的详细答案。但我相信的是，特朗普政府的政策是刺激增长。我认为这些税收政策会刺激增长。我认为AI也将是一个巨大的推动力。它将提高生产力。我认为我们不要再对此持悲观态度了。我们需要这种生产力的提升，我认为这些事情的最终结果将是改善财政状况。我想要更多的支出削减吗？是的，但是看，我们得到的比上周所说的要多。让我们这样说吧。
+
+**Jason Calacanis:**
+
+Okay, fair enough. Sax, thank you for the cleanup there. Chamath, our
+bestie Elon was on the Sunday shows and he said, "Hey, the bill can be
+big or it can be beautiful. It can't be both." He seems to be, I'll say,
+displeased or maybe not as optimistic about balancing the budget and and
+getting spending under control, but he he still believes in DOD/GSE,
+obviously, and and and hopefully DOD/GSE continues. You seemed a little
+bit concerned last week. A week's passed. You've heard some of Steven
+Miller's opinions. Where do where do you net out seven days from our big
+beautiful budget bill debate last week, a week later?
+
+好的，很公平。萨克斯，谢谢你的澄清。查马斯，我们的好朋友埃隆周日上了节目，他说：“嘿，这个法案可以很大，也可以很漂亮。但不能两者兼得。”他似乎，我会说，不太高兴，或者对平衡预算和控制支出不太乐观，但他显然仍然相信国防部/政府支持企业（DOD/GSE）的削减，并且希望这些削减能继续下去。你上周似乎有点担心。一周过去了。你听了一些史蒂文·米勒的意见。距离我们上周关于“大而美预算法案”的辩论已经过去七天了，一周后，你最终的看法是什么？
+
+**Chamath Palihapitiya:**
+
+Well, I mean, I think Steven's critique of how the media summarized the
+reaction to the bill is accurate. And I think it's probably useful to
+double click into one thing that Saxs didn't mention, but that Steven
+did. A lot of this pivots around the CBO, which is the Congressional
+Budget Office, and how they look at these bills, and there's a lot of
+issues with how they do it. In one specific case, which Sax just
+mentioned and Stephen talked about, is that they have these arcane rules
+about the way that they score things. And what they were assuming is
+that the tax rates would flip back to what they were before the first
+Trump tax cuts, which obviously would be higher than where they are
+today. What that would mean in their financial model is we were going to
+get all that money now to maintain the tax cuts where we are. They now
+then would look at that and say, "Oh, hold on. That's a loss of revenue.
+Why are all of these things important?"
+
+嗯，我的意思是，我认为史蒂文对媒体如何总结对该法案反应的批评是准确的。而且我认为，深入探讨萨克斯没有提到但史蒂文确实提到的一点可能是有用的。很多事情都围绕着国会预算办公室（CBO）以及他们如何看待这些法案展开，他们处理这些问题的方式存在很多问题。在一个具体的案例中，萨克斯刚刚提到，史蒂芬也谈到过，那就是他们有一些关于如何评分的晦涩规则。他们假设的是，税率会回到第一次特朗普减税之前的水平，那显然会比现在高。在他们的财务模型中，这意味着我们现在将获得所有这些资金来维持我们目前的减税政策。然后他们会看着这个说：“哦，等等。这是收入损失。为什么所有这些事情都重要？”
+
+I downloaded the CBO model, went through it, and what I would say is at
+best it's Spartan, which means that I don't think a financial analyst or
+somebody that controls a lot of money will actually put a lot of stock
+in their model. I think what you'll have happen is people will build
+their own versions bottoms up. Do you trust it, the the CBO's version of
+this, or do you largely trust it?
+
+我下载了国会预算办公室（CBO）的模型，仔细研究了一下，我想说的是，它充其量只是简陋的，这意味着我不认为金融分析师或控制大量资金的人会真正相信他们的模型。我认为将会发生的是，人们会自下而上地建立自己的版本。你相信它吗，CBO的这个版本，或者你基本上相信它吗？
+
+**Jason Calacanis:**
+
+I don't think the CBO really knows what's going on to be totally honest
+with you.
+
+坦白说，我不认为国会预算办公室（CBO）真的知道发生了什么。
+
+**Chamath Palihapitiya:**
+
+Okay. I think that there are parts of what they do which they're also
+opaque on. Nick, I sent you a tweet from Goldman Sachs. So, here is what
+Goldman put out. Now, the point is when you build a model, what you're
+trying to do is net out all of these bars, okay? You're trying to add
+the positive bars and the negative bars, and you figure out what is the
+total number at the end of it. Now, in order to do that, when you see
+the bars on the far right, that's a 2034. That's very different than a
+2025. The CBO doesn't disclose how they deal with that. They don't dis
+disclose the discount rate. So you can question what that is. The CBO
+makes these assumptions that, you know, as Steven pointed out, are very
+brittle with respect to the tax plan. That's not factored in here. So
+those are the issues with the way the CBO scores it. So you have to do
+it yourself. Now, Peter Navarro published an article which I think is
+probably the most pivotal article about this whole topic. Peter of
+tariff fame.
+
+好的。我认为他们所做的有些部分也是不透明的。尼克，我给你发了一条高盛的推文。所以，这是高盛发布的内容。现在，关键是当你建立一个模型时，你试图做的是将所有这些柱状图抵消掉，好吗？你试图加上正的柱状图和负的柱状图，然后算出最终的总数是多少。现在，为了做到这一点，当你看到最右边的柱状图时，那是2034年。这与2025年非常不同。国会预算办公室（CBO）没有披露他们如何处理这个问题。他们没有披露贴现率。所以你可以质疑那是什么。CBO做出的这些假设，你知道，正如史蒂文指出的那样，在税收计划方面非常脆弱。这在这里没有被考虑进去。所以这些是CBO评分方式的问题。所以你必须自己做。现在，彼得·纳瓦罗（Peter
+Navarro）发表了一篇文章，我认为这可能是关于整个话题最关键的文章。以关税闻名的彼得。
+
+**Jason Calacanis:**
+
+Yeah. Yeah.
+
+是的。是的。
+
+**Chamath Palihapitiya:**
+
+Here I think he nails it right in the bullseye, which is the bond market
+needs to make a decision on one very critical assumption when they build
+their own model. Okay, so let's ignore the CBO's kind of brittle math
+and the Excel that they post on their website. People are going to do
+their own because they're talking about managing their own money. But
+Navarro basically points to the critical thing which is listen those CBO
+assumptions also include a fatal error which is they assume these very
+low levels of GDP. What you're probably going to see in Q2 is a really
+hot GDP print. If I'm a betting man, which I am, I think the GDP prints
+going to come in above three. Not quite four, but above three. And so
+what Peter is saying here is, hey guys, like you're estimating 1.7% GDP.
+why don't you assume 2.2 or why don't you assume 2.7 or any number or
+really what he's saying is why don't you build a sensitivity so that you
+can see the implications of that and I think that that is a very
+important point okay so where do I net out a week later Jason it's
+pretty much summarized in the tweet that I posted earlier today so over
+the last week as people have digested it I think that there are small
+actors in this play and big actors the biggest actor is obviously
+President President Trump. But the second biggest actor is the long end
+of the bond market. These are the central bankers, the long bond
+holders, and these macro hedge funds. Why? Because they will ultimately
+determine the United States's cost of capital. How expensive will it be
+to finance our deficits irrespective of whatever the number is. It could
+be a dollar or it could be a trillion dollars. That doesn't matter right
+now. The point is what is going to be our cost of capital? And what's
+happened over the last little while is that they've steepened the curve
+and they've made it more expensive for us to borrow money. That's just
+the fact. So how do we get in front of this? I think the most important
+thing if you think about what Peter Navarro said is this plan and the
+bill can work if we get the GDP right. Okay. So how do you get the GDP
+right? And this is where I have one very narrow set of things that I
+think we need to improve. And the specific thing that I'll go back to is
+today America is at a supply demand tradeoff on the energy side. What
+does that mean? We literally consume every single bit of energy that we
+make. We don't have slack in the system. We are growing our energy
+demands on average about 3% a year. So I think the most critical thing
+we need to do is to make sure the energy markets stay robust. Meaning
+there's a lot of investment that people are making. On Tuesday I
+announced a deal that I did building a 1 gigawatt data center in
+Arizona. This is a lot of money. This is little old me. But there are
+lots of people ripping in huge huge huge checks, hundreds of billions of
+dollars. I think the sole focus has to be to make sure that the energy
+policy of America is robust and it keeps all the electrons online. If
+there's any contraction, I think it'll hit the GDP number because we
+won't have the energy we need and that's where things start to get a
+little funky. So, I think where I am is I think President Trump should
+get what he wants. I think the bill can work narrowly address the energy
+provisions and I think we live to fight another day.
+
+在这里，我认为他正中要害，那就是债券市场在建立自己的模型时，需要在一个非常关键的假设上做出决定。好吧，让我们忽略国会预算办公室（CBO）那种脆弱的数学计算和他们在网站上发布的Excel表格。人们会自己做，因为他们谈论的是管理自己的资金。但纳瓦罗基本上指出了关键问题，那就是听着，那些CBO的假设也包含一个致命的错误，那就是他们假设了非常低的GDP水平。你可能会在第二季度看到一个非常火爆的GDP数据。如果我是个赌徒，而我确实是，我认为GDP数据会超过3。虽然不到4，但会超过3。所以彼得在这里说的是，嘿，伙计们，你们估计的GDP是1.7%。为什么不假设2.2，或者为什么不假设2.7，或者任何数字，或者他真正想说的是，为什么不建立一个敏感性分析，这样你就能看到其中的影响，我认为这是一个非常重要的观点。好吧，那么一周后我的最终看法是什么，杰森？这基本上在我今天早些时候发布的推文中总结了。所以在过去的一周里，随着人们消化这些信息，我认为在这场戏中有小角色也有大角色，最大的角色显然是特朗普总统。但第二大角色是债券市场的长端。这些人是中央银行家、长期债券持有人和这些宏观对冲基金。为什么？因为他们最终将决定美国的资本成本。无论赤字数字是多少，为我们的赤字融资将会有多昂贵。可能是一美元，也可能是一万亿美元。这现在不重要。关键是我们的资本成本将会是多少？过去一段时间发生的情况是，他们使收益率曲线变陡，使我们借钱的成本更高。这就是事实。那么我们如何应对呢？我认为最重要的事情，如果你想想彼得·纳瓦罗所说的，那就是这个计划和法案如果我们的GDP是正确的，就可以奏效。好的。那么你如何使GDP正确呢？这就是我认为我们需要改进的一个非常狭窄的方面。我要回过头来谈的具体事情是，今天美国在能源方面处于供需平衡的困境。这意味着什么？我们实际上消耗了我们生产的每一分能源。我们的系统中没有冗余。我们的能源需求平均每年增长约3%。所以我认为我们最关键的事情是确保能源市场保持强劲。这意味着人们正在进行大量投资。周二我宣布了一项交易，在亚利桑那州建造一个1吉瓦的数据中心。这是一大笔钱。这是小小的我。但有很多人投入了巨额巨额的资金，数千亿美元。我认为唯一的重点必须是确保美国的能源政策是强劲的，并且它能让所有电力保持在线。如果出现任何收缩，我认为它会影响GDP数字，因为我们将没有我们需要的能源，这就是事情开始变得有点棘手的地方。所以，我认为我的立场是，我认为特朗普总统应该得到他想要的。我认为该法案可以通过，但需要严格解决能源条款问题，我认为我们还有机会再战一天。
+
+**David Freeberg:**
+
+Cynical approach might be we're working the refs here. The CBO is not
+taking into GDP. This GDP has a magical unicorn in it. AI and energy is
+going to spur this amazing growth. But the bond markets don't believe it
+either. So, are we looking at just a GOP, a party, I'll put the
+administration aside, that is just as recklessly spending as the
+Democrats, and they want to change the formula by which they're judged
+in the future, that there's going to be magically all this growth and
+growth solves all problems. And what we really need to do to your point
+I think two weeks ago that this is just disgraceful to put up this much
+spending and we have to have austerity and we need to increase uh maybe
+the discipline in the country and both parties have to be part of that.
+I'm asking you uh from the cynical perspective maybe to represent or
+steelman the other side here.
+
+一种愤世嫉俗的做法可能是，我们在这里操纵裁判。国会预算办公室（CBO）没有将GDP考虑在内。这个GDP中有一个神奇的独角兽。AI和能源将刺激这种惊人的增长。但债券市场也不相信这一点。那么，我们看到的仅仅是一个共和党，一个政党，我把政府放在一边，它和民主党一样肆意挥霍，他们想改变未来评判他们的公式，认为未来会奇迹般地出现所有这些增长，而增长能解决所有问题。而我们真正需要做的，正如我认为你两周前指出的那样，如此大规模的支出简直是可耻的，我们必须实行紧缩政策，我们需要加强，也许是国家的纪律，两党都必须参与其中。我从愤世嫉俗的角度问你，也许是代表或强化另一方的观点。
+
+We had a conversation with Senator Ron Johnson after we recorded the pod
+last week and he was very clear in a key point which is that this bill
+addresses mandatory spending. Just to give you a sense 70% of our
+federal budget is mandatory spending. 30% falls into that discretionary
+category. The mandatory spending is composed of the interest on the debt
+which is now well over a trillion dollars a year on its way to a
+trillion five almost a trillion a year. Medicare, Medicaid, Social
+Security and some other income security programs. And as Ron Johnson
+shared with us over the years more and more programs have been put into
+the mandatory spending category and so you can get past the
+filibustering in the Senate to be able to get budget adjustments done.
+The key thing he's focused on and Rand Paul is focused on and I've
+talked about is the spending level of our mandatory programs. The big
+beautiful bill proposes a roughly \$70 billion per year cut in Medicaid.
+Okay, and that sounds awful. How could you do that to people? In 2019,
+the year before COVID, Medicaid spending was \$627 billion. 2024 it was
+914 billion. So the \$70 billion cut gets you down to 840. You're still
+roughly call it 40% above where you were in 2019. So is that the right
+level? And fundamentally the opportunity to cut those mandatory
+programs, which I know sounds awful, to cut Social Security and cut
+Medicaid, but the reality is they're not just being cut from a low
+level. They're being cut from a level that's 60 plus% higher than they
+were in 2019. And I gave you another example which is the SNAP program,
+the food stamp program. Again, uh \$15 billion of the 120 a year that we
+spend on food stamps is being used to buy soda and a whole another chunk
+of that 120 is being used to buy other junk food. So that they have
+proposed in this bill to cut SNAP down to 90 and it was 60 in 2019. So
+it's still 50% above where it was in 2019. So the key point that's being
+made by Ron Johnson and others is that the spending on these mandatory
+programs which account for nearly three-quarters of our federal budget
+are still very elevated relative to where we were in 2019. And we are
+not going to get out of our deficit barring a massive increase in GDP
+without changes to the spending level. Now I don't put the blame on the
+White House. This bill passed with one vote in the House. One vote. And
+so a key point to note, and I've said this from day one, and every time
+I've gone to DC and every time we've talked about DOD/GSE, I've said
+there's no way any of this stuff's going to change without legislative
+action from the Congress. And here we are seeing Congress, for whatever
+reason, you can listen to Ron Johnson. You can listen to Rand Paul. You
+can listen to others say, you know what, we can't cut that deep. It is
+going to be too harmful to our constituents. We need to keep the
+programs at their current levels or make no changes at all or only
+modest changes. And that's where we are. That's the reality. Now, I do
+think that Navarro did an excellent job in his op-ed for whatever
+criticism we may want to lay on Navarro for many other things. He
+pointed out that the CBO projections in 2017 for the next year's GDP
+growth numbers was 1.8 to 2% and it actually came in at 2.9%. a full one
+point higher because of the tax and jobs act that was passed by the
+Trump administration in 2017. So the additional money that goes into
+investments because lower taxes are being paid fueled GDP growth. This
+is what some people call trickle down economics. People ridicule it.
+They say it doesn't work. It's not real. But in this particular
+instance, they cut taxes and the GDP grew much faster than was projected
+or estimated by the economists at the CBO. So the argument that's being
+made is that we are not capturing many of the upsides in the GDP numbers
+that are being projected. And I will be honest about this. I don't think
+anyone knows how much the GDP is going to grow. We don't know the
+economic benefit and effects of AI. We don't know the economic benefits
+and effects of the work that's being done to deregulate. Another key
+point which is not talked about by Navarro or anywhere else. There's a
+broad effort to deregulate standing up new energy systems, deregulate
+industry and pharma, deregulate banking. Bessent talked about this in
+our interview with him. All of those deregulatory actions theoretically
+should drive more investment dollars because if you can get a biotech
+drug to market in 5 years instead of 10, you'll invest more in
+developing new biotech drugs. If you can stand up a new nuclear reactor
+in seven years instead of 30, you'll build more nuclear reactors. Money
+will flow. if you can um get a new factory working because it's a lot
+easier and faster to to build the factory and cheaper, you'll build more
+factories and production will go up.
+
+上周我们录制播客后，与参议员罗恩·约翰逊（Ron
+Johnson）进行了一次对话，他在一个关键点上非常明确，即这项法案针对的是强制性支出。让你了解一下，我们联邦预算的70%是强制性支出。30%属于可自由支配类别。强制性支出包括债务利息，现在每年远超一万亿美元，正朝着每年一万五千亿甚至几乎一万亿美元迈进。还有医疗保险（Medicare）、医疗补助（Medicaid）、社会保障（Social
+Security）以及其他一些收入保障计划。正如罗恩·约翰逊多年来与我们分享的那样，越来越多的项目被纳入强制性支出类别，因此你可以绕过参议院的阻挠议事，从而完成预算调整。他关注的，以及兰德·保罗（Rand
+Paul）关注的，以及我谈到过的关键问题是，我们强制性项目的支出水平。“大而美法案”提议每年削减约700亿美元的医疗补助。好吧，这听起来很糟糕。你怎么能这样对人们呢？2019年，也就是新冠疫情爆发前一年，医疗补助支出为6270亿美元。2024年为9140亿美元。所以削减700亿美元后，降至8400亿美元。你仍然比2019年的水平高出约40%。那么这是合适的水平吗？从根本上说，削减那些强制性项目的机会，我知道这听起来很糟糕，削减社会保障和医疗补助，但现实是，它们不仅仅是从低水平上削减。它们是从比2019年高出60%以上的水平上削减的。我还举了另一个例子，那就是SNAP计划，即食品券计划。再说一次，我们每年在食品券上花费的1200亿美元中，有150亿美元用于购买苏打水，另外还有一大块用于购买其他垃圾食品。所以他们在这项法案中提议将SNAP削减至900亿美元，而2019年是600亿美元。所以它仍然比2019年的水平高出50%。因此，罗恩·约翰逊和其他人提出的关键观点是，这些占我们联邦预算近四分之三的强制性项目的支出，相对于2019年的水平仍然非常高。除非GDP大幅增长，否则如果不改变支出水平，我们将无法摆脱赤字。现在，我不把责任归咎于白宫。这项法案在众议院以一票之差通过。一票。因此，需要注意的一个关键点，我从第一天起就这么说，每次我去华盛顿，每次我们谈论国防部/政府支持企业（DOD/GSE），我都说，如果没有国会的立法行动，这些事情都不可能改变。现在我们看到国会，不管出于什么原因，你可以听罗恩·约翰逊的。你可以听兰德·保罗的。你可以听其他人说，你知道吗，我们不能削减那么深。这对我们的选民来说太有害了。我们需要将这些项目维持在目前的水平，或者根本不做任何改变，或者只做适度的改变。这就是我们所处的境地。这就是现实。现在，我确实认为纳瓦罗在他的专栏文章中做得非常出色，无论我们可能对纳瓦罗在许多其他事情上有什么批评。他指出，国会预算办公室（CBO）在2017年对次年GDP增长率的预测是1.8%到2%，而实际增长率是2.9%。整整高出一个百分点，这是因为特朗普政府在2017年通过的税收和就业法案。因此，由于税收降低而流入投资的额外资金推动了GDP增长。这就是一些人所说的涓滴经济学。人们嘲笑它。他们说它不起作用。它不是真的。但在这个特定的例子中，他们减税了，GDP的增长速度远快于CBO经济学家的预测或估计。因此，人们提出的论点是，我们没有捕捉到预测GDP数据中的许多积极因素。我会坦诚地说。我不认为有人知道GDP会增长多少。我们不知道AI的经济效益和影响。我们不知道放松管制工作带来的经济效益和影响。这是纳瓦罗或其他任何地方都没有谈到的另一个关键点。人们正在广泛努力放松对新建能源系统的管制，放松对工业和制药业的管制，放松对银行业的管制。贝森特在我们的采访中谈到了这一点。所有这些放松管制的行动理论上都应该推动更多的投资资金，因为如果你能在5年而不是10年内将一种生物技术药物推向市场，你就会投资更多来开发新的生物技术药物。如果你能在7年而不是30年内建成一座新的核反应堆，你就会建造更多的核反应堆。资金将会流动。如果你能……让一家新工厂投产，因为建造工厂更容易、更快、更便宜，你就会建造更多的工厂，产量也会上升。
+
+**Jason Calacanis:**
+
+People were really taken, by the way, by your comment that you would
+shut up about the deficit if we had like a really great energy policy.
+We were dumping a lot on top of it.
+
+顺便说一句，人们对你关于如果我们有非常好的能源政策，你就会对赤字问题闭嘴的评论印象深刻。我们在此基础上投入了很多。
+
+**David Sacks:**
+
+I want to build on the point that both Chamath and Freeberg made about
+growth rates. So, there's a very important chart here from Fred. This is
+the Federal Reserve St. Louis. This is Federal Receipts. So basically
+it's federal tax revenue as a percent of GDP and this goes all the way
+back to you know the 1930s 1940s. So if you look in the post-World War
+II period you can see just eyeballing it that there's a lot of variation
+around this but the line is around 17.5% plus or minus 2%. And the
+interesting thing is that this chart reflects radically different tax
+rates. So, for example, during some of these periods, we've had 90% top
+marginal tax rates. We've had 70% top top marginal tax rates. So, yeah,
+under Jimmy Carter, the top marginal tax rate was, I think, 70%. We've
+had tax rates, you know, under Reagan or Clinton in the 20s. So, the
+point is that the the tax rate that you have and what you actually
+collect as a percent of GDP don't correlate. The most important thing by
+far is just how the economy is doing. If you look at the top tick, it's
+around 2000 there. If you just mouse over it, 1999 to 2000. Yeah. Yeah.
+We get like just under 20% of federal receipts % of GDP and tax rates
+were quite low back then. The reason why is we had an economic boom. So
+look, the point is the most important thing in terms of tax revenue is
+having a good economy. And this is why you don't just want to have very
+high tax rates because they clobber your economy. So this point that
+Navarro was making in that article, it actually makes sense. I mean 1.7%
+is a pretty tepid growth assumption, we should be able to grow a lot
+faster. And if we have a favorable tax policy, you can grow a lot
+faster. Now, if you go to spending, can you pull up the Fred chart on
+spending? What you see here is that I mean it's been kind of going up
+but let's say that since the 19 mid-1970s or so federal net outlays as a
+percent of GDP so basically spending was around 20% of GDP and then what
+happened is during COVID it went crazy went all the way up to 30% and
+now it's back down to you know low 20s but it's still not back down to
+20 and what we need to do is grow the economy we have to grow GDP to the
+point where federal net outlays are back around 20%. If you could get
+tax revenue to the historical mean of around 17.5% or 17%, you get
+spending to 20%, then you have a budget deficit of 3% which is much more
+tolerable. And I think that's Bessent's target under his 3/3 plan,
+right? Is you get GDP growth back up to 3% and you get the budget
+deficit down to 3%.
+
+我想在查马斯和弗里伯格都提到的关于增长率的观点上进一步阐述。这里有一张来自FRED（圣路易斯联邦储备银行）的非常重要的图表。这是联邦收入。所以基本上是联邦税收收入占GDP的百分比，这可以追溯到你知道的20世纪30年代、40年代。所以如果你看二战后的时期，你可以凭肉眼看到，这里有很多变化，但这条线大约在17.5%，上下浮动2%。有趣的是，这张图表反映了截然不同的税率。例如，在这些时期中的某些时候，我们有高达90%的最高边际税率。我们有过70%的最高边际税率。所以，是的，在吉米·卡特时期，最高边际税率我认为是70%。我们也有过税率，你知道，在里根或克林顿时期，税率在20多。所以，关键是你拥有的税率和你实际征收的占GDP百分比的税收并不相关。到目前为止，最重要的事情就是经济状况如何。如果你看最高点，大约在2000年那里。如果你把鼠标悬停在上面，1999年到2000年。是的。是的。我们得到的联邦收入占GDP的百分比略低于20%，而当时的税率相当低。原因是当时我们经济繁荣。所以看，关键是就税收而言，最重要的事情是拥有一个良好的经济。这就是为什么你不仅仅想要非常高的税率，因为它们会重创你的经济。所以纳瓦罗在那篇文章中提出的观点，实际上是有道理的。我的意思是1.7%是一个相当温和的增长假设，我们应该能够增长得更快。如果我们有优惠的税收政策，你就能增长得更快。现在，如果你去看支出，你能调出FRED关于支出的图表吗？你在这里看到的是，我的意思是它一直在上升，但让我们说，自19世纪70年代中期左右以来，联邦净支出占GDP的百分比，所以基本上支出约占GDP的20%，然后在新冠疫情期间，它变得疯狂，一直上升到30%，现在又回落到，你知道，20多一点，但仍然没有回到20。我们需要做的是发展经济，我们必须使GDP增长到联邦净支出回到20%左右的水平。如果你能让税收收入达到历史平均水平的17.5%或17%左右，让支出达到20%，那么你的预算赤字就是3%，这是更容易承受的。我认为这是贝森特在他的3/3计划下的目标，对吧？就是让GDP增长率回到3%，预算赤字降到3%。
+
+**Jason Calacanis:**
+
+All right, Chamath, you had some charts you wanted to share.
+
+好的，查马斯，你有一些图表想分享。
+
+**Chamath Palihapitiya:**
+
+Well, I think what's amazing is if you take last week and now again this
+week, we're all converging on the same thing. The path out of this is
+through GDP growth. And I just want everybody to understand where we
+are. And this is without judgment. This is just the facts. What this
+chart shows in gray is the total supply of power in the United States
+and the blue line is the utilization. So what you build for is what you
+think is a premium above the demand, right? You'd say if there's one
+unit of demand, let's have 1.2 units of supply, we'll be okay. But as it
+turns out, historically in the United States, we've had these cycles
+where we didn't really know what the demand curve would look like. And
+so over the last number of years, we've stopped really building supply
+in power. But what happened with things like AI and all of these other
+things is that the demand just continued to spike. And so what this
+chart shows is we are at a standstill sitting here today in 2025. On
+margin we're actually short power which is to say sometimes there are
+brownouts sometimes there is lack of power because we didn't add enough
+capacity. So that's where we are today. So then we talk about all of
+these new kinds of energy and this is just meant to ground us in the
+facts. If you tried to turn on a project today sitting here in May of
+2025, here's what the timelines are. We all talk about SMRs, small
+modular reactors. The reality is that if you get everything permitted
+and you believe the technology can be derisked, you're still in a 2035
+plus time frame. You're a decade away. If you have an unplanned NAT gas
+plant today, the fastest you could get that on is four years from now.
+If we tried to restart a mothballed nuclear reactor, of which there are
+only three we can restart, that's a 2027 to 2030 time frame. So, let's
+give us the benefit of the doubt. That's 2 years away. If we needed to
+plan Nat gas plant, there's already 24 gigawatts in the queue which
+can't get turned on. So where does this end up? And this is where I
+think we need to strip away all the partisanship and understand what
+we're dealing with. We have ready supply of renewable and storage
+options today. It's the fastest thing that you can turn on. It allows us
+to turn on supply to meet the demand and utilization. So I just think
+it's important to understand that we must not lose energy. We cannot
+lose the energy market because that is the critical driver of all the
+GDP.
+
+嗯，我认为令人惊奇的是，如果你看看上周，再看看这周，我们都在趋同于同一点。摆脱困境的途径是通过GDP增长。我只是想让每个人都明白我们现在所处的境地。这不是评判。这只是事实。这张图表中的灰色部分显示了美国的总电力供应，蓝线是利用率。所以你建设的目标是你认为高于需求的溢价，对吧？你会说如果需求是一个单位，让我们有1.2个单位的供应，我们就会没问题。但事实证明，在美国历史上，我们经历过这样的周期，我们并不真正知道需求曲线会是什么样子。因此，在过去的几年里，我们基本上停止了电力供应的建设。但是像AI和其他所有这些事情的发生，导致需求持续飙升。所以这张图表显示，我们现在，在2025年的今天，处于停滞状态。边际上，我们实际上电力短缺，也就是说，有时会出现停电，有时会缺电，因为我们没有增加足够的容量。这就是我们今天的处境。然后我们谈论所有这些新能源，这只是为了让我们立足于事实。如果你现在，在2025年5月，试图启动一个项目，以下是时间表。我们都在谈论SMR，小型模块化反应堆。现实是，即使你获得了所有许可，并且你相信技术可以降低风险，你仍然处于2035年以后。你还有十年的时间。如果你今天有一个计划外的天然气发电厂，最快也要四年后才能投产。如果我们试图重启一个封存的核反应堆，而我们只有三个可以重启，那要到2027年到2030年。所以，让我们姑且相信。那是两年后的事了。如果我们需要规划天然气发电厂，现在已经有24吉瓦在排队，但无法投产。那么这最终会怎样呢？我认为我们需要摒弃所有的党派之争，理解我们正在处理的问题。我们今天有现成的可再生能源和储能方案。这是你能最快启动的东西。它允许我们启动供应以满足需求和利用。所以我只是认为，重要的是要理解我们绝不能失去能源。我们不能失去能源市场，因为那是所有GDP的关键驱动因素。
+
+
+
+## US Steel, Nippon Steel, and "Golden Votes" / 美国钢铁、日本制铁与“黄金投票权”
+
+<div class="speaker-turn">
+
+**Jason Calacanis:**
+
+All right. Nippon steel and the US steel merger got cleared by President
+Trump. This was something that was being blocked by Biden obviously for
+national security reasons. Nippon is going to acquire steel for 14.9
+billion. Biden blocked that as we had discussed. On Friday, Trump
+cleared the deal to go through calling it a partnership that will create
+70,000 jobs in the US. And on Sunday, Trump called the deal an
+investment sync. It's a partial ownership, but it will be controlled by
+the USA. Chamath, there seems to be a reframing of this deal and that
+the United States is going to benefit from it, but it's not a sale.
+
+好的。日本制铁（Nippon Steel）与美国钢铁（US
+Steel）的合并得到了特朗普总统的批准。拜登此前显然出于国家安全原因阻止了此事。日本制铁将以149亿美元收购美国钢铁。正如我们讨论过的，拜登阻止了这项交易。周五，特朗普批准了这项交易，称其为将在美国创造7万个就业机会的合作伙伴关系。周日，特朗普称这项交易为一项投资同步。这是一种部分所有权，但将由美国控制。查马斯，这笔交易似乎被重新定义了，美国将从中受益，但这并非一次出售。
+
+**Chamath Palihapitiya:**
+
+Let's set some context. The United States is always on the wrong side of
+these deals. Okay? We've been on the wrong side for 20 years. Meaning,
+we show up when an asset is stranded or completely run into the ground.
+For example, we did the auto bailouts at the end of the great financial
+crisis. If it's not a company and there's toxic assets, we set up
+something called TARP. What do we get? Not much in return. In this, it's
+the opposite. And I think that this strategy has worked for many other
+countries really well. So if you look at Brazil, companies like Embraer
+and Vale, which are really big Brazilian national champions, have a
+partnership, a pretty tight coupling with the Brazilian government. The
+Brazilians have a golden vote. If you look inside of the UK, there's a
+bunch of aerospace and defense companies, including Rolls-Royce, that
+have a very tight coupling with the UK government. They have a golden
+vote. If you look in China, companies like ByteDance and CATL have a
+very tight coupling with the Chinese government and the Chinese
+government has a golden vote. And so what are all of those deals? Those
+deals are about companies that are thriving and on the forward foot. And
+so I think this is a really important example of things that we need to
+copy. I've said this before, but one part of China that I think we need
+to pay very close attention to is Hu Jintao in 2003 laid out a plan and
+he said we are going to create 10 national champions in China in all the
+critical industries that are going to matter for the next 50 years
+including things like batteries and rare earths and AI and they did it
+but for those companies that allowed them to thrive and crush it and I
+think that we need to do that and compete with those folks on an equal
+playing field.
+
+让我们设定一些背景。美国在这些交易中总是处于不利地位。好吗？我们已经处于不利地位20年了。意思是，当一项资产搁浅或完全陷入困境时，我们才会出现。例如，在金融危机末期，我们进行了汽车业纾困。如果不是公司，而是有毒资产，我们就设立了类似TARP（问题资产救助计划）的东西。我们得到了什么？回报甚微。而在这方面，情况恰恰相反。我认为这种策略在许多其他国家都非常奏效。所以如果你看看巴西，像巴西航空工业公司（Embraer）和淡水河谷（Vale）这样真正的大型巴西国家冠军企业，都与巴西政府有着合作关系，一种相当紧密的联系。巴西人拥有黄金投票权。如果你看看英国，有很多航空航天和国防公司，包括劳斯莱斯（Rolls-Royce），都与英国政府有着非常紧密的联系。他们拥有黄金投票权。如果你看看中国，像字节跳动（ByteDance）和宁德时代（CATL）这样的公司都与中国政府有着非常紧密的联系，中国政府拥有黄金投票权。那么所有这些交易是什么呢？这些交易关乎那些蓬勃发展、积极进取的公司。所以我认为这是一个非常重要的例子，我们需要学习。我以前说过，但我认为我们需要密切关注中国的一个方面是，胡锦涛在2003年制定了一个计划，他说我们将在未来50年所有关键行业中创建10个中国国家冠军，包括电池、稀土和人工智能等领域，他们做到了，但对于那些让他们得以蓬勃发展并取得巨大成功的公司，我认为我们需要这样做，并在平等的竞争环境中与那些人竞争。
+
+**Jason Calacanis:**
+
+So in all industries or in very specific strategic ones because that
+would seem like corrupting capitalism in free markets would be the
+steelman. Yeah, there's 10 industries that matter and you steel is one.
+Okay. I think the precursors for pharmaceuticals are absolutely
+critical. Got it. I think AI is absolutely critical. I think the
+upstream lithography and EV deposition and chipmaking capability
+absolutely critical. I think batteries are absolutely critical and I
+think rare earths and the specialty chemical supply chain absolutely
+critical. If you have those five, you are in control of your own destiny
+in the sense that you can keep your citizens healthy and you can make
+all the stuff for the future. So I think if the president is creating a
+a more expansive idea beyond US steel with this idea of US support,
+maybe there'll be preferred capital in the future to US steel. But if he
+creates a category by category thing across five or six of these
+critical areas of the future, I think it's super smart and we should do
+more of it.
+
+那么是在所有行业，还是在非常具体的战略性行业？因为这看起来像是会腐蚀自由市场中的资本主义，这会是强有力的论点。是的，有10个重要的行业，钢铁是其中之一。好的。我认为制药业的前体物质绝对关键。明白了。我认为AI绝对关键。我认为上游的光刻、电动汽车沉积和芯片制造能力绝对关键。我认为电池绝对关键，我认为稀土和特种化学品供应链绝对关键。如果你拥有这五个，你就能掌控自己的命运，因为你可以让你的公民保持健康，你可以为未来制造所有的东西。所以我认为，如果总统正在超越美国钢铁，提出一个更广泛的想法，即美国支持的想法，也许未来会有优先资本流向美国钢铁。但是，如果他在未来五六个这些关键领域逐个类别地建立起来，我认为这非常聪明，我们应该更多地这样做。
+
+**David Sacks:**
+
+Sax, what do you think? interventionism, putting your thumb on the
+scale, golden votes, a good idea for America in very narrow verticals or
+let the free market decide. What are your thoughts on this golden vote,
+having a board seat, etc.
+
+萨克斯，你怎么看？干预主义，暗中操纵，黄金投票权，对于美国在非常狭窄的垂直领域来说是个好主意，还是让自由市场来决定？你对这种黄金投票权、拥有董事会席位等有何看法？
+
+Well, it depends what the free market, so to speak, produced. And the
+reality is over the past 25 years is we exported a lot of this
+manufacturing capacity to China. And I don't think it was a free market
+because they had all these advantages under the WTO that we talked about
+on a previous podcast. they were able to subsidize their national
+champions while still remaining compliant with the WTO rules because
+supposedly they were a developing country. It was totally unfair. And
+what they would do is through these subsidies, they would allow these
+national champions to essentially dump their products in the global
+market and drive everyone else out of business. They became the low-cost
+producers. I think that as the president just said recently, not every
+industry has to be treated as strategic clothes and toys. is we don't
+necessarily have to reshore in the United States but steel production is
+definitely strategic steel aluminum and I'd say the rare earth we have
+to have that capacity we cannot be completely dependent on China for our
+supply chain so some of these industries have to be reshored and if you
+need subsidies to do it I think that you do it for national security
+reasons first and foremost there are other sense yeah yeah there are
+other industries where the private market works just fine and what we
+need to do to help those companies is simply not get in their Hey, with
+unnecessary red tape and regulations. So, I would say empower the free
+market when America is the winner. And then in other areas where they're
+necessary for national security, then you have to be willing to
+basically protect our industries.
+
+嗯，这取决于所谓的自由市场产生了什么。而现实是，在过去的25年里，我们将大量的这种制造能力出口到了中国。而且我不认为这是一个自由市场，因为正如我们之前在播客中讨论的那样，他们在世贸组织（WTO）下拥有所有这些优势。他们能够在遵守世贸组织规则的同时补贴他们的国家冠军企业，因为据称他们是一个发展中国家。这完全不公平。他们会通过这些补贴，让这些国家冠军企业基本上在全球市场上倾销他们的产品，并将其他所有人都挤出市场。他们成为了低成本生产商。我认为，正如总统最近所说，并非每个行业都必须被视为战略性的服装和玩具。我们不一定非要在美国进行产业回流，但钢铁生产绝对是战略性的，钢铁、铝，我会说还有稀土，我们必须拥有这种能力，我们不能完全依赖中国来满足我们的供应链，所以其中一些行业必须回流，如果需要补贴来实现这一点，我认为首先是出于国家安全原因。是的，是的，还有其他行业，私营市场运作良好，我们需要做的就是帮助那些公司，而不是用不必要的繁文缛节和法规来阻碍他们。所以，我会说，当美国是赢家时，赋予自由市场权力。然后在其他对国家安全至关重要的领域，你就必须愿意基本上保护我们的产业。
+
+**David Freeberg:**
+
+Freeberg, it seems like the great innovation here might also be the
+American public getting upside. When we gave loans to Celindra and Tesla
+and Fisker and a bunch of people for battery-powered, you know, energy
+under Obama, we just got paid back in some cases by Elon. Other people
+defaulted, but we didn't get equity. What if we had instead of getting
+our 500 million back in the loan from from Elon, which he paid back
+early and with interest, if we got half back and we got half in equity,
+RSUs, whatever, stock options, warrants, this would be an incredible
+innovation. So, what are your thoughts here? because people look to this
+podcast as, hey, the free market podcast, but this does seem to be a
+notable exception here of maybe we should get involved and do these
+golden, you know, share votes, board seats, you know, maybe more
+creative um structures in order to win faster. What are your thoughts,
+Freeberg?
+
+弗里伯格，这里的重大创新似乎也可能是美国公众从中获益。当我们向Celindra、特斯拉、菲斯克（Fisker）以及一群人提供贷款，用于奥巴马政府领导下的电池驱动能源项目时，我们只是在某些情况下从埃隆那里收回了款项。其他人违约了，但我们没有获得股权。如果我们不是从埃隆那里收回5亿美元的贷款（他提前连本带息还清了），而是收回一半，另外一半以股权、限制性股票单位（RSU）、任何形式的股票期权、认股权证的形式获得，这将是一项令人难以置信的创新。那么，你对此有何看法？因为人们将这个播客视为，嘿，自由市场播客，但这似乎是一个值得注意的例外，也许我们应该参与进来，进行这些黄金，你知道的，股份投票、董事会席位，你知道的，也许是更具创造性的结构，以便更快地获胜。弗里伯格，你的看法是什么？
+
+I don't like it. I don't like the government and markets. Keep the
+government out of the markets. It creates a slippery slope. First of
+all, I think markets don't operate well if government's involved. It
+gets inefficient and that hurts consumers. It hurts productivity. It
+hurts the economy. Second, I think it's a slippery slope. You do one
+thing.
+
+我不喜欢。我不喜欢政府和市场。让政府远离市场。这会造成一个滑坡效应。首先，我认为如果政府介入，市场就无法良好运作。它会变得低效，这会损害消费者。它会损害生产力。它会损害经济。其次，我认为这是一个滑坡效应。你做一件事。
+
+**David Sacks:**
+
+Question though. If government non-intervention results in all the steel
+production moving offshore, if it results in all the rare earth
+processing and the rare earth magnet casting industries moving offshore,
+in fact, not just moving offshore, but moving to an adversarial nation
+such that they can just switch off our supply chain for pretty much
+every electric motor. Is that an outcome of the quote-unquote free
+market that we should accept?
+
+不过有个问题。如果政府不干预导致所有钢铁生产都转移到海外，如果导致所有稀土加工和稀土磁铁铸造行业都转移到海外，事实上，不仅仅是转移到海外，而是转移到一个敌对国家，以至于他们可以随时切断我们几乎所有电动机的供应链。这是我们应该接受的所谓“自由市场”的结果吗？
+
+**David Freeberg:**
+
+Well, then I think that's where the government can play a role in trade
+deals to to manage that effect. So you can create incentives that'll
+drive onshore manufacturing by increasing the tariff or restricting
+trade with foreign countries so that there isn't a cheaper alternative,
+which is obviously one of the plays that this Trump administration is
+trying to do. I' I'd rather have that mechanism than the government
+making actual market-based decisions and business decisions. You know
+how inefficient government runs. You know how difficult it is to assume
+that that bureaucracy is actually ever going to act and pick any best
+interest or any good interest at all. They're just going to \[ \_\_ \]
+it all up. So, I'd rather keep the government entirely out of the
+market. Create a a trade incentive where the trade incentive basically
+will drive private markets, private capital to build that industry on
+shore here because there isn't one and there's demand for it because
+you've restricted access to the foreign market. That I think would be
+the best general solution. Tax and then I think it's a slippery slope
+because then you could always rationalize something being strategic,
+something being security interest in the United States. So then every
+industry suddenly gets government intervention and government
+involvement. And then the third thing is I don't want the government
+making money that the Congress then says, hey, we've got more money, we
+got more revenue, let's spend more money because then they'll create a
+bunch of waste and nonsense that'll arise from having increased revenue.
+One side and I will say I one thing where I do think we do a poor job is
+we don't do a good job to answer your question JCal of investing the
+retirement funds that we've mandated through social security we should
+be taking the \$4.5 trillion that our social security beneficiaries have
+had deducted from their paychecks over many many years and those social
+security future retirees or current retirees are getting completely
+ripped off because their money is being loaned to the federal
+government. It's not being invested. It's been loaned to the government
+to spend money and run a deficit and ultimately inflate away the value
+of the dollar. We should have been investing those dollars in some of
+these strategic assets. So if ever there were to be shares or investment
+that the government does, it should be done through strategic investing
+through the social security or retirement program. Similar by the way to
+what's done in Australia where these uh these supers are have created an
+extraordinary surplus of capital. Same in Norway, same in all the Middle
+East countries. incredible sovereign wealth funds that benefit the
+retirees and the population at large. That's where the dollars should be
+invested from. I do think the fundamental focus priority right now
+should be reforming social security while we still have the chance. We
+have until 2032 when social security will be functionally bankrupt and
+everyone's going to get overt taxed and kids are going to end up having
+to pay um through inflation for the benefits of the retirees of the last
+generation.
+
+嗯，那么我认为政府可以在贸易协议中发挥作用来管理这种影响。所以你可以通过提高关税或限制与外国的贸易来创造激励措施，从而推动国内制造业的发展，这样就不会有更便宜的替代品，这显然是本届特朗普政府正在尝试的策略之一。我宁愿采用这种机制，也不愿让政府做出实际的基于市场的决策和商业决策。你知道政府运作效率有多低。你知道要假设那个官僚机构真的会采取行动并选择任何最佳利益或任何良好利益有多么困难。他们只会把一切都搞砸。所以，我宁愿让政府完全远离市场。创造一种贸易激励机制，这种贸易激励机制基本上会推动私营市场、私人资本在这里建立这个行业，因为这里没有这个行业，而且有需求，因为你限制了进入外国市场的渠道。我认为这将是最好的总体解决方案。税收，然后我认为这是一个滑坡效应，因为那样你总是可以合理化某些事情是战略性的，某些事情是美国的国家安全利益。那么每个行业突然都会受到政府的干预和参与。然后第三件事是，我不希望政府赚钱，然后国会说，嘿，我们有更多的钱，我们有更多的收入，让我们花更多的钱，因为那样他们会因为收入增加而制造一堆浪费和胡言乱语。一方面，我想说，有一件事我认为我们做得不好，那就是我们没有很好地回答你的问题，JCal，关于投资我们通过社会保障强制规定的退休基金。我们应该把我们的社会保障受益人多年来从工资中扣除的4.5万亿美元拿出来，而那些未来的或现在的社会保障退休人员正在被彻底剥削，因为他们的钱被借给了联邦政府。它没有被投资。它被借给政府花钱并造成赤字，并最终通过通货膨胀使美元贬值。我们本应该把那些钱投资到一些战略资产中。因此，如果政府要持有股份或进行投资，就应该通过社会保障或退休计划进行战略投资。顺便说一句，这与澳大利亚的做法类似，那里的这些超级基金创造了巨额的资本盈余。挪威也是如此，所有中东国家也是如此。令人难以置信的主权财富基金惠及退休人员和广大民众。这才是资金应该投资的地方。我确实认为，现在的根本重点应该是趁我们还有机会改革社会保障。我们还有时间到2032年，届时社会保障将功能性破产，每个人都将面临过度征税，孩子们最终将不得不通过通货膨胀来支付上一代退休人员的福利。
+
+**Jason Calacanis:**
+
+Freeberg's right. We're on a seven-year shock clock to when social
+security is not funded. And by the way, this opportunity to fix
+mandatory spending, it was an opportunity to introduce some structural
+reform in social security. Another reason why I think that there's a
+degree of discretzia in this bill, particularly with how Congress had
+acted and not addressing what is becoming a critical issue because
+everyone wants to get reelected in the next 12 months, 18 months.
+They've got elections coming up. So, everyone's scrambling to not mess
+with that because you can't touch it. It's like, you know what, guys?
+This is bankrupt in seven years. It's going to cost us 5 10 times as
+much when we have to deal with it when everyone runs out of money. Deal
+with it now. Fix the problem. And by the way, we should flip all that
+money, \$4.5 trillion into an investment account for the retirees where
+they can own equities and they can make investments in the markets and
+they can participate in the upside of American industry and the GDP
+growth that's coming. Instead, they're getting paid 3.8% or four 4 and
+a.5% average from treasuries that they own that, by the way, are now
+have a lower credit rating than they've ever had. You know, it's crazy.
+
+弗里伯格说得对。我们正处于一个为期七年的倒计时，届时社会保障将资金不足。顺便说一句，这次解决强制性支出的机会，也是一个在社会保障中引入一些结构性改革的机会。我认为这项法案存在一定程度的酌情处理空间的另一个原因是，特别是国会的行为方式，以及没有解决正在成为一个关键问题的事情，因为每个人都想在未来12个月、18个月内再次当选。他们即将面临选举。所以，每个人都在争先恐后地不去碰那个问题，因为你不能碰它。就像，你知道吗，伙计们？这东西七年后就要破产了。当我们不得不处理它，当每个人都用光钱的时候，它会花费我们5到10倍的代价。现在就处理它。解决问题。顺便说一句，我们应该把所有那些钱，4.5万亿美元，转入一个为退休人员设立的投资账户，让他们可以拥有股权，可以在市场上进行投资，可以参与美国工业和即将到来的GDP增长的红利。相反，他们从他们拥有的国债中获得3.8%或平均4.5%的收益，顺便说一句，这些国债现在的信用评级比以往任何时候都要低。你知道，这太疯狂了。
+
+**David Sacks:**
+
+I'm in complete agreement with you and I think it's a lack of leadership
+on Trump's part. If Trump is going to criticize Taylor Swift and
+Zelenskyy and Putin and everybody, you know, all day long on Truth
+Social, he can criticize Congress and the Democrats and the Republicans
+on not cutting spending. I think he should speak up. I think he was
+elected to do that. It was a big part of the mandate and uh he should
+tone down the tariff uh chaos and tone up the uh and lean into uh
+intelligent immigration you know recruiting great talent to this country
+and he should be pushing to make these bills uh control spending that's
+just one person's belief for the chairman dictator Palihapitiya your zar
+David Sachs in that Chris Brioni white shirt very beautiful and the
+sultan of science deep in his Wall-E era. I am the world's greatest
+moderator and as Freeberg will tell you, executive producer for life
+here at the All-In podcast. We'll see you all next time. Bye-bye.
+
+我完全同意你的看法，我认为这是特朗普方面缺乏领导力的表现。如果特朗普整天在Truth
+Social上批评泰勒·斯威夫特、泽连斯基、普京以及所有人，那么他也可以批评国会、民主党和共和党没有削减开支。我认为他应该发声。我认为他当选就是为了做这件事。这是他使命的重要组成部分，而且他应该降低关税混乱的调门，提高……并倾向于……明智的移民政策，你知道，为这个国家招募优秀人才，他应该推动这些法案……控制开支。这只是一个人对主席独裁者帕利哈皮蒂亚（Palihapitiya）、你的沙皇大卫·萨克斯（穿着那件非常漂亮的克里斯·布里奥尼白衬衫）以及沉浸在他的瓦力（Wall-E）时代的科学苏丹的看法。我是世界上最伟大的主持人，正如弗里伯格会告诉你的那样，是All-In播客的终身执行制片人。我们下次再见。再见。
+
+**Jason Calacanis:**
+
+Jason.com. Love you boys. Bye-bye.
+
+Jason.com。爱你们，伙计们。再见。
+
+
+
+## Outro / 尾声
+
+<div class="speaker-turn">
+
+**Chamath Palihapitiya:**
+
+We'll let your winners ride. Rainman David. We open sourced it to the
+fans and they've just gone crazy with it. Love you. Queen of Kino
+besties are gone.
+
+我们会让你的赢家继续赢下去。雨人大卫。我们把它开源给粉丝们，他们简直为之疯狂。爱你。电影女王的闺蜜们都走了。
+
+**David Sacks:**
+
+That is my dog taking your driveways. Oh man, my appetiter will be. You
+should all just get a room and just have one big huge orgy cuz they're
+all just like this like sexual tension that they just need to release
+somehow. Wet your feet. Her feet. That's going to be good. We need to
+get Murphy's our all in.
+
+那是我的狗占了你的车道。哦，天哪，我的胃口会大开的。你们都应该开个房间，来一场盛大的狂欢，因为他们都像这样，充满了性张力，需要以某种方式释放。弄湿你的脚。她的脚。那会很棒的。我们需要让墨菲全力以赴。
+
+
+
+<div class="copy-button-container">
+
+一键复制为Markdown

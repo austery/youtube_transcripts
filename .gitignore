@@ -6,6 +6,6 @@ _site/
 .bundle/
 vendor/
 # Ignore sh files
-*.sh
+#*.sh
 # Ignore backup files
 backup*/

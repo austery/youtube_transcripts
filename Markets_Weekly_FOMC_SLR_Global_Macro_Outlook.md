@@ -1,0 +1,447 @@
+---
+title: "Markets Weekly: FOMC Analysis, SLR Changes, and Global Macro Outlook"
+layout: "post.njk"  
+date: "2025-07-10"
+tags:
+  - "视频笔记"
+data:
+  author: "Lei"
+  podcast_program: ""
+  speaker: "本报告基于“前瞻指引”（Forward Guidance）播客的文字记录，参与者包括主持人 Felix 和 Quinn Thompson，以及特邀嘉宾 Joseph Wang（Fed Guy）。"
+  guest: "" 
+  source: "#section-1"
+---
+
+<div id="main-content" class="container">
+
+# Markets Weekly: FOMC Analysis, SLR Changes, and Global Macro Outlook
+
+<div class="speaker-intro">
+
+**Speakers:** This report is based on a transcript from the "Forward
+Guidance" podcast, featuring hosts Felix and Quinn Thompson, along with
+special guest Joseph Wang (Fed Guy).
+
+**主讲人：** 本报告基于“前瞻指引”（Forward
+Guidance）播客的文字记录，参与者包括主持人 Felix 和 Quinn
+Thompson，以及特邀嘉宾 Joseph Wang（Fed Guy）。
+
+
+
+<div class="stats-bar">
+
+<div>
+
+Word Count: approx. 4,300  
+总字数：约 4,300 字
+
+
+
+<div>
+
+Estimated Reading Time: approx. 14 minutes  
+预计阅读时间：约 14 分钟
+
+
+
+Copy as Markdown
+
+
+
+<div class="toc">
+
+### Table of Contents / 目录
+
+- [FOMC Meeting Recap: A Stagflationary Outlook](#section-1)
+- [The SLR Exemption: Unpacking the Fed's Regulatory Shift](#section-2)
+- [The TGA Refill and Long Bond Yields](#section-3)
+- [The Powell Succession and Future Fed Policy](#section-4)
+- [Fiscal Dominance and the Debate Over IORB](#section-5)
+- [Global Capital Flows and the US Dollar's Future](#section-6)
+- [Navigating the Current Market: Portfolio Strategy](#section-7)
+
+
+
+<div id="report-body" class="bilingual-wrapper">
+
+## FOMC Meeting Recap: A Stagflationary Outlook / FOMC会议回顾：滞胀前景
+
+<div class="lang-en">
+
+**Felix:** I want to start by talking about the FOMC meeting that just
+happened yesterday. Looking at the dots, they actually downticked their
+GDP projection for 2025 from 1.7% to 1.4%, expecting lower growth. For
+the unemployment rate, they're looking at 4.5% by year-end, up from
+4.4%. And in PCE inflation, an increase from 2.7% to 3.0%. So we're
+seeing growth being downticked, inflation ticking up higher, but at the
+same time, we didn't see any changes on their projections for Fed funds
+rate cutting. The majority still ticked in for two cuts this year. What
+was interesting, however, is that the number of FOMC members projecting
+no cuts by the end of this year increased from four to seven. Joseph,
+what was your read?
+
+**Joseph Wang:** What was most interesting to me was the dot plot
+forecast. It seems like the Fed is a bit more downbeat on the economy,
+revising down growth, but also seemed a little bit stagflationary,
+right? You're revising up inflation and revising up unemployment. The
+Fed has been saying for the past few months that they are basically just
+going to be late. Powell has been telling us that there are so many
+things happening in the economy—changes in immigration policy, fiscal
+policy, regulatory policy, and trade policy—and he doesn't know what's
+going to happen, so he's just going to wait. That's a little bit
+different than how he usually acts. Now he's committing to being late.
+What that tells me is that he's really not going to do anything until we
+see the unemployment rate tick up, and it's been trending higher.
+
+**Quinn Thompson:** The only incremental change for 2025 was that three
+people went from one cut to no cut, and one person went from two cuts to
+one cut. So that's hawkish. And the nearest cut is not priced until
+September anyway. Someone did ask about the immigration issues, and he
+noted that this dynamic where you can have a more stable unemployment
+rate for the reasons of a shrinking labor force... he basically
+acknowledged this as being okay. On many accounts, very hawkish. I think
+you really need to see market weakness for them to move.
+
+**Felix:** My take is that by just staying flat, the Fed is still
+creating an even more restrictive monetary policy stance. Even though
+their intention is just to not do anything, by doing nothing, they're
+actually being hawkish. As inflation comes down, real rates go higher.
+It feels like they are finding reasons to be hawkish.
+
+
+
+<div class="lang-zh">
+
+**Felix:**
+我想从昨天刚刚结束的<span class="tooltip">FOMC（联邦公开市场委员会）<span class="tooltiptext">FOMC
+(Federal Open Market
+Committee)：美联储内部负责制定货币政策的委员会。</span></span>会议开始谈起。从<span class="tooltip">点阵图（dot
+plot）<span class="tooltiptext">点阵图(Dot
+Plot)：FOMC成员对未来联邦基金利率的匿名预测图表。</span></span>来看，他们实际上将2025年的GDP增长预期从1.7%下调至1.4%。失业率预期从4.4%上调至年底的4.5%。而<span class="tooltip">PCE（个人消费支出）<span class="tooltiptext">PCE(个人消费支出)通胀指数：美联储首选的通货膨胀衡量指标。</span></span>通胀预期从2.7%上调至3.0%。所以我们看到增长预期下调，通胀预期上调，但与此同时，他们对联邦基金利率的降息预测没有变化。大多数成员仍然预测今年会有两次降息。然而有趣的是，预测今年底前不降息的FOMC成员从四位增加到了七位。Joseph，你的解读是什么？
+
+**Joseph Wang:**
+对我来说，最有趣的就是点阵图的预测。看起来美联储对经济前景有点悲观，下调了增长预期，但同时又显得有些滞胀，对吧？你上调了通胀和失业率预期。过去几个月，美联储一直在说他们基本上会“行动迟缓”。鲍威尔告诉我们，经济中发生了太多事情——移民政策、财政政策、监管政策和贸易政策的变化——他不知道会发生什么，所以他只会等待。这和他通常的行为方式有些不同。现在他承诺要行动迟缓。这告诉我，在失业率上升之前，他真的不会采取任何行动，而失业率一直在上升。
+
+**Quinn Thompson:**
+2025年唯一的增量变化是，三个人从一次降息变为不降息，一个人从两次降息变为一次降息。所以这是鹰派的。而且最近的降息也要等到九月份才被市场定价。有人问到了移民问题，他指出，劳动力萎缩导致失业率更稳定，他基本上认为这是可以接受的。在很多方面，这都非常鹰派。我认为他们需要看到市场走弱才会采取行动。
+
+**Felix:**
+我的看法是，美联储仅仅保持利率不变，实际上仍在制造一种更具限制性的货币政策立场。尽管他们的意图是什么都不做，但通过无所作为，他们实际上是鹰派的。随着通胀下降，实际利率会上升。感觉他们总是在找理由保持鹰派立场。
+
+
+
+## The SLR Exemption: Unpacking the Fed's Regulatory Shift / SLR豁免：解读美联储的监管转变
+
+<div class="lang-en">
+
+**Felix:** Something else that's happening next week is that the Fed is
+planning to have a meeting about the <span class="tooltip">supplementary
+leverage ratio (SLR)<span class="tooltiptext">SLR (Supplementary
+Leverage Ratio): A U.S. bank regulation requiring large banks to hold a
+minimum level of capital against their total assets, regardless of
+risk.</span></span>. They're looking at implementing some sort of an SLR
+exemption for Treasuries or a meaningful loosening of those levels.
+Joseph, can you explain that whole dynamic? Why are they pursuing this
+deregulation approach?
+
+**Joseph Wang:** Taking a step back, in 2008 we had a huge crisis, so
+regulators decided to regulate banks in a big way. They imposed a whole
+bunch of costs on banks based on the size and composition of their
+balance sheet. For example, risk-weighted assets. They also added a
+backstop, the leverage ratio, where banks have to hold capital against
+an asset regardless of its riskiness. This SLR has been a real hindrance
+for banks that traffic in very safe assets like Treasuries because it
+imposes costs on trading these assets that don't really make sense. It's
+been widely thought that this has been harming the markets. Now, as the
+Treasury market continues to grow, it's becoming more of a highlight for
+regulators. They don't want the market to break. They're also thinking
+that if they were to decrease the cost of banks holding these
+Treasuries, maybe they would buy more, which would put downward pressure
+on interest rates. That seems to be the impetus for this change.
+
+**Quinn Thompson:** Most of the analysis I've seen around the SLR
+evaluates it in the context of what occurred during COVID when they last
+made this exemption. That's a difficult comparison because at the time,
+we were potentially in deflation, and the Fed had forward guidance
+stating no cuts. The repercussions of that resulted in the 2023 banking
+crisis. So I think there's probably PTSD on the banking side that
+restricts them and limits how effective SLR is.
+
+**Felix:** It feels like they're trying to grease the runway for when
+this huge rebuild of the <span class="tooltip">Treasury General Account
+(TGA)<span class="tooltiptext">TGA (Treasury General Account): The U.S.
+Treasury's primary checking account, used for most government payments
+and collections. Its balance affects market liquidity.</span></span>
+comes forth. You see this dynamic of trying to get these deregulations
+to happen, and furthermore, we're starting to see them try to really
+pass the GENIUS Act bill. The fastest-growing buyers of Treasury debt
+right now are stablecoins like Tether.
+
+
+
+<div class="lang-zh">
+
+**Felix:**
+下周将发生的另一件事是，美联储计划召开一次关于<span class="tooltip">补充杠杆率（SLR）<span class="tooltiptext">补充杠杆率(SLR)：美国的一项银行监管规定，要求大型银行持有最低水平的资本以应对其总资产，无论风险如何。</span></span>的会议。他们正在考虑对国债实施某种形式的SLR豁免，或大幅放松这些水平。Joseph，你能解释一下这整个动态吗？他们为什么会采取这种放松监管的方式？
+
+**Joseph Wang:**
+回顾一下，2008年我们经历了一场巨大的危机，所以监管机构决定大力监管银行。他们根据银行资产负债表的规模和构成，对银行施加了大量成本。例如，风险加权资产。他们还增加了一个后备措施，即杠杆率，要求银行无论资产风险如何，都必须持有相应的资本。这个SLR对于交易像国债这样非常安全的资产的银行来说，一直是个真正的障碍，因为它对交易这些资产施加了不合理的成本。人们普遍认为这损害了市场。现在，随着国债市场持续增长，这成了监管机构更关注的焦点。他们不希望市场崩溃。他们还认为，如果降低银行持有国债的成本，也许银行会购买更多，从而对利率产生下行压力。这似乎是这次变革的推动力。
+
+**Quinn Thompson:**
+我看到的大多数关于SLR的分析，都是在新冠疫情期间上次豁免的背景下进行的。这是一个困难的比较，因为当时我们可能处于通缩状态，而且美联储有明确的前瞻指引，表示不会降息。那种心态的后果导致了2023年的银行业危机。所以我认为，银行业可能存在创伤后应激障碍（PTSD），这限制了他们，也限制了SLR的有效性。
+
+**Felix:**
+感觉他们是在为<span class="tooltip">财政部总账户（TGA）<span class="tooltiptext">财政部总账户(TGA)：美国财政部的主要支票账户，用于大部分政府收支。其余额会影响市场流动性。</span></span>的大规模重建铺平道路。你看到了这种推动放松监管的动态，此外，我们开始看到他们试图真正通过GENIUS法案。目前，国债增长最快的买家是像Tether这样的稳定币。
+
+
+
+## The TGA Refill and Long Bond Yields / TGA补充与长期债券收益率
+
+<div class="lang-en">
+
+**Felix:** You have a situation where the TGA gets drawn down due to the
+debt ceiling, and then as soon as it gets resolved, they've got to
+rebuild it back up. That means a lot of bills issuance. Where do those
+flows come from? The last time this happened in 2023, they had a massive
+amount in the <span class="tooltip">Reverse Repo Program
+(RRP)<span class="tooltiptext">RRP (Reverse Repo Program): A Fed tool
+where money market funds can lend cash to the Fed overnight, effectively
+draining liquidity from the financial system.</span></span> to buffer
+this. This go-around, they have much less. The last two times these TGA
+refills happened, long-duration bond yields rose over 150 basis points.
+
+**Quinn Thompson:** I am of the belief that we do break out of the 5% on
+the long bond. The real catalyst is when the TGA refill starts. I think
+we're actually headed for a meaningful breakout in the 30-year, and it
+could be upwards of 100 basis points to over 6% later this year. I don't
+think it's good for risk assets. You're kind of stuck in that case
+because Fed cuts ultimately make things worse.
+
+**Joseph Wang:** The 30-year has been touching 5%. It really doesn't
+seem like it wants to go lower. But this is a global issue. The Japanese
+40-year keeps going higher. But when we think about longer-dated yields,
+we have to remember that there's a whole lot of tricks in the bag to
+keep it lower. One of them is to pull a Yellen-style activist Treasury
+issuance. Or they could use the SLR change to force banks to buy more
+Treasuries. Whenever a government has too much debt, one of the most
+common solutions is to have your commercial banks foot the bill. But
+until that happens, we probably have to have the long bond continue to
+go higher.
+
+
+
+<div class="lang-zh">
+
+**Felix:**
+由于债务上限问题，TGA的资金被耗尽，一旦问题解决，就必须重新补充。这意味着大量的短期国债（bills）发行。这些资金从何而来？上一次在2023年发生这种情况时，他们有大量的<span class="tooltip">逆回购工具（RRP）<span class="tooltiptext">逆回购工具(RRP)：美联储的一种工具，货币市场基金可以通过它隔夜向美联储借出现金，从而有效地从金融体系中抽走流动性。</span></span>作为缓冲。而这一次，他们的缓冲要少得多。前两次TGA补充期间，长期债券的收益率都上升了超过150个基点。
+
+**Quinn Thompson:**
+我认为我们确实会突破长期债券5%的收益率。真正的催化剂是当TGA开始补充时。我认为30年期国债实际上将迎来一次有意义的突破，今年晚些时候可能会上升超过100个基点，达到6%以上。我不认为这对风险资产是好事。在这种情况下你有点被困住了，因为美联储的降息最终会让事情变得更糟。
+
+**Joseph Wang:**
+30年期国债收益率一直在触及5%，看起来真的不想再低了。但这是一个全球性问题，日本的40年期国债收益率也在持续走高。但当我们考虑长期收益率时，必须记住，有很多技巧可以让它保持在较低水平。其中之一就是采取耶伦式的“积极主义”国债发行策略。或者，他们可以利用SLR的改变来迫使银行购买更多的国债。每当一个政府债务过多时，最常见的解决方案之一就是让商业银行来买单。但在那发生之前，我们可能不得不看到长期债券收益率继续走高。
+
+
+
+## The Powell Succession and Future Fed Policy / 鲍威尔的继任者与未来的美联储政策
+
+<div class="lang-en">
+
+**Felix:** We have to start thinking about what happens in 2026 and who
+replaces Chair Powell. The market will start to discount this. What
+happens if we get a super dovish chair that cuts rates by 200 bps
+regardless of where we are in the economy? How does the market digest
+that?
+
+**Joseph Wang:** The president gave an interview last week and he was
+like, "Chair Powell, he's like a stupid person. You know, maybe I'll
+just appoint myself." But I think that whoever President Trump appoints,
+it's going to be someone who's pretty dovish. If you were to really cut
+rates a lot, I think what I would be looking at is the dollar, because
+that could severely depreciate the dollar. That would be really bad for
+dollar assets. Longer-dated yields would go higher, but again, there are
+so many tools for the government to manage this. The government controls
+the computer. What they have less control of is the currency.
+
+**Quinn Thompson:** You wonder how much of the psychological benefit of
+that easing would be priced in ahead of time. Even if the new chair
+comes in and cuts 100 bps, it actually doesn't really lower interest
+expense all that much given the weighted average maturity of US debt.
+I'm not buying too much into the hysteria around this "shadow Fed" yet.
+But I do think as we get into Q4, it starts to become relevant.
+
+
+
+<div class="lang-zh">
+
+**Felix:**
+我们必须开始考虑2026年会发生什么，以及谁将接替鲍威尔主席。市场将开始计入这个因素。如果我们迎来一位超级鸽派的主席，无论经济状况如何都降息200个基点，会发生什么？市场将如何消化这种情况？
+
+**Joseph Wang:**
+总统上周接受采访时说：“鲍威尔主席，他就像个傻子。你知道，也许我就直接任命我自己。”但我认为，无论特朗普总统任命谁，都会是一个相当鸽派的人。如果你真的大幅降息，我认为我会关注美元，因为这可能会使美元严重贬值。这对美元资产将非常不利。长期收益率会走高，但同样，政府有很多工具来管理这一点。政府控制着那台计算机。他们较少控制的是货币本身。
+
+**Quinn Thompson:**
+你会想，这种宽松政策的心理效益有多少会提前被市场定价。即使新主席上任并降息100个基点，考虑到美国债务的加权平均期限，实际上并不会真正降低太多利息支出。我目前对这个“影子美联储”的歇斯底里情绪还不太买账。但我确实认为，随着我们进入第四季度，这个问题会开始变得重要。
+
+
+
+## Fiscal Dominance and the Debate Over IORB / 财政主导与准备金利率之辩
+
+<div class="lang-en">
+
+**Felix:** Another theme is fiscal dominance. We've seen talk, led by
+Senator Ted Cruz, about removing interest on reserve balances (IORB),
+which was implemented in '08. The banks can park reserves at the Fed and
+earn a pretty good yield, which is effectively us subsidizing bank
+profits. What would be the impact if we actually removed IORB?
+
+**Joseph Wang:** If we just went cold turkey and turned off IORB, it'd
+be tremendously disruptive. A bank like JP Morgan has a few hundred
+billion dollars of deposits at the Fed that suddenly yield nothing.
+They're going to go out and buy bills, lend in repo, and so forth, which
+will put downward pressure on all short-term interest rates. The federal
+funds market would disappear. It's not going to be how it's done. But
+right now, banks hold about \$3 trillion in reserves, getting about
+\$120 billion in interest income from the government. The government
+really doesn't need to be paying all that to them. So there's definitely
+scope to make it less. This is something the Fed has a right to do; they
+don't need Congress.
+
+**Felix:** I bring that up around this framing of fiscal dominance
+because it feels like the fiscal side is getting a lot more heavy-handed
+in creating the guardrails around monetary policy. It feels like a very
+different theme from the last 15 years.
+
+**Quinn Thompson:** Fiscal dominance has been with us since COVID, but
+also the examples in 2022 and 2023 banking crises. The reason they've
+had to step into the markets is because of the pressure on the long-term
+bond market. The worst case was the Bank of England gilt crisis in
+October '22. It's kind of where everybody's headed. The reason the US
+dollar is so at risk is because of the extreme concentration of US asset
+holdings by foreigners.
+
+
+
+<div class="lang-zh">
+
+**Felix:** 另一个主题是<span class="tooltip">财政主导（Fiscal
+Dominance）<span class="tooltiptext">财政主导(Fiscal
+Dominance)：指财政政策（政府支出和税收）对货币政策产生决定性影响，迫使央行为政府赤字融资的情况。</span></span>。我们看到由参议员特德·克鲁兹牵头的讨论，关于取消<span class="tooltip">准备金余额利息（IORB）<span class="tooltiptext">准备金余额利息(IORB)：美联储向商业银行存放在央行的准备金支付的利息。</span></span>，这是2008年实施的政策。银行可以将准备金存放在美联储并获得可观的收益，这实际上是我们用印钞来补贴银行的利润。如果我们真的取消了IORB，会产生什么影响？
+
+**Joseph Wang:**
+如果我们直接取消IORB，将会造成巨大的破坏。像摩根大通这样的银行，在美联储有数千亿美元的存款，突然之间收益为零。他们会去购买短期国债，进行回购借贷等，这将对所有短期利率产生下行压力。联邦基金市场将消失。事情不会这么做。但目前，银行持有约3万亿美元的准备金，从政府那里获得约1200亿美元的利息收入。政府真的没必要把这些钱都付给他们。所以肯定有空间让它减少。这是美联储有权做的事情，他们不需要国会。
+
+**Felix:**
+我在财政主导的框架下提出这一点，因为感觉财政方面在为货币政策设置护栏时，手段变得越来越强硬。这与过去15年的主题感觉非常不同。
+
+**Quinn Thompson:**
+财政主导自新冠疫情以来就一直存在，2022年和2023年的银行业危机也是例子。他们之所以不得不介入市场，是因为长期债券市场面临压力。最糟糕的例子是2022年10月的英国国债危机。这基本上是所有国家的发展方向。美元之所以如此危险，是因为外国人持有美国资产的极度集中。
+
+
+
+## Global Capital Flows and the US Dollar's Future / 全球资本流动与美元的未来
+
+<div class="lang-en">
+
+**Felix:** I want to zoom out and talk about global capital flows and
+the geopolitical situation. What's developing in the Middle East is
+increasing tail risk for oil, inflation, and long bond yields. Then
+there's this situation around global capital flows. You mentioned the
+blowoff top in American exceptionalism. A lot of that is tied to tariffs
+and balance of payments resolution. So I'm curious where you guys are at
+in this thesis of American exceptionalism.
+
+**Joseph Wang:** We saw that after "Liberation Day," the dollar sold
+off, Treasuries sold off, and US equities sold off, and then you had
+tremendous outperformance in European markets. The theme then was that
+the US was overexposed. Since what's happened in the Middle East, US
+assets seem to be doing a bit better. But my read is that the dollar
+safe-haven bid is not really strong. I think this move away from US
+exceptionalism is a structural theme. It's not going to happen in one
+day. That glimpse of it we saw on Liberation Day, I think we'll see it
+again.
+
+**Quinn Thompson:** There's record short positioning in the dollar.
+Every bank research report I get, their highest conviction trade is
+short dollar. But ultimately, if there is a larger decline in US assets,
+and foreigners are loaded up to the gills on exposure, they're taking
+nominal wealth hits. So, yes, there's this dynamic of repatriation, but
+if you're doing that from a minus 10% or 20% basis, it's not like
+they're flourishing. The reflexivity of if that changes and how many
+people need to scrap their plans creates flows that beget flows. It's a
+very inflationary outcome for us.
+
+**Felix:** People have been talking about the dollar losing reserve
+status for my entire life. How do you both appropriately discount the
+two possibilities? It feels irresponsible to not consider it, but at the
+same time, that's been a losing trade for many years.
+
+**Joseph Wang:** I won't say reserve currency is being lost, but
+weakened and depreciated. That seems so obvious to me. We're doing so
+many things that are antagonizing foreigners, discouraging them to hold
+our assets. And there's a sense that the administration doesn't actually
+want to have the reserve currency because they think the burden
+outweighs the benefits. To have a stronger manufacturing export sector,
+we need a weaker dollar.
+
+
+
+<div class="lang-zh">
+
+**Felix:**
+我想把视野放宽，谈谈全球资本流动和地缘政治局势。中东的发展正在增加石油、通胀和长期债券收益率的尾部风险。然后是全球资本流动的问题。你提到了“美国例外论”的顶峰。这很大程度上与关税和国际收支的解决方案有关。所以我很好奇你们对“美国例外论”这个论点的看法。
+
+**Joseph Wang:**
+我们看到，在“解放日”之后，美元、国债和美国股市都遭到了抛售，而欧洲市场则表现出色。当时的主题是美国风险敞口过大。自中东事件发生以来，美国资产似乎表现得好一些。但我的解读是，美元的避险买盘并不强劲。我认为这种告别美国例外论的趋势是一个结构性主题。它不会在一天之内发生。我们在解放日看到的那个苗头，我认为我们还会再次看到。
+
+**Quinn Thompson:**
+美元的空头头寸创下了记录。我收到的每一份银行研究报告，他们最有信心的交易就是做空美元。但最终，如果美国资产出现较大下跌，而外国人持有大量敞口，他们将遭受名义上的财富损失。所以，是的，存在资金回流的动态，但如果你是在下跌10%或20%的基础上这么做，那他们也并非欣欣向荣。如果情况发生变化，以及有多少人需要调整计划，这种反身性会创造出自我加强的资金流。这对我们来说是一个非常通胀的结果。
+
+**Felix:**
+我这辈子都在听人们谈论美元失去储备货币地位。你们俩如何恰当地权衡这两种可能性？不考虑它感觉不负责任，但与此同时，这多年来一直是个失败的交易。
+
+**Joseph Wang:**
+我不会说储备货币地位正在丧失，但正在被削弱和贬值。这对来我说似乎很明显。我们正在做很多事情，惹恼外国人，不鼓励他们持有我们的资产。而且有一种感觉是，本届政府实际上不想要储备货币地位，因为他们认为随之而来的负担超过了好处。为了拥有更强大的制造业出口部门，我们需要一个更弱的美元。
+
+
+
+## Navigating the Current Market: Portfolio Strategy / 驾驭当前市场：投资组合策略
+
+<div class="lang-en">
+
+**Felix:** So, just to wrap this up, how to navigate from a portfolio
+standpoint everything we just talked about? It feels like almost every
+asset class has some sort of landmine associated with it. To me, it sort
+of feels like you're left with gold and Bitcoin.
+
+**Quinn Thompson:** I hate the risk-reward for almost every asset. I
+think the most money to be made over the next 12 months is probably on
+the short side of most assets. If you're in cash, you're long the
+dollar, and even that is probably not that safe. So, inflation-protected
+securities, bonds, TIPS, things like that. And playing the short side.
+Playing currencies more often than you would to protect your purchasing
+power. Bitcoin is the liquidity release valve, and if Powell's
+committing to being three to six months delayed on cutting, that's not
+an attractive setup either. So, I think like short bonds, short equities
+almost.
+
+**Joseph Wang:** I agree with you guys. I think there's a lot of things
+happening. For my subscribers, I have a market view portfolio to help
+people think through how to position. In that portfolio, there's only
+two things: it's cash and gold. And hopefully, as some of these riskier
+things materialize and if the currency continues to decline, like I
+think it will, I think there'll be good buying opportunities in the
+coming months. Personally, I like the short side, too.
+
+
+
+<div class="lang-zh">
+
+**Felix:**
+那么，总结一下，从投资组合的角度来看，如何驾驭我们刚才讨论的所有情况？感觉几乎每一种资产类别都伴随着某种地雷。对我来说，感觉好像只剩下黄金和比特币了。
+
+**Quinn Thompson:**
+我讨厌几乎所有资产的风险回报比。我认为未来12个月最能赚钱的可能是在大多数资产的空头方面。如果你持有现金，你就是做多美元，但即使那样也可能不安全。所以，通胀保值证券、债券、TIPS之类的东西，还有做空。比平时更频繁地交易货币来保护你的购买力。比特币是流动性的释放阀，如果鲍威尔承诺要延迟三到六个月才降息，那也不是一个有吸引力的设置。所以，我觉得差不多可以做空债券、做空股票。
+
+**Joseph Wang:**
+我同意你们。我认为发生了很多事情。对于我的订阅者，我有一个市场观点投资组合，帮助人们思考如何定位。在那个投资组合中，只有两样东西：现金和黄金。希望随着一些风险事件的发生，以及如果货币像我认为的那样继续贬值，未来几个月会有好的买入机会。就我个人而言，我也喜欢做空。
