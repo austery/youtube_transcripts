@@ -12,20 +12,20 @@ data:
   source: "https://www.thewayofcode.com/"
 ---
 
-<div class="container">
 
-<div>
+
+
 
 # Rick Rubin: Vibe Coding is the Punk Rock of Software
 
-<div class="subtitle">
+
 
 A conversation exploring ancient philosophy, modern AI, and the future
 of creativity.
 
 
 
-<div class="episode-info">
+
 
 On this episode of "The Ben & Marc Show", a16z co-founders Marc
 Andreessen and Ben Horowitz sit down with legendary music producer and
@@ -50,12 +50,11 @@ soul-searching journey across music, philosophy, tech, and truth. We
 hope you enjoy this deeply personal and surprisingly practical
 conversation on how to live—and create—in the age of AI.
 
-*The Way of Code: <a href="https://www.thewayofcode.com/"
-target="_blank">https://www.thewayofcode.com/</a>*
+*The Way of Code: *
 
 
 
-<div class="quote">
+
 
 “Tools will come and tools will go. Only the vibe coder remains.” - Rick
 Rubin
@@ -91,9 +90,9 @@ Rubin
 
 
 
-<div id="contentToCopy">
 
-<div class="speaker-intro">
+
+
 
 ### 讲述者简介 / Speaker Introduction
 
@@ -129,7 +128,7 @@ involved in shaping and investing in emerging technologies and startups.
 
 
 
-<div class="section">
+
 
 ## Intro: Rick Rubin and The Way of Code / 引言：里克·鲁宾与《编程之道》
 
@@ -193,7 +192,7 @@ spin slow. You can ask it to to make whatever changes you'd like it to.
 
 
 
-<div class="section">
+
 
 ## Remix Culture and AI as Creative Tool / 混音文化与作为创作工具的人工智能
 
@@ -294,7 +293,7 @@ about that I guess?
 
 
 
-<div class="section">
+
 
 ## Finding Inspiration From the Tao Te Ching / 从《道德经》中寻找灵感
 
@@ -321,7 +320,7 @@ the best parts. So, it was super enjoyable to read.
 
 
 
-<div class="section">
+
 
 ## How a Meme Led to Rick's Book / 一个梗图如何促成了里克·鲁宾的书
 
@@ -375,7 +374,7 @@ different kind of sounds, ideas, everything.
 
 
 
-<div class="section">
+
 
 ## Vibe Coding is the Punk Rock of Software / 氛围编程是软件界的朋克摇滚
 
@@ -467,7 +466,7 @@ a name tag and then I realiz, oh, that's that hi-fi show.
 
 
 
-<div class="section">
+
 
 ## Deep Fake Inversion and Wrestling Philosophy / 深度伪造的反转与摔跤哲学
 
@@ -600,7 +599,7 @@ unconscious?
 
 
 
-<div class="section">
+
 
 ## Collective Unconscious and the 100th Monkey / 集体无意识与第一百只猴子
 
@@ -674,7 +673,7 @@ known in the past but for some reason have been lost.
 
 
 
-<div class="section">
+
 
 ## Can AI Believe in God? / 人工智能能否信仰上帝？
 
@@ -757,7 +756,7 @@ the the thing that we need for AI to be all that it can be.
 
 
 
-<div class="section">
+
 
 ## Is AI Creative or Mimicking? / 人工智能是创造还是模仿？
 
@@ -916,7 +915,7 @@ do you think?
 
 
 
-<div class="section">
+
 
 ## Tuning Into Ourselves / 调频自我
 
@@ -1047,7 +1046,7 @@ with a global monoculture.
 
 
 
-<div class="section">
+
 
 ## Global Monoculture vs. Local Creativity / 全球单文化与本土创造力
 
@@ -1154,7 +1153,7 @@ what's best for someone else is probably not a great idea.
 
 
 
-<div class="section">
+
 
 ## Putting AI in the Hands of Masters / 将人工智能交予大师之手
 
@@ -1305,7 +1304,7 @@ things.
 
 
 
-<div class="section">
+
 
 ## Working With Johnny Cash / 与约翰尼·卡什的合作
 
@@ -1419,7 +1418,7 @@ you think the world wants you to be.
 
 
 
-<div class="section">
+
 
 ## Relationship Between Art and Audience / 艺术与观众之间的关系
 
@@ -1518,7 +1517,7 @@ but that still doesn't guarantee that it works.
 
 
 
-<div class="section">
+
 
 ## How to Best Serve an Audience / 如何最好地服务观众
 
@@ -1719,7 +1718,7 @@ point in my life.
 
 
 
-<div class="section">
+
 
 ## Outro: Vibe With Yourself / 结语：与自我共振
 
@@ -1735,6 +1734,6 @@ how to vibe with yourself. That's what it is.
 
 
 
-<div class="copy-button-container">
+
 
 一键复制为Markdown
