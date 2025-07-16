@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>公司全员大会纪要：2025年6月</title>
+    <script src="https://unpkg.com/turndown/dist/turndown.js"></script>
+    <style>
+        /* === 基础与布局 === */
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.8; margin: 0; padding: 20px; background-color: #f9f9f9; color: #333; }
+        .report-container { display: flex; flex-direction: row; gap: 25px; max-width: 1200px; margin: 20px auto 0 auto; }
+
+        /* === 元数据区块 === */
+        .metadata-block { background-color: #eef2f7; border-left: 5px solid #007bff; padding: 15px 20px; margin-bottom: 25px; border-radius: 8px; font-size: 0.9em; max-width: 1200px; margin: 0 auto; }
+        .metadata-block p { margin: 5px 0; color: #555; }
+        .metadata-block strong { color: #333; margin-right: 8px; }
+        .metadata-block a { color: #007bff; text-decoration: none; font-weight: bold; }
+        .metadata-block a:hover { text-decoration: underline; }
+
+        /* === 目录侧边栏 === */
+        .sidebar-toc { flex: 0 0 250px; position: sticky; top: 20px; align-self: flex-start; max-height: 90vh; overflow-y: auto; padding: 15px; background-color: #fff; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        .sidebar-toc h3 { margin-top: 0; font-size: 1.1em; border-bottom: 1px solid #eee; padding-bottom: 10px; }
+        .sidebar-toc ul { list-style: none; padding: 0; margin: 0; }
+        .sidebar-toc li a { text-decoration: none; color: #007bff; display: block; padding: 8px 0; transition: color 0.2s; }
+        .sidebar-toc li a:hover { color: #0056b3; }
+        .sidebar-toc .level-h3 a { padding-left: 20px; font-size: 0.9em; color: #555; }
+
+
+        /* === 主内容区 === */
+        .main-content { flex: 1; background-color: #fff; padding: 20px 30px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        .main-content h1, .main-content h2 { border-bottom: 1px solid #eee; padding-bottom: 10px; margin-top: 40px; }
+        .main-content h1 { font-size: 2em; }
+        .main-content h2 { font-size: 1.5em; }
+        .main-content h3 { font-size: 1.2em; border-bottom: none; margin-top: 30px; }
+        .lang-en { font-family: 'Georgia', serif; color: #444; margin-bottom: 0; }
+        .lang-zh { color: #333; margin-top: 5px; }
+        b { color: #0056b3; }
+
+        /* === 操作按钮 === */
+        .action-buttons { margin-top: 40px; text-align: center; }
+        #copy-md-button { background-color: #007bff; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; transition: background-color 0.3s; }
+        #copy-md-button:hover { background-color: #0056b3; }
+
+        /* === 响应式设计 === */
+        @media (max-width: 768px) {
+            .report-container { flex-direction: column; }
+            .sidebar-toc { position: static; flex-basis: auto; width: 100%; max-height: none; box-sizing: border-box; margin-bottom: 20px;}
+        }
+    </style>
+</head>
+<body>
+
+    <div class="metadata-block">
+        <p><strong>主持人:</strong> Dave</p>
+        <p><strong>嘉宾:</strong> Mike, Bonnie, Nicolette, James, Brian</p>
+        <p><strong>视频链接:</strong> <a href="placeholder.html" target="_blank" rel="noopener noreferrer">观看源视频</a></p>
+    </div>
+
+    <div class="report-container">
+        <aside id="toc-container" class="sidebar-toc"></aside>
+        <main id="content-body" class="main-content">
+            <h1>公司全员大会纪要：2025年6月</h1>
+
+            <h2>开场对话：Mike 分享对 AI 和行业趋势的看法</h2>
+            <p class="lang-en"><b>Dave:</b> So before we kind of get into any serious questions, maybe what's going on with you? What's what's life been like? What what you been up to? Just you know, maybe a less businessy just what's going on with Mike these days?</p>
+            <p class="lang-zh"><b>Dave:</b> 在我们进入任何严肃的问题之前，也许可以先聊聊你最近怎么样？生活如何？都在忙些什么？就是，少点商业气息，多聊聊迈克最近的个人生活？</p>
+            <p class="lang-en"><b>Mike:</b> Well, yeah, shoulder recovery, little rotator cuff surgery, slow rehab. So not a lot of fun stuff to do these days. So it actually has a free it. I look at it as a gift, right when something like this happens, I have the gift of being able to do something that I normally wouldn't do and at the time was right. You know, I've spent a lot more time trying to understand the AI world. I feel like a few months back I couldn't even spell AI and and I'm trying to get smart on it. And by no means am I intelligent all on AI, but definitely been spending a little more time trying to understand that world because I think the tectonic plates are shifting beneath our feet. And you know, as you know, honestly, not only as an organization, but as a as humanity, we got to get ready for this. It's it's not going to be a subtle change. It's going to be dramatic.</p>
+            <p class="lang-zh"><b>Mike:</b> 嗯，是的，肩膀在恢复中，做了一个小小的肩袖手术，康复过程很慢。所以这些天也没什么有趣的活动。但这实际上也让我有了空闲。我把它看作一份礼物，对吧？当发生这样的事情时，我得到了一个礼物，能够去做一些我平时不会做的事情，而且时机正好。你知道，我花了很多时间试图去理解AI（人工智能）的世界。感觉几个月前我连AI这个词都拼不出来，现在我正努力学习它。我绝不是AI专家，但确实花了不少时间去理解那个世界，因为我觉得我们脚下的构造板块正在移动。坦白说，不仅作为一个组织，更是作为全人类，我们都必须为此做好准备。这不会是一个微小的变化，它将是巨大的。</p>
+            <p class="lang-en"><b>Dave:</b> Nice. Well, I mean, listen, everybody, if if Mike can get into AI, we all can. So that's he's kind of the Canary in the mine. So thanks for that. Mike, you're at Toronto Tech this week a little bit. You've done speaking engagements. You've been around, met a lot of time with with different companies. I'm curious kind of from a vision perspective, just different things that you're seeing that you think might be applicable or, or interesting. I mean, the magic trend of, oh wow, people are doing stuff with AI. Anything deeper than that? Anything beyond or is that kind of all the rage and all the talk?</p>
+            <p class="lang-zh"><b>Dave:</b> 不错。好吧，大家听着，如果迈克都能开始研究AI，那我们大家都可以。所以他就像是煤矿里的金丝雀（早期预警信号）。谢谢你，迈克T。这周你参加了多伦多科技周的一些活动，做了演讲，也和很多不同的公司见了面。我很好奇，从一个愿景的角度，你看到了哪些你认为可能适用或有趣的事情？除了“哇，人们在用AI做事”这种显而易见的趋势外，有没有更深层次的东西？还是说，现在所有的热门话题都仅限于此？</p>
+            <p class="lang-en"><b>Mike:</b> I think, you know, the, the, the headline is nobody really knows exactly how it's going to impact us. And but everybody, I mean, it's the only thing people are talking about. I met with our new federal minister of AI and digital transformation. It sounds like they're dead serious about implementing AI into government. And they're not the only one. Governments around the world are investing in this stuff. Every organization I spoke with, I spent time at that creative destruction lab at the FT yesterday, which is really kind of the birthplace of AI. And, and if you know, dramatic transformation. I mean, their prediction is that the next five years will be the most transformational in in human history because of AI. You could debate that one way or the other, but there's no doubt it's going to be, you know, more significant impact than likely the Internet was 25 years ago.</p>
+            <p class="lang-zh"><b>Mike:</b> 我认为，头条新闻是，没有人真正确切地知道它将如何影响我们。但是每个人，我的意思是，这是人们唯一在谈论的事情。我见了我们新的联邦AI与数字转型部长，听起来他们对于在政府中实施AI是极其认真的。而且他们不是唯一一个。世界各地的政府都在投资这个领域。我交谈过的每一个组织，我昨天在《金融时报》的那个“创造性破坏实验室”（Creative Destruction Lab）待了一段时间，那里可以说是AI的诞生地。他们的预测是，由于AI，未来五年将是人类历史上最具变革性的五年。你可以对此有不同看法，但毫无疑问，它的影响将比25年前的互联网更为深远。</p>
+            <p class="lang-en"><b>Dave:</b> On on the competitive inspiration side of things, was there any founder or early stage company or something that you found that we could learn from that that was interesting.</p>
+            <p class="lang-zh"><b>Dave:</b> 在竞争性启发方面，你有没有发现哪个创始人、早期公司或什么东西，是我们可以从中学习的，并且很有趣的？</p>
+            <p class="lang-en"><b>Mike:</b> Yeah. I mean, I, I spent time with Harley and Toby from Shopify. They had a dinner event at Toby's house last night. But many of you may have seen his his internal memo that got leaked to the press. It was the New York Times got printed a number of places where Toby had his, let's call it his mobile first moment like Zuckerberg did over a decade ago. And he said, holy **** we're building for the wrong platform. They had the same sort of transformation said, look, we, you know, it would be a mistake for us to think about this as, you know, AI, something we sprinkle on the other business. We need to start with with AI. And you know that Shopify now it's like, you know, you can't hire anybody unless you unless you've proven why the job can't be done by AI. So they've leaned in really hard on AI. You know, they're and that means for us, if we're going to get people proficient on AI, then they may not have had that... It means we're gonna have to make some sacrifices, right? That's the thing about priorities. It just means when you say yes to something, it means there's a number of things you have to say no to.</p>
+            <p class="lang-zh"><b>Mike:</b> 是的。我花时间和Shopify的哈利和托比在一起。昨晚他们在托比家有个晚宴。你们很多人可能都看过他那份泄露给媒体的内部备忘录，被《纽约时报》等多家媒体刊登。托比迎来了他的，我们称之为“移动优先时刻”，就像十多年前的扎克伯格一样。他说：“天哪，我们正在为错误的平台进行构建。”他们也经历了类似的转变，说：“我们不能把AI看作是洒在其他业务上的一点点缀，我们必须从AI开始。”现在Shopify的情况是，你招不到任何人，除非你能证明这份工作为什么不能由AI来完成。所以他们非常坚定地投入到AI中。这意味着，如果我们想让员工精通AI，我们就必须做出一些牺牲，对吧？这就是优先级的意义。当你对某件事说“是”的时候，就意味着你必须对很多其他事情说“不”。</p>
+            <p class="lang-en"><b>Dave:</b> Yeah, I, I think that the challenge is real in terms of just the commitments of the past and where we need to go in the future or a constant battle. And his manifesto wasn't that long ago. It's not like they figured this out five years ago. This is, I think months ago when you shared that around or when we kind of had to look at it. So, you know, I've talked to some folks on their team as well and, you know, they're they're a little bit ahead in terms of having that organizational direction. But honestly, everyone, at least at scale, is kind of moving at a pace that's, you know, some real and some not. Depends how good their marketing machine is to tell you one or the other. So it's really, really interesting going on out there.</p>
+            <p class="lang-zh"><b>Dave:</b> 是的，我认为挑战是真实存在的，即过去的承诺和未来的方向之间存在着持续的斗争。他的宣言也不是很久以前的事，不是说他们五年前就想通了，我想也就是几个月前你分享那个备忘录的时候。我和他们团队的一些人也聊过，他们在组织方向上是领先一点。但老实说，至少在规模化的公司里，每个人的前进速度，有些是真实的，有些则不然，这取决于他们的营销机器有多厉害。所以外面发生的事情真的非常有趣。</p>
+            <p class="lang-en"><b>Dave:</b> Anything that you heard that would have you think differently about how we build or lead or scale our teams differently than we do today?</p>
+            <p class="lang-zh"><b>Dave:</b> 你有没有听到什么会让你对我们如何构建、领导或扩展团队的方式有不同于今天的思考？</p>
+            <p class="lang-en"><b>Mike:</b> Yeah, I think it's different and I don't, you know, I think the way we what we've done for the last 20 years, not the way we're going to build software in the future. And again, I don't think anybody got the exact formula figured out, but it's smaller teams, faster iterations forward deployed. Software engineers like people that, you know, that they understand the world and capabilities of AI that don't go and ask their customers what they want because honestly, customers don't know. They go in and and live with the customer go, oh, this is something could be done by a machine. Like we don't need humans doing this stuff. I think it's just a different way... you need to not only just go how to automate this process, but rethink the entire process from the beginning, you know, with it, with an AI mindset. So I think it's going to be shorter cycle times, smaller teams, faster iterations. Is is kind of the common thread that, you know, that I've been hearing.</p>
+            <p class="lang-zh"><b>Mike:</b> 是的，我认为会有所不同。我们过去20年的做法，不会是我们未来构建软件的方式。同样，我不认为有谁已经找到了确切的公式，但趋势是更小的团队、更快的迭代、前置部署。软件工程师需要是那些了解AI世界和能力的人，他们不是去问客户想要什么，因为坦白说，客户并不知道。他们深入客户的日常，然后发现“哦，这件事可以由机器来完成，我们不需要人来做”。这是一种不同的方式……你不仅要考虑如何自动化这个流程，更要用AI的思维模式，从头开始重新思考整个流程。所以我认为，我听到的共同主线是：更短的周期、更小的团队、更快的迭代。</p>
+            <p class="lang-en"><b>Dave:</b> So what's 1 idea you'd like everyone in the company to take seriously or start experimenting with?</p>
+            <p class="lang-zh"><b>Dave:</b> 那么，你希望公司里的每一个人都能认真对待或开始试验的一个想法是什么？</p>
+            <p class="lang-en"><b>Mike:</b> I think that, you know, number one has just become proficient with, I like understanding the capabilities of it. And then anytime you're doing it, you know, any, any task of repetitive task, start thinking about how we might apply that. Because I mean, there's certainly AI that we want to deliver to our customers, but there's also ways that we can make our, our own jobs and automate those things and make them far easier, be far more productive. So you have to, you have to walk in with an AI mindset to, to everything you do.</p>
+            <p class="lang-zh"><b>Mike:</b> 我认为，第一点就是变得精通，我喜欢去理解它的能力。然后，任何时候你在做任何重复性任务时，都要开始思考我们如何可以应用它。因为，我们当然要向客户交付AI产品，但同时我们也可以利用AI来自动化我们自己的工作，让它们变得更容易，从而大大提高生产力。所以，你必须带着AI的思维模式去做每一件事。</p>
+            
+            <h2>客户影响力故事：Intermountain Proactive Care Services</h2>
+            <p class="lang-en"><b>Dave:</b> Hopefully you got some learning there. So really, really exciting. I do as I've talked about in the past, it's really important for us to highlight the importance of what we do... I think it really helps reground us and why we're here, why most of us joined in and wanted to be part of this company to begin with. So just good reminder. So with that, Bonnie, would you mind coming on and taking us through a customer impact story?</p>
+            <p class="lang-zh"><b>Dave:</b> 希望你们从中学到了一些东西。这真的很令人兴奋。正如我过去所说，强调我们所做工作的重要性至关重要……我认为这能帮助我们重新审视我们为什么在这里，为什么我们大多数人最初选择加入这家公司。所以，这是一个很好的提醒。那么，Bonnie，你愿意上来为我们分享一个客户影响力故事吗？</p>
+            <p class="lang-en"><b>Bonnie:</b> Thanks so much, Dave. I would love to. I am Bonnie Smith, a customer Success Manager representing mid market. And I've had the opportunity to work hand in hand with Intermountain Proactive Care Services, previously known as Castell Health for the past two years in my seat. And they are a subsidiary of Intermountain Health out of Utah. And we're experiencing numerous, numerous challenges that they had brought to us around delayed claims data and inefficient care coordination. Today they are utilizing our value based care solution to gain those real time insights and visibility, including ADT alerts to track patient admissions and discharges across multiple care settings. As you're going to hear from the customer and the reference video... with that in place, they have experienced 150% increase in patient capture rate and saving approximately 30 hours per month per care coordinator. I think that is just huge.</p>
+            <p class="lang-zh"><b>Bonnie:</b> 非常感谢，Dave。我很乐意。我是Bonnie Smith，一位代表中端市场的客户成功经理。在过去两年里，我有幸与Intermountain Proactive Care Services（前身为Castell Health）紧密合作。他们是犹他州Intermountain Health的子公司，当时面临着诸多挑战，主要是关于理赔数据延迟和护理协调效率低下的问题。如今，他们正在使用我们的“基于价值的护理”（Value-Based Care）解决方案来获得实时洞察和可见性，包括ADT（入院、出院、转院）警报，以跟踪患者在多个护理机构的入院和出院情况。正如你们将从客户的参考视频中听到的……通过实施这个方案，他们的患者捕获率提高了150%，并且每位护理协调员每月能节省大约30个小时。我认为这成果是巨大的。</p>
+            <p class="lang-en"><b>Customer (Video):</b> with a value based care program. Our goal is to improve patient outcomes #1 the patient always comes first and along with that we want to improve the cost of care. It sounds ridiculous as a population health company that we don't know who our patients are and Point Click Care is our go to source for that. Now. Now I know within an hour, sometimes left of when that patient admits to the sniff, I contact our team, we put them on our radar to track their lengths of stay. ... All of that has been eliminated. We simply get an e-mail in real time... We don't utilize any other resources because we don't need them. We trust and we know that this is the best system. ... At one of our facilities. 36% capture rate through our prior and now we're over 90% capture, in some instances 100%.</p>
+            <p class="lang-zh"><b>客户 (视频):</b> 通过一个基于价值的护理项目，我们的首要目标是改善患者的治疗效果，患者永远是第一位的，同时我们还希望降低护理成本。作为一家人口健康公司，我们却不知道自己的患者是谁，这听起来很荒谬，而PointClickCare现在是我们获取这些信息的首选来源。现在，在患者入住专业护理机构（SNF）后不到一小时，我就会知道，并联系我们的团队，将他们纳入我们的监控范围，以跟踪他们的住院时长。……所有那些繁琐的流程都被消除了。我们只是实时收到一封电子邮件……我们不再使用任何其他资源，因为我们不需要了。我们相信并且知道这是最好的系统。……在我们的一家机构，之前的捕获率是36%，而现在我们的捕-获率超过了90%，在某些情况下甚至达到了100%。</p>
+
+            <h2>欢迎新任CFO：与Nicolette的对话</h2>
+            
+            <h3>从AI头像到加入PointClickCare的“为什么”</h3>
+            <p class="lang-en"><b>Dave:</b> I'm gonna welcome Nicolette. And before I do that... I was going to put an AI augmented headshot of you on here to have some fun. And then you shared with me a story. Would you mind doing that?</p>
+            <p class="lang-zh"><b>Dave:</b> 我要欢迎Nicolette。在此之前……我本来想放一张你用AI生成的头像来活跃气氛，然后你跟我分享了一个故事。你介意再分享一下吗？</p>
+            <p class="lang-en"><b>Nicolette:</b> Oh, OK yeah. So it was actually funny I Russia before I joined, you know, obviously they were looking to make the announcement and asked if I had an updated headshot. And I, I had not taken headshots and anytime in the last couple of years. And so, you know, I, I quickly kind of did a little bit of research and I found a company that actually does professional grade HD quality headshots using AI. So you essentially upload 20 photos of yourself and within 20 minutes, you're given 100 proofs of different head shots that are professional quality.</p>
+            <p class="lang-zh"><b>Nicolette:</b> 哦，好的。这事儿其实挺有趣的。在我加入之前，公司准备发布公告，问我有没有最新的头像照。而我过去几年都没拍过。所以，我很快做了点研究，找到了一家公司，他们用AI制作专业级的高清头像。你基本上只要上传20张自己的照片，20分钟内就能收到100张不同风格的专业品质头像样张。</p>
+            <p class="lang-en"><b>Dave:</b> I guess unless you're hiding under a Rock, You should all know that Nicolette is our CFO. One of the questions I always ask, and I'd love you to share that with this team, it's a little about the why. Why PointClickCare? You have lots of choices, a lot of things you can do. Why us?</p>
+            <p class="lang-zh"><b>Dave:</b> 我想，除非你与世隔绝，否则大家都应该知道Nicolette是我们的首席财务官（CFO）。我总会问一个问题，我也希望你能和团队分享，那就是“为什么”。为什么选择PointClickCare？你有很多选择，可以做很多事。为什么是我们？</p>
+            <p class="lang-en"><b>Nicolette:</b> Well, did you know I was not looking when PointClickCare came and and asked me to have some conversations... But where PCC sits at the intersection of technology and senior care is actually probably the most meaningful part of healthcare to me at the moment given and I've been very open and honest about this with my team as well as as I've talked to, you know, other folks around the move. My father has advanced dementia and has been in memory Care now for the last five years, has been in a facility needing 24/7 care for the last 10. Prior to that, I actually was his primary caregiver for several years. ... It has also given me such a huge appreciation for what our customers are dealing with on a daily basis. I experienced, you know, the just the veracity of our product and what it means to the healthcare system as a family member. And now being a part of PCC and hearing first hand really what it means to the clinical staff of our customers has only deepened the, the level of just pride and commitment that I have being a part of this organization.</p>
+            <p class="lang-zh"><b>Nicolette:</b> 其实，当PointClickCare找到我并希望进行一些交流时，我并没有在找新工作……但PointClickCare所处的科技与老年护理的交叉点，此刻对我来说可能是医疗健康领域最有意义的部分。这一点我已经和我的团队以及其他人坦诚地沟通过。我的父亲患有晚期痴呆症，过去五年一直在记忆护理中心，而在过去的十年里，他都需要在机构里接受全天候的护理。在此之前，我做了他好几年的主要照顾者。……这段经历也让我对我们的客户每天所面临的挑战有了极为深刻的理解。作为一个家庭成员，我体验了我们产品的真实价值及其对医疗系统的意义。现在成为PointClickCare的一员，并亲耳听到它对客户临床员工的真正意义，这只会加深我作为这个组织一员的自豪感和承诺感。</p>
+
+            <h3>财务视角与关键指标</h3>
+            <p class="lang-en"><b>Dave:</b> Getting on to kind of more financial matters. What I, it's funny as a, as a founder, if those of you that know me, you're closer to me, recognize I can be very critical, critical of a lot of things... And you have a kind of different perspective on that. And I kind of look at as you think about other businesses, our financial position, it was leading into where the biggest financial opportunity is, but just kind of risks or opportunities are how how you see it.</p>
+            <p class="lang-zh"><b>Dave:</b> 接下来说说财务方面的事情。作为创始人，我可能非常挑剔……而你对此有不同的看法。当你考虑其他业务和我们的财务状况时，我想知道你如何看待最大的财务机遇以及风险所在。</p>
+            <p class="lang-en"><b>Nicolette:</b> Yeah, I mean, so I'll talk a little bit about this when we kind of go over the finances. But you know, the the business and the financial profile of PCC is is absolutely incredible. We are our breathing kind of rare air and in the in the performance that we've enjoyed over the last, you know, five years... So what I think will make us successful in the future are many of the things that made us very successful in the past. It's really being able to continue to innovate, you know, using AI first principles... The principles of success in an AI economy are going to be distribution. So do you have access to customers? Do you have trust of those customers? And then ultimately do you have a product that is going to resonate?</p>
+            <p class="lang-zh"><b>Nicolette:</b> 是的，我们审视财务状况时可以再聊聊。但PointClickCare的业务和财务状况绝对是令人难以置信的。我们在过去五年的表现，可以说是在呼吸着稀薄的空气（意为非常出色）……我认为，未来让我们成功的许多因素，也正是过去让我们非常成功的那些。那就是要能够持续创新，运用AI优先的原则……在AI经济中成功的原则将是分销渠道——你是否能接触到客户？你是否赢得了这些客户的信任？以及最终，你是否有一个能引起共鸣的产品？</p>
+            <p class="lang-en"><b>Dave:</b> With SAS or healthcare metrics, what, what do you as a CFO care about the most?</p>
+            <p class="lang-zh"><b>Dave:</b> 对于SaaS（软件即服务）或医疗健康领域的指标，作为CFO，你最关心的是什么？</p>
+            <p class="lang-en"><b>Nicolette:</b> Yeah. So typically what I would tell you is I look at customer acquisition costs, I looked at LTV, I look at retention both gross and net. And given our incredible market share, our customer acquisition is best in class sufficient. Our LTV is also incredible. And so you know I continue to obviously be very interested in retention, both customer retention as well as net dollar retention. It's it's important metric in any SAS organization. But outside of that, I continue to also look at sales velocity as well as sales efficiency that is going to be kind of the lifeblood of, you know, the company moving forward.</p>
+            <p class="lang-zh"><b>Nicolette:</b> 通常我会说，我关注客户获取成本、LTV（客户终身价值），以及毛客户留存率和净客户留存率。鉴于我们惊人的市场份额，我们的客户获取成本是同类最佳的。我们的LTV也同样出色。所以我当然会继续对留存率——包括客户留存和净收入留存——非常感兴趣，这是任何SaaS组织的重要指标。但除此之外，我还会继续关注销售速度和销售效率，这将是公司未来发展的命脉。</p>
+            
+            <h2>业务更新与整合战略</h2>
+            <p class="lang-en"><b>Nicolette:</b> As we've exited the first half of the year. We are a bit behind in our bookings progress versus our plan. So we are at 85% year to date to to our plan. ... A stat that I looked up just this morning was that 52% of the S&P 500 actually misguidance in Q2. And so the fact that we are a little bit behind our plan which we put together in September of last year actually doesn't surprise me. ... ARR is performing at 100% to plan... And finally an EBAC which is you know a huge predictor right now of of enterprise value or valuation of the company. Externally, we are we are performing incredibly well. We are 100% year to date to plan.</p>
+            <p class="lang-zh"><b>Nicolette:</b> 在上半年结束时，我们的预订（bookings）进度略微落后于计划，达到了年度计划的85%。……我今天早上查了一个数据，标普500指数中52%的公司在第二季度未达到业绩指引。因此，我们略微落后于去年9月制定的计划，这并不让我感到意外。……我们的ARR（年度经常性收入）达到了计划的100%……最后是EBAC（公司内部的盈利能力指标），这是目前企业价值或公司估值的一个重要预测指标，我们表现得非常好，年度至今完成了计划的100%。</p>
+            <p class="lang-en"><b>James:</b> On the positive side, we've talked about pricing and packaging before and that has now been rebranded to something called POV or packaging for optimal value. And we're at the point now we're seeing good momentum from the enterprise customers... We're also transforming how we've been showing up and you've heard me say customer engagement transformation. We're showing U and talking to the executives of our customers with data on their performance... that's when you get an increase in Net Promoter score.</p>
+            <p class="lang-zh"><b>James:</b> 从积极的方面来看，我们之前讨论过的定价和打包策略，现在已经重新命名为POV，即“优化价值打包”。我们现在正看到来自企业客户的良好势头……我们也在转变我们与客户互动的方式，我称之为“客户互动转型”。我们向客户高管展示关于他们绩效的数据……这样才能提高净推荐值（NPS）。</p>
+            <p class="lang-en"><b>Brian:</b> So relatively strong quarter for AMP, you know very closely mirrors the overall trends with the broader corporate results. Maybe the most interesting trend that we're seeing from a a new business standpoint is growth and pipeline for for network growth opportunities. Because A&P is a network business, you know, it's super important that we're continuing to add notes to the network.</p>
+            <p class="lang-zh"><b>Brian:</b> 对于AMP（急症与付款方市场）来说，这是一个相对强劲的季度，与公司整体的趋势非常吻合。从新业务的角度看，最有趣的趋势可能是网络增长机会的渠道增长。因为AMP是一个网络业务，持续为网络增加节点是至关重要的。</p>
+            <p class="lang-en"><b>Dave:</b> As all of you know... we've, we've started to move forward on pulling the businesses together. And the idea behind that to begin with was a little more how can we get some synergy out of things that quite frankly are way more connected. We recognize that, but really haven't seen the value of how we can work together... How do you expect the organizations to come and work together? What do you expect out of it?</p>
+            <p class="lang-zh"><b>Dave:</b> 正如大家所知……我们已经开始着手整合各个业务部门。最初的想法是，我们如何能从那些坦白说本就紧密相连的业务中获得一些协同效应。我们认识到了这一点，但还没有真正看到合作的价值……你们期望这些组织如何协同工作？你们期望从中得到什么？</p>
+            <p class="lang-en"><b>Brian:</b> We've operated very successfully AS2 separate business units and we have some incredible results where our teams have partnered together both senior Care and AMP. And I'd look at this business unit combination really as the next step in us bringing that full value to market.</p>
+            <p class="lang-zh"><b>Brian:</b> 作为两个独立的业务部门，我们运营得非常成功，并且在老年护理和AMP团队合作方面取得了一些令人难以置信的成果。我认为这次业务部门的合并，是我们向市场提供完整价值的下一步。</p>
+            <p class="lang-en"><b>James:</b> As Brian said, solving that end to end where now we had two business units that were thinking about it from a sniff perspective and then from an acute separately... Now bringing it together allows us to tackle the true intersection with integrated solutions is what I'm probably the most excited about.</p>
+            <p class="lang-zh"><b>James:</b> 正如Brian所说，要端到端地解决问题。过去我们有两个业务部门，一个从专业护理机构（SNF）的角度思考，一个从急症医院的角度思考……现在将它们整合起来，让我们能用集成的解决方案来应对真正的交叉点，这可能是我最兴奋的事情。</p>
+
+            <h2>结语：拥抱AI，这是我们的时刻</h2>
+            <p class="lang-en"><b>Dave:</b> The thing that I've actually heard back to me is employees or team member saying, is AI a trend? I, I think the clear answer is no. We actually dealt with this back in 2000 and folks at the Internet was a trend and it's like, no, like if you're closer to it, you recognize it's not. If you're too far away, I would say it's very scary. The farther away you are, the closer you get to it, the easier it is and the more you can leverage that to understand what you need to go do. ... So the why is we just, it's where we need to be. And I think the last piece says it well. It's a moment for us to transform with urgency, with integrity and heart.</p>
+            <p class="lang-zh"><b>Dave:</b> 我实际听到有员工或团队成员问我：“AI是一种趋势吗？”我认为明确的答案是“不”。我们在2000年就处理过类似的问题，当时人们认为互联网是一种趋势，但事实并非如此。如果你离它越近，你就会认识到它不是趋势。如果你离得太远，我会说它非常可怕。你离得越远，就越害怕；离得越近，它就变得越容易，你就越能利用它来理解你需要做什么。……所以，我们之所以要这样做，是因为这是我们必须达到的位置。我认为最后那句话说得很好：这是一个我们以紧迫感、正直和热忱去变革的时刻。</p>
+            <p class="lang-en"><b>Dave:</b> A little bit of this truly is our moment. And I mean that for real. It is an opportunity to adapt, accelerate and lead with AI. And I won't use the expletive that I generally lose like LFG, but like, let's go. There's nothing holding us back that's not ourselves. And so don't wait for education to land on your lap... I spend 30 to 60 minutes every morning reading newsletters, getting on micro learning, understanding, learning, driving. And it's changed my whole perspective on what I can do... And if all 2500 of us think that way, nobody can touch us.</p>
+            <p class="lang-zh"><b>Dave:</b> 这真真切切是我们的时刻。我是认真的。这是一个适应、加速并用AI引领的机会。我不会用我常说的那个脏话，比如LFG（Let's Fucking Go），但就是，我们上吧！除了我们自己，没有什么能阻碍我们。所以，不要等待教育送到你面前……我每天早上花30到60分钟阅读资讯、进行微学习、理解、学习、驱动。这改变了我对自己能做什么的整个看法……如果我们2500个人都这么想，那就没人能动得了我们。</p>
+            
+            <div class="action-buttons">
+                <button id="copy-md-button">一键复制为Markdown</button>
+            </div>
+        </main>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            if (document.getElementById('toc-container') && document.getElementById('toc-container').innerHTML.trim() === "") {
+                generateTableOfContents();
+            }
+            initializeCopyToMarkdown();
+        });
+
+        function generateTableOfContents() {
+            const contentBody = document.getElementById('content-body');
+            const tocContainer = document.getElementById('toc-container');
+            if (!contentBody || !tocContainer) return;
+
+            const headings = contentBody.querySelectorAll('h2, h3');
+            if (headings.length > 0) {
+                tocContainer.innerHTML = '<h3>目录</h3>';
+                const tocList = document.createElement('ul');
+                headings.forEach((heading, index) => {
+                    const id = `heading-${index}`;
+                    heading.setAttribute('id', id);
+                    const listItem = document.createElement('li');
+                    listItem.className = `level-${heading.tagName.toLowerCase()}`;
+                    const link = document.createElement('a');
+                    link.setAttribute('href', `#${id}`);
+                    link.textContent = heading.textContent;
+                    listItem.appendChild(link);
+                    tocList.appendChild(listItem);
+                });
+                tocContainer.appendChild(tocList);
+            } else {
+                tocContainer.style.display = 'none';
+            }
+        }
+
+        function initializeCopyToMarkdown() {
+            const copyButton = document.getElementById('copy-md-button');
+            if (!copyButton) return;
+
+            copyButton.addEventListener('click', () => {
+                const contentBody = document.getElementById('content-body');
+                if (contentBody && typeof TurndownService === 'function') {
+                    var turndownService = new TurndownService({ headingStyle: 'atx' });
+                    // Custom rule to handle the bilingual format
+                    turndownService.addRule('bilingualParagraphs', {
+                        filter: function (node, options) {
+                            return (
+                            node.nodeName === 'P' &&
+                            node.classList.contains('lang-en')
+                            );
+                        },
+                        replacement: function (content, node, options) {
+                            let chineseNode = node.nextElementSibling;
+                            let chineseContent = '';
+                            if (chineseNode && chineseNode.classList.contains('lang-zh')) {
+                                chineseContent = chineseNode.innerHTML.replace(/<b>.*?<\/b>/g, '').trim();
+                            }
+                            let englishContent = node.innerHTML.replace(/<b>.*?<\/b>/g, '').trim();
+                            let speaker = node.querySelector('b') ? node.querySelector('b').textContent : '';
+
+                            return `**${speaker}**\n\n> ${englishContent}\n\n${chineseContent}\n\n`;
+                        }
+                    });
+
+                    // Remove Chinese paragraphs from the main conversion process
+                    turndownService.remove('lang-zh-paragraphs', function(node, options) {
+                        return node.nodeName === 'P' && node.classList.contains('lang-zh');
+                    });
+                    
+                    var markdown = turndownService.turndown(contentBody);
+                    
+                    navigator.clipboard.writeText(markdown).then(() => {
+                        copyButton.textContent = '复制成功!';
+                        setTimeout(() => { copyButton.textContent = '一键复制为Markdown'; }, 2000);
+                    }).catch(err => {
+                        console.error('复制失败: ', err);
+                        copyButton.textContent = '复制失败';
+                    });
+                }
+            });
+        }
+    </script>
+</body>
+</html>

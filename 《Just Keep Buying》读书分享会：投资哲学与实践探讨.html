@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>《Just Keep Buying》读书分享会：投资哲学与实践探讨</title>
+    <script src="https://unpkg.com/turndown/dist/turndown.js"></script>
+    <style>
+        /* === 基础与布局 === */
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; margin: 0; padding: 20px; background-color: #f9f9f9; color: #333; }
+        .report-container { display: flex; flex-direction: row; gap: 25px; max-width: 1200px; margin: 20px auto 0 auto; }
+
+        /* === 元数据区块 === */
+        .metadata-block { background-color: #eef2f7; border-left: 5px solid #007bff; padding: 15px 20px; margin-bottom: 25px; border-radius: 8px; font-size: 0.9em; max-width: 1200px; margin: 0 auto; }
+        .metadata-block p { margin: 5px 0; color: #555; }
+        .metadata-block strong { color: #333; margin-right: 8px; }
+        .metadata-block a { color: #007bff; text-decoration: none; font-weight: bold; }
+        .metadata-block a:hover { text-decoration: underline; }
+
+        /* === 目录侧边栏 === */
+        .sidebar-toc { flex: 0 0 250px; position: sticky; top: 20px; align-self: flex-start; max-height: 90vh; overflow-y: auto; padding: 15px; background-color: #fff; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        .sidebar-toc h3 { margin-top: 0; font-size: 1.1em; border-bottom: 1px solid #eee; padding-bottom: 10px; }
+        .sidebar-toc ul { list-style: none; padding: 0; margin: 0; }
+        .sidebar-toc li a { text-decoration: none; color: #007bff; display: block; padding: 8px 0; transition: color 0.2s; }
+        .sidebar-toc li a:hover { color: #0056b3; }
+
+        /* === 主内容区 === */
+        .main-content { flex: 1; background-color: #fff; padding: 20px 30px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        h1, h2, h3 { color: #222; }
+        h1 { font-size: 2em; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px; }
+        h2 { font-size: 1.5em; border-bottom: 1px solid #eee; padding-bottom: 8px; margin-top: 40px; }
+        h3 { font-size: 1.2em; margin-top: 30px; }
+        p { margin-bottom: 1em; }
+        b { color: #111; }
+        .action-buttons { margin-top: 30px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; }
+        #copy-md-button { background-color: #007bff; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; font-size: 1em; transition: background-color 0.2s; }
+        #copy-md-button:hover { background-color: #0056b3; }
+
+        /* === 响应式设计 === */
+        @media (max-width: 768px) {
+            .report-container { flex-direction: column; }
+            .sidebar-toc { position: static; flex-basis: auto; width: 100%; max-height: none; box-sizing: border-box; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="metadata-block">
+        <p><strong>主持人:</strong> Ray</p>
+        <p><strong>嘉宾:</strong> Betty, 小西瓜, Alex, 子龙, Elissa, 周月, Vance, Evan, Jaker</p>
+        <p><strong>视频URL:</strong> <a href="#" target="_blank">点击查看原视频 (URL未提供)</a></p>
+    </div>
+
+    <div class="report-container">
+        <aside id="toc-container" class="sidebar-toc"></aside>
+        <main id="content-body" class="main-content">
+            <h1>《Just Keep Buying》读书分享会：投资哲学与实践探讨</h1>
+
+            <h2>开场与下月读书计划</h2>
+            <p><b>Ray:</b> 大家好，能听到我吗？刚才麦克风有点问题。我们先把领读员 Betty 拉上来。Hello Betty，你现在在哪儿？</p>
+            <p><b>Betty:</b> 我在菲律宾。</p>
+            <p><b>Ray:</b> 在那边带团旅行吗？</p>
+            <p><b>Betty:</b> 不是，是自己来旅行的，大概待10到11天。</p>
+            <p><b>Ray:</b> 怎么样？你现在在马尼拉吗？</p>
+            <p><b>Betty:</b> 是的，在马尼拉。这边的物价真的比我想象的要高，甚至跟台湾有得一比，有些东西比台湾还贵。</p>
+            <p><b>Ray:</b> 具体贵在哪些方面？</p>
+            <p><b>Betty:</b> 主要是食物。如果在外用餐，一餐随随便便就要两三百台币，但东西又很少，还吃不饱。所以我很多时候都是自己煮。</p>
+            <p><b>Ray:</b> 确实，这比我们想象的要贵。就像我去马来西亚，大家总说便宜，但我发现在吉隆坡也并不便宜。好了，我们今天人比较少，我多邀请几位朋友上来。小西瓜，怎么样？刚考完试吗？</p>
+            <p><b>小西瓜:</b> 对，刚考完，快考傻了。考了概率统计、热学、高数，各种乱七八糟的。</p>
+            <p><b>Ray:</b> 好的，我再邀请一下大家。子龙也上来了，我感觉好像见过你。</p>
+            <p><b>子龙:</b> 我觉得应该是第一次和您在直播上交流。我们是跑步 program 的 A 组，我和小西瓜昨天刚从那个 program 毕业。</p>
+            <p><b>Ray:</b> 对，我就记得见过。我先说一下下个月的书，是 Adam Grant 的《Hidden Potential》。这本书其实比较简单，很多内容我们或多或少都见过。但我认为它很好的一点是，我们下个月社群的主题是 “Vibe Coding”，去编码你的潜力 (Vibe code your potential)，我觉得这非常重要。</p>
+            <p><b>Ray:</b> Alex 是程序员，你现在的工作流里有多少是 AI 在帮忙？</p>
+            <p><b>Alex:</b> 我基本上自己已经不写代码了，都是靠 AI。只有在调试 (debug) 和出错的时候才自己进去修，不然的话全部都交给 AI。所以未来很恐怖。</p>
+            <p><b>Ray:</b> 是的，非常恐怖。我这次去德州参加活动，老余就说他很多朋友都失业了，而且之后非常难找工作，包括中层管理和很多硅谷的程序员。因为大厂都把钱拿去买显卡了，这是他的原话。我最近花了很多时间沉迷于“Vibe Coding”，我觉得它非常重要。现在 AI 的能力是加速上涨的趋势，如果不开始，真的不知道什么时候才算晚。这本书能给我们很好的心态 (mindset) 和方法论，特别是帮助我们这些平时不接触代码的人，如何跳出舒适区，扩展自己的能力边界。我希望大家在读这本书的时候，能够带着“Vibe Coding”这个具体的背景去理解它。</p>
+
+            <h2>投资分享：储蓄、本金与早期认知</h2>
+            <p><b>Ray:</b> 好的，我们现在开始分享这个月的书《Just Keep Buying》。首先，我想请屏幕上的各位聊一聊，你都做什么投资？或者读完这本书后，哪一点对你影响最深刻？我们请 Betty 先来。</p>
+            <p><b>Betty:</b> 我目前比较看重储蓄，因为我觉得自己现在的收入偏低。虽然道理上说鸡蛋要分散在不同篮子里，但在金额很低的情况下，分散投资的意义不大。所以我非常想增加我的储蓄率。书中除了分享增加收入的方式，我印象最深刻的是他提到的，要从“人力资本”转换到“财务资本”的思维。这个提醒非常重要，因为我们很容易只专注于工作本身，而没有去做思维转换，这其实是在用自己的能力和时间去消耗。另外，书中提到的“两倍规则”——当你想花一笔钱消费时，你应该有两倍的钱放入投资——这个方法很好，能让我不敢乱花钱。</p>
+            <p><b>Ray:</b> 你提的储蓄这点特别好。对于刚开始投资、本金很少的年轻人来说，无论什么样的策略，意义都不大，因为曲线还处在非常早期的阶段。你提到的“两倍规则”，我尝试过，但做不到。更重要的问题是，像我们这些没有固定薪水 (paycheck) 的自由职业者，每个月固定存钱其实很困难，因为收入不稳定，可能这个月一分钱都没有。对于我们这类人，我想强调一个非常重要的观点：Pay yourself first (先支付给自己)。挣到一笔钱后，要很自私地先把一部分钱留给自己和家庭，这部分钱是不能动的，是积累储蓄和投资的基础。很多做生意的人挣了钱立刻又全部投入到生意中，这是个很大的问题。比如开餐馆，开一家挣钱了，就借钱开第二家，开到第十家时可能就倒闭了，自己身上一分钱没有，成了“现金穷人”(cash poor)。所以，如果你是自雇人士，一定要先支付给自己。</p>
+            <p><b>小西瓜:</b> 我看书里也说，在我这个年纪还是要以赚钱为主。至于储蓄，我本身比较省钱，现在主要是想办法怎么赚钱。就像 Ray 哥说的，没有本金，投资也增长不了多少。上次在香港和 M 姐也聊过，她的观点是在我这个年纪，如果有钱，应该多用钱去尝试新事物，因为到了一定年纪可能会丧失热情。我其实还不太清楚以后会怎么投资，但现在就在动脑筋想怎么赚钱。书中让我印象深刻的一句话是：“就算世界在我周围分崩离析，卖花的人还在那里卖他的花。” 这让我觉得，每个人对金钱的衡量标准其实是不一样的。</p>
+            <p><b>Ray:</b> 但我想说，你已经超越了身边99%的同学。因为很多人会因为“我没有本金”这个门槛，就完全不去考虑和研究投资了。你现在不能投资，不代表你不去研究投资，这是两回事。我就是赚到钱之后才开始研究，当时就觉得太晚了。所以，年轻时尽早研究，等有钱了，你就知道该怎么做。另外，关于花钱买经历，我其实不完全赞同《Die with Zero》里的观点。很多经历其实也就那么回事，真正有意义的是那种能带来反思的体验。不要把它当成一个信条，觉得年轻时就应该花钱买经验，否则就会错过什么，其实你不会的。</p>
+
+            <h2>投资理念的形成：从个股投机到指数基金</h2>
+            <p><b>Alex:</b> 我之前在大厂工作，有固定的收入，当时追求60%到80%的储蓄率，用 YNAB (一款知名的预算管理软件) 做预算，朝着 FIRE (Financial Independence, Retire Early：财务独立，提前退休) 的目标前进，感觉很好。但辞职后没有了收入，做预算就变得非常憋屈，因为只有开支。我现在其实没怎么做预算了，但最近开支有点多，想重新开始。</p>
+            <p><b>Alex:</b> 这本书虽然水分有点多，但它让我做了一个非常好的决定：我把所有的个股，比如微软、Facebook、英伟达，全部卖光了，换成了 VTI (Vanguard Total Stock Market ETF：Vanguard整体股市指数基金)。因为书里提到，你无法证明自己有优势能一直跑赢市场。你买的个股涨了，你怎么能保证未来30年你的业绩都比标普500好？30年前的大公司很多现在已经消失了。虽然我认为现在的科技巨头生命力更强，但未来依然充满不确定性。如果我买大盘，它会像进化论一样自我淘汰，把不好的公司剔除掉。</p>
+            <p><b>Alex:</b> 我自己以前有个误区，总觉得“现在是市场的最高点”，买不下去。等它跌了一点，又觉得“可能还会跌得更多”，结果一直错失良机。历史和个人经历都告诉我，这是最错误的决定。Time in the market beats timing the market (在市场中的时间比选择市场的时机更重要)。即使你在疫情前最高点买入，到现在也涨了很多。选择指数基金，就是让市场帮你做正确的选择。大家在讨论特斯拉、英伟达的时候，其实我通过指数基金已经全部持有了，感觉比较安心。</p>
+            <p><b>Alex:</b> 你需要真正痛过，才会明白这个道理。我实习时，微软股价45美元，亚马逊331美元，当时都觉得是最高点，没买。我56美元买入 Facebook，涨到73美元，听人说要大跌就卖了，结果错过了后面的巨大涨幅。我还买过别人推荐的7毛钱的大麻股，结果跌了97%。也追过木头姐 (Cathy Wood) 的 ARKK 基金，最后也很惨。算下来，买大盘可能不是最好的投资，但对我来说是最心安理得的。我这个“Alex 股票投资公司”的 CEO 业绩太差，早就该把自己开除了。所以我现在每个月风雨无阻地定投 VT (Vanguard Total World Stock Index ETF：Vanguard全球股市指数基金)，删掉了股票 App，不看新闻，专注于赚钱。</p>
+            <p><b>子龙:</b> 我可能是目前唯一一个拿固定工资的人。我的投资经历可能说非常幸运，也可能非常不幸。2019年，我大学毕业前用实习攒的几千美金，买了人生第一只股票，是一支石油股。买完后我就回国度假了。刚开始几天，股票涨了，我跟我当时的女朋友（现在的老婆）说，我觉得自己就是下一个巴菲特。但几天后，在西藏的某天早上，我兴冲冲地打开账户，发现归零了——那个公司在财报电话会议后宣布破产了。</p>
+            <p><b>子龙:</b> 我之所以说幸运，是因为这是我第一笔投资，也是我最后一笔投机性质的投资。从那以后，我再也没有买过自己不了解的、或者把所有钱都押在一只股票上的情况。工作后，我可以把税后工资的60%到90%存下来。起初我像个小巴菲特一样买了很多蓝筹股，后来发现收益并没有跑赢 QQQ (Invesco QQQ Trust：追踪纳斯达克100指数的ETF) 或 SPY (SPDR S&P 500 ETF Trust：追踪标普500指数的ETF)。于是我把大部分个股都清仓换成了 QQQ。</p>
+            <p><b>子龙:</b> 我现在大部分税后资金都定投 QQQ 和一个有稳定股息的 ETF (交易所交易基金)，同时缴满我的 401K (美国的一种由雇主赞助的退休储蓄计划) 和 HSA (Health Savings Account：健康储蓄账户)。我一直践行着“Just Keep Buying”，但会时刻保留10%到20%的现金作为紧急备用金。这笔钱让我在市场大跌时有底气“别人恐惧我贪婪”。比如今年四月大跌时，我就动用了50%的现金加仓。现在回头看，我非常庆幸当初做了那个决定。</p>
+            
+            <h2>进阶之路：加密货币与集中投资</h2>
+            <p><b>Elissa:</b> 我第一次投资比各位更极端，直接投了加密货币。我用200美金尝试，觉得投比特币涨幅有限，于是瞄准了山寨币，这是我做过最刺激的决定。我开了10倍、16倍的合约，钱涨得飞快，当然，跌得也超快。我体验到了赌徒的心态，可以一整个晚上都盯着盘面。有一次睡了三四个小时起来，发现赚了钱，一点都不觉得累，马上继续看盘。最后，当资金剩下15-20%的时候，我的理智线断了，直接赌了一把，结果全部亏光。这次经历花了我大概三四百美金，让我体验了从赚钱、盯盘到亏钱的全过程。我发现自己不适合这种波动性太大的资产，可能还是投 VOO 或 VT 这种大盘股更适合我。</p>
+            <p><b>Ray:</b> 大家老提个人风险承受能力，它到底是什么？是收入高，还是心理状态好？我总结一点：你的风险承受能力，体现在你对这个投资的“希望”有多大。你对它希望越大，你的风险承受能力就越低。如果它是你唯一的希望，那你就非常脆弱。我对特斯拉很看好，但并不抱太大希望，意思是如果马斯克突然出事了，这个代价我能承受。因为我的希望主要在我自己身上。</p>
+            <p><b>Vance:</b> 我在日本，这五年货币贬值了30%，物价飞涨。这种环境下，只做分散投资来保值是不够的。比如日本的股指，十年可能才涨40%，完全跟不上通胀。所以我决定冒险，从分散投资转向了集中投资。我投资的标的都是我花了很多时间去研究的，比如特斯拉和 MSTR (MicroStrategy：一家大量持有并投资比特币的商业智能公司)，后者实际上是加了杠杆的比特币。现在 MSTR 已经进入了 QQQ，等于说所有买 QQQ 的人都在被动投资杠杆比特币。</p>
+            <p><b>Vance:</b> 我认为比特币相对来说没有风险，它的长期回报远超标普500，而且现在已被政府承认。我没有负债，收入稳定，所以我敢于拥抱波动。我看的是十年以后的收益。我买的不是公司，是资产。通过 MSTR 这样的公司，我间接持有了比特币这种资产，避免了自己持有现货的高门槛和风险。我的理念是，只要法定货币在无限贬值，那么数量有限的比特币就会一直上涨。法定货币没有下限，比特币就没有上限。</p>
+
+            <h2>交易心理学：为何我们难以“持续买入”？</h2>
+            <p><b>周月:</b> 听了大家的讨论，真是回忆满满。我从2020年开始炒股，当时用的还是 Robinhood。我可能踩过的坑是所有人里最多的：买过木头姐的基金，买过蓝筹股，买过中概股，还买过 SPAC (特殊目的收购公司)，甚至玩过期权和末日期权。幸运的是，踩了那么多坑，亏了很多钱，但整体收益居然还是正的。这可能是不幸中的“不幸”，因为在美国这个牛市里，只要你坚持下来，总能等到回本甚至赚钱的时候，这会让你觉得自己的错误做法是对的。</p>
+            <p><b>周月:</b> 我反思，如果五年前我只是定投 SPY，现在的收益可能是目前的几倍。我知道自己频繁交易是出于寻求刺激的心理因素，再加上自以为技术好。道理我都懂，但做到太难了。这本书的核心思想就是“买入并持有”，这是一个长期主义的概念，正因为它太简单，所以才难坚持。我现在很矛盾，一方面认识到自己要改，另一方面又无法摆脱交易带来的乐趣。目前，我正在努力把盈利的个股逐步卖掉，然后将资金持续定投到 SPY 和特斯拉上。</p>
+            <p><b>Ray:</b> 我个人没有交易的经历，从2016年投资苹果到现在，卖出股票的次数一只手都能数过来。前两天，一个被我“洗脑”投了特斯拉的朋友，在三月份把股票全卖了。他卖掉的原因部分是因为需要换个大房子，但更深层的原因是他当时被一些新技术新闻动摇了。结果前两天他告诉我，他又买回来了，然后又卖了，做了一次波段操作 (swing trade)。我一点都不惊讶，因为我知道他有投机的心态。我的观点是，你越努力去交易，最后会发现收益还不如那些不努力的。就像彼得·林奇说的，你花在研究上的努力，很多时候是白费的。</p>
+
+            <h2>卖出策略与投资哲学：何时卖出，为何持有？</h2>
+            <p><b>Ray:</b> 我想问问大家，你有没有想好什么时候卖掉你手上的股票，为什么？</p>
+            <p><b>Alex:</b> 我不打算卖。我的投资年限是30年，这些钱在退休动用4%法则之前是不会碰的。我现在只看数量，不看价格，玩的是“存股”游戏。只要活在万恶的资本主义制度下，公司就会不断想办法赚钱，GDP 就会不断增长，那么指数长期来看就一定会涨。</p>
+            <p><b>子龙:</b> 我的想法很简单：Never (永不)。如果以后退休了，我希望靠股息 (dividend) 生活。我更希望这些股票能成为“代际财富”(generational wealth)，留给我的孩子。我个人没什么消费欲望，所以只要生活不发生巨大改变，我可以一直坚持下去。</p>
+            <p><b>Betty:</b> 我定投超过一年了，心里的预期是至少放十年以上，这个过程是不会卖的。</p>
+            <p><b>周月:</b> 长期账户里的股票基本不卖。短期账户里，除了大盘和特斯拉，其他的个股只要涨幅超过15%-30%的心理预期，我就会卖掉，然后把利润转到长期账户里。</p>
+            <p><b>Vance:</b> 特斯拉可能会卖一部分，用来做税务规划，换到新的免税账户里。比特币，我的想法是永远不卖，最多做抵押贷款。除非我感觉自己快要离世了，才会考虑卖掉一部分来花光它，否则赚那么多钱没意义。关于交易，我有个同事跟我一起买了 Metaplanet，但他不了解比特币，在股价翻倍时就全卖了，结果错过了后面更大的涨幅。最近股价回调，他又在下跌途中接了回来，结果买在了半山腰。市场会教会你什么叫痛。同一个标的，我看的是投资，他觉得是赌博，这取决于你看待它的时间维度和认知深度。</p>
+            <p><b>Evan:</b> 我去年加了杠杆投资特斯拉，今年三四月份市场大跌时确实很煎熬。看完这本书，我给自己定了一个卖出计划：两年内还清融资，五年后，无论是时间到了还是价格到了目标，都减仓一半，最后保留50%的仓位作为长期持有。我把这个计划在软件里设置好，然后就删掉了 App，把自己这次投资当成判了“五年有期徒刑”，尽量不去想它，把注意力转移到别的事情上。</p>
+
+            <h2>黄金、现金流与终极投资哲学</h2>
+            <p><b>Jaker:</b> 我是做黄金经纪业务的。我认为黄金本身不产生价值，它的价值来自于对冲现有信用货币体系的风险。买黄金，本质上是在做空美元的单位购买力。如果相信 M2 (广义货币供应量) 会持续增长，那么买黄金的长期逻辑就成立。</p>
+            <p><b>Jaker:</b> 但我不会把所有钱都投黄金，因为它不产生现金流 (cash flow)，无法改善你的生活。所以我投资组合的压舱石是一些能产生稳定股息的大盘蓝筹股，比如银行股。这部分现金流可以用来复投或日常消费，自由度很高。同时，我也会用一小部分资金（比如5%）采取高风险策略，比如购买价外期权。这种策略虽然成功率低，但一次成功的回报就可能覆盖所有成本，是一种杠杆很高的非对称性赌注。我的核心投资哲学是：在这个市场里待得尽可能久 (stay in the game as long as possible)。你的策略要保证你不会在黑天鹅事件中被清盘出局，只要你的船还在，就总有翻盘的机会。</p>
+            
+            <h2>主持人总结：投资是人生的“照妖镜”</h2>
+            <p><b>Ray:</b> 大家最后都讨论到了比较深的哲学层面。其实，更应该问的问题不是“黄金是不是投资”，而是“你做的是不是投资”。同一个标的，不同的人做的是完全不同的事。你的行为定义了这件事的性质。</p>
+            <p><b>Ray:</b> 你如何做投资，其实就反映了你如何做人。你的投资哲学，就是你人生哲学的反映。投资这个场域是一面“照妖镜”，它能照出你真实的样子。这也是我为什么鼓励大家去投资，因为通过这面镜子，我们能看清自己，然后才能进步。</p>
+            <p><b>Ray:</b> 最后，关于希望和风险。在投资市场中，你对某个投资标的的希望越大，你可能就越脆弱。但反过来，在场外，在你的生活和事业中，你的希望越大，你的安全感反而越高。很多人说“我希望永远不需要卖出股票”，我以前不理解，现在逐渐明白了。这意味着你的生活中充满了其他的希望和关注点，投资只是其中的一部分，而不是全部。</p>
+            <p><b>Ray:</b> 我的希望更多地放在自己身上，放在我的人生和事业上。如果说要 all-in 什么，我更愿意 all-in 我自己。所以，最后我想说，多读投资的书，你会发现读到最后都是哲学。下个月，我们一起加入 AI 的浪潮，拥抱未来的希望。我们要投资 AI，因为如果有一天我被 AI 取代了，我还能通过持有它的股份让 AI 为我工作。这就是我的策略。希望大家下个月一起读新书，跳出舒适圈，给自己一个投资自己的机会。这才是最好的投资。</p>
+
+            <div class="action-buttons">
+                <button id="copy-md-button">一键复制为Markdown</button>
+            </div>
+        </main>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            if (document.getElementById('toc-container') && document.getElementById('toc-container').innerHTML.trim() === "") {
+                generateTableOfContents();
+            }
+            initializeCopyToMarkdown();
+        });
+
+        function generateTableOfContents() {
+            const contentBody = document.getElementById('content-body');
+            const tocContainer = document.getElementById('toc-container');
+            if (!contentBody || !tocContainer) return;
+
+            const headings = contentBody.querySelectorAll('h2, h3');
+            if (headings.length > 0) {
+                tocContainer.innerHTML = '<h3>目录</h3>';
+                const tocList = document.createElement('ul');
+                headings.forEach((heading, index) => {
+                    const id = `heading-${index}`;
+                    heading.setAttribute('id', id);
+                    const listItem = document.createElement('li');
+                    const link = document.createElement('a');
+                    link.setAttribute('href', `#${id}`);
+                    link.textContent = heading.textContent;
+                    listItem.appendChild(link);
+                    tocList.appendChild(listItem);
+                });
+                tocContainer.appendChild(tocList);
+            } else {
+                tocContainer.style.display = 'none';
+            }
+        }
+
+        function initializeCopyToMarkdown() {
+            const copyButton = document.getElementById('copy-md-button'); 
+            if (!copyButton) return;
+
+            copyButton.addEventListener('click', () => {
+                const contentBody = document.getElementById('content-body');
+                if (contentBody && typeof TurndownService === 'function') {
+                    var turndownService = new TurndownService({ headingStyle: 'atx' });
+                    // Remove the button container from the markdown output
+                    const contentToCopy = contentBody.cloneNode(true);
+                    const buttonContainer = contentToCopy.querySelector('.action-buttons');
+                    if(buttonContainer) {
+                        buttonContainer.remove();
+                    }
+                    var markdown = turndownService.turndown(contentToCopy);
+                    
+                    navigator.clipboard.writeText(markdown).then(() => {
+                        copyButton.textContent = '复制成功!';
+                        setTimeout(() => { copyButton.textContent = '一键复制为Markdown'; }, 2000);
+                    }).catch(err => {
+                        console.error('复制失败: ', err);
+                        copyButton.textContent = '复制失败';
+                    });
+                }
+            });
+        }
+    </script>
+</body>
+</html>
