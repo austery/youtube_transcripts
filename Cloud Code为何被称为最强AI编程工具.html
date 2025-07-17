@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>深度评测：Cloud Code为何被称为最强AI编程工具？</title>
+    <script src="https://unpkg.com/turndown/dist/turndown.js"></script>
+    <style>
+     /* === 基础与布局 === */
+     body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; margin: 0; padding: 20px; background-color: #f9f9f9; color: #333; }
+     .report-container { display: flex; flex-direction: row; gap: 25px; max-width: 1200px; margin: 20px auto 0 auto; }
+     
+     /* === 元数据区块 === */
+     .metadata-block { background-color: #eef2f7; border-left: 5px solid #007bff; padding: 15px 20px; margin-bottom: 25px; border-radius: 8px; font-size: 0.9em; max-width: 1200px; margin: 0 auto; }
+     .metadata-block p { margin: 5px 0; color: #555; }
+     .metadata-block strong { color: #333; margin-right: 8px; }
+     .metadata-block a { color: #007bff; text-decoration: none; font-weight: bold; }
+     .metadata-block a:hover { text-decoration: underline; }
+
+     /* === 目录侧边栏 === */
+     .sidebar-toc { flex: 0 0 250px; position: sticky; top: 20px; align-self: flex-start; max-height: 90vh; overflow-y: auto; padding: 15px; background-color: #fff; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+     .sidebar-toc h3 { margin-top: 0; font-size: 1.1em; border-bottom: 1px solid #eee; padding-bottom: 10px; }
+     .sidebar-toc ul { list-style: none; padding: 0; margin: 0; }
+     .sidebar-toc li a { text-decoration: none; color: #007bff; display: block; padding: 8px 0; transition: color 0.2s; }
+     .sidebar-toc li a:hover { color: #0056b3; }
+
+     /* === 主内容区 === */
+     .main-content { flex: 1; background-color: #fff; padding: 20px 30px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+     
+     /* === 响应式设计 === */
+     @media (max-width: 768px) {
+         .report-container { flex-direction: column; }
+         .sidebar-toc { position: static; flex-basis: auto; width: 100%; max-height: none; box-sizing: border-box; }
+     }
+    </style>
+</head>
+<body>
+
+    <div class="metadata-block">
+        <p><strong>主持人:</strong> 海拉鲁编程课</p>
+        <p><strong>嘉宾:</strong> </p>
+        <p><strong>视频URL:</strong> <a href="https://www.youtube.com/watch?v=FLej8sW5d38" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=FLej8sW5d38</a></p>
+    </div>
+
+    <div class="report-container">
+        <aside id="toc-container" class="sidebar-toc"></aside>
+        <main id="content-body" class="main-content">
+            <h1>深度评测：Cloud Code为何被称为最强AI编程工具？</h1>
+
+            <h2>引言：两极分化的评价与个人体验</h2>
+            <p><b>主持人:</b> Cloud Code火了，但是大部分人对它的评价却两极分化。</p>
+            <p><b>主持人:</b> “2025年了，最强的AI编程工具居然是个黑框，这也太原始了吧！我还是用Cursor (一款深度集成AI能力的编辑器)，至少有个正常的界面。”</p>
+            <p><b>主持人:</b> “别人家都是套壳，它连壳都不想套。”</p>
+            <p><b>主持人:</b> 我承认，第一次看到Cloud Code，我也是这个反应。这黑乎乎的界面，怎么看都不像2025年的产品。</p>
+            <p><b>主持人:</b> 直到我用它完成了三个项目：重构了一个智能硬件服务端，搭建了一个方便我写作的软件，还有你们现在看到的这个视频。这个视频里面的所有动画效果，都是我和Cloud Code一起写的，代码仓库总计7万行。</p>
+            <p><b>主持人:</b> 大家好，我是海拉鲁编程课，用Cloud Code一个月了，我想把我的一些经验和体验分享给大家。</p>
+
+            <h2>视频内容概览</h2>
+            <p><b>主持人:</b> 如果你也想知道：为什么最强的AI编程工具偏偏选了一个土得掉渣的终端？怎么样让AI编程效率翻倍？AI编程的天花板到底在哪？这个视频你一定要看完。</p>
+            <p><b>主持人:</b> 本期视频分为五部分：</p>
+            <p><b>主持人:</b> 第一部分聊聊编辑器的进化史，从手敲代码到AI帮你写，最后揭秘为什么Cloud Code偏偏选择了一个终端。</p>
+            <p><b>主持人:</b> 第二部分是Cloud Code的一些使用技巧，我会分享最有效的实战技巧，包括我的“谋、定、动”三字诀，让AI编程效率翻倍。这些技巧不仅适用于Cloud Code，其他的AI编程工具同样有效。</p>
+            <p><b>主持人:</b> 第三部分会教你几个提示词技巧，让你的AI瞬间开窍，效率起飞。</p>
+            <p><b>主持人:</b> 第四部分，我们聊一聊AI的边界和限制，聊一聊AI编程到底能干什么，不能干什么。我总结了一套人-工程-大模型的分析框架，帮你来看清楚AI编程的边界和上限。</p>
+            <p><b>主持人:</b> 第五部分是我自己的总结和感悟：从程序员的“胶卷时代”到“数码时代”，聊一聊我真实的感受。</p>
+            <p><b>主持人:</b> 另外，本视频可以搭配我之前的视频，帮你更好地理解Cloud Code。好，那我们现在开始。</p>
+
+            <h2>一、编辑器的进化：从手敲代码到编程伙伴</h2>
+            <p><b>主持人:</b> 在讲Cloud Code的技巧之前，我们先聊一聊编辑器是怎么进化的。我们把时间退回到2000年，我大概是从2015年开始编程的。在那个时候，我写代码主要靠手打，偶尔会用代码片段补全。那个时候的补全很简单，写一个User对象，它有Name和Age属性，当你敲“User.”的时候，编辑器会自动弹出Name和Age让你选，这是最早的代码补全。手敲代码、补全代码、复制粘贴是常态。</p>
+            <p><b>主持人:</b> 2018年，Tabnine诞生了，它能补全整行代码，还能理解你想写什么函数，这在当时可算一个大的突破。而Tabnine背后的模型是GPT-2，做GPT-2的OpenAI四年后将会彻底地改变这个世界。</p>
+            <p><b>主持人:</b> 2022年，变革开始加速。到了年底，ChatGPT更是引爆了整个科技圈。23年初，GPT-4发布，那叫一个震撼。我记得当时的感觉是，不少场景下，这玩意儿写的代码比我强多了。那段时间我天天干什么呢？复制代码粘贴到ChatGPT中，让它优化，再粘贴回来，来回倒腾，人称“代码倒爷”。我们不生产代码，我们只是代码的搬运工。</p>
+            <p><b>主持人:</b> 2024年，AI住进了编辑器里，想聊就聊，再也不用复制粘贴了。而到了2025年，AI编程工具简直是神仙打架。它们不光会帮你补全代码，还能看懂整个项目，知道你想干什么，帮你拆解复杂的任务。我做了一个简单的测试演示，比如说我想要一个落地页，它立马就懂了，不光理解我的需求，它还能识别我的代码风格，文件该建的建，代码该写的写，一气呵成。而这个时候，AI不再是个工具，而是一个真正的编程伙伴。不管是Cloud Code、Cursor，还是Aider，它们都在重新定义我们写代码的方式。</p>
+            <p><b>主持人:</b> 智能体编程 (AI Agent: 指能够自主感知环境、制定计划并执行任务的AI程序) 听起来很酷，但是其实四个字你就能理解：编程伙伴。你的AI编程伙伴像个人一样，它能感知代码库，理解你的需求，制定计划，自主编码。</p>
+
+            <h3>为什么最强的AI却选用最“土”的终端？</h3>
+            <p><b>主持人:</b> 但问题来了，Cloud Code这么强，为什么偏偏就选用了一个黑框？我查阅了一些资料，看了一些访谈，终于找到了答案。主要原因有两个：</p>
+            <p><b>主持人:</b> 第一，编辑器的碎片化问题。Magic AI (Cloud Code的开发公司) 内部什么编辑器都有人用：VS Code (微软推出的免费代码编辑器)、Vim (一款高度可配置的文本编辑器)、Neovim (Vim的一个分支，旨在改进其架构和用户体验)、IntelliJ (由JetBrains公司开发的一系列集成开发环境)。如果只支持某个编辑器，其他人就被排除在外了。</p>
+            <p><b>主持人:</b> 第二，UI反而成为了AI最大的枷锁。大家都在拼命地做漂亮的界面，各种插件、独立的应用层出不穷，但慢慢大家都会发现一个致命的问题：UI限制了AI的能力。回头看一看，AI Agent的核心循环：它有感知，它有规划，它有行动。但是你发现了没有，它跟界面漂不漂亮没关系。华丽的界面、复杂的交互反而是负担，而朴素到极致的终端却是返璞归真。</p>
+            <p><b>主持人:</b> 终端有三大优势：</p>
+            <p><b>主持人:</b> 第一，自由度最大。AI可以调用一切系统能力，不受UI框架的限制。</p>
+            <p><b>主持人:</b> 第二，对用户来说，认知负担最小。你只需要说“我想要什么”，不用学习复杂的界面操作。</p>
+            <p><b>主持人:</b> 第三，工具链天然融合。Git (一种广泛使用的分布式版本控制系统，用于追踪代码变更)、NPM (Node.js的包管理器)、Docker (一个开源的应用容器引擎)，所有的开发工具本来就是命令行的。</p>
+            <p><b>主持人:</b> 别觉得这是倒退，恰恰相反，这是返璞归真。当然，很多人吐槽Cloud Code太简陋了，连个界面都没有。我承认，漂亮的界面确实能够让人心情愉悦。但我个人体验下来，Cloud Code在理解代码能力上要超过其他同类工具很多。</p>
+            <p><b>主持人:</b> 很多人觉得终端难用，是因为没有尝到效率的甜头。一旦尝到效率的甜头，你就会觉得什么UI不UI的，不重要。除此之外，Cloud Code还有一个最大的杀器，是token (在AI模型中，文本被分解成的最小处理单元，可以是一个词或一个字符) 额度，简直是不要钱一样地给。猜猜我一天要烧掉多少？如果折算成API (应用程序编程接口：允许不同软件之间相互通信的规则和工具) 的话，我一天能烧掉价值200美元的token。他给的实在是太多了。</p>
+
+            <h2>二、Cloud Code核心使用技巧：“谋、定、动”三字诀</h2>
+            <p><b>主持人:</b> 接下来我们讲一讲Cloud Code的使用技巧。技巧有很多，但是我会把我觉得最有用的教给你。这些技巧按照我的三字诀，可以分为“谋、定、动”——谋定而后动。用自动驾驶来类比，你就懂了。</p>
+            <p><b>主持人:</b> “谋”就是把需求聊透，就像开车前，你得确定你的目的地，是从河南新乡到山东德州，而不是从纽约到德州。</p>
+            <p><b>主持人:</b> “定”是规划清晰路线，像导航一样，把每个关键路线和节点都标记好。</p>
+            <p><b>主持人:</b> “动”就是要快速执行，路线清晰，油门踩到底。当然不要超速，看路不对要打方向盘，不要跑偏了。</p>
+            <p><b>主持人:</b> 那我们展开讲一下，“谋”就是把需求聊透，把需求文档化。为什么要这样做？因为首先你要不停地和AI聊，确保自己的思路是清晰的，然后让AI完全理解你的意图。紧接着让AI复述一遍你的需求。为什么要复述？因为要确保咱们的理解和AI的理解是对齐的。如果后面执行错了，你可以快速定位是理解上的问题还是执行上的问题。</p>
+            <p><b>主持人:</b> 这里有一些小技巧我可以分享给大家。第一，首先要切到Opus模型 (由Anthropic公司开发的Claude 3系列模型中的最强版本)，因为Opus处理复杂需求会更靠谱一些。紧接着，我会用手机在备忘录中输入我的需求：“我需要实现支付功能，请你帮我完成订单支付、充值、会员购买。我需要支持支付宝支付、微信支付、银行卡支付。核心功能你要实现一个支付订单，然后要处理一些支付管理状态、支付回调处理、支付的查询、退款，比如说选择或者部分退款，还有对账功能。”</p>
+            <p><b>主持人:</b> 为什么这个阶段这么重要？因为首先咱们要确保自己的脑子是清楚的，然后和AI不停地聊，它会发现你的一些逻辑上的漏洞。接着把需求系统化之后，后期出问题能够快速回溯。需求聊透了，返工率会降低80%。</p>
+            <p><b>主持人:</b> 接着我们到了第二阶段，“定”。“定”这一个阶段是把任务给定下来。需求聊透了，就需要把任务拆分一下，这一步很关键。让Cloud Code把步骤列出来，我通常会这么说：“基于需求文档，请你帮我执行一个计划，标明哪些任务是可以做的，哪些任务是可以并行的，形成一个渐进的逻辑。”列好这个计划之后，就可以进入“动”这一个环节了。</p>
+            <p><b>主持人:</b> 因为前面我们已经聊得很透了，那么到第三步，我就可以让Cloud Code开启狂飙模式。这个时候别犹豫，速度拉满，因为有Git帮你兜底，出了问题可以回滚。Cloud Code有的时候在全速行驶的过程中会执行错误，那么如何解决呢？一种方法是直接踩刹车，按ESC中断任务，然后重新输入你的需求。第二种，如果没有跑得很偏，这个时候你只需要继续输入一些微小的补充，就可以让Cloud Code识别出，在下一个调整中帮你调整。另外，Cloud Code执行任务多了，有的时候会显得不太聪明，这个时候可以输入`clear`命令，把记忆清除掉。</p>
+            <p><b>主持人:</b> 还记得我们之前做的todo吗？我们把这个todo引用一下，然后输入“继续执行”，回车，那么它就会先读取这一个todo文档继续执行。</p>
+
+            <h3>补充小技巧</h3>
+            <p><b>主持人:</b> “谋、定、动”心法讲完了，我们再补充一些小技巧。`init`可以快速扫描项目，形成一个Cloud MD记忆文档。每次操作的时候，Cloud都会把这个记忆记在心里，采用的一些命令，怎么启动前端，怎么编译后端，如何查看错误日志。注意要让它善用注释，因为注释是给Cloud Code读的，并不是给人读的。</p>
+            <p><b>主持人:</b> 有的人会怀念Cursor的“Apply/Reject”方案，你可以在对应的IDE或者编辑器安装对应的插件，选中代码片段进行调整。当然，其实就我个人而言，我大部分情况下我也不需要选中，我直接用口头描述就好了。</p>
+            <p><b>主持人:</b> Cloud Code还有一些快捷操作，比如说你可以在输入框中输入“你帮我提交代码，生成规范的Commit Message”，你也可以直接敲`commit`。有的人不希望Cloud在代码里面署名，这个时候你可以在Settings里面设置这一个参数，这样代码就都是你的了。</p>
+            <p><b>主持人:</b> 在我写我的动画效果的时候，我沉淀了一些修复布局、做动画，然后打标签的命令。这些命令比较长，但是每次输入的话确实比较占用时间，这个时候我建议创建自己的命令。如果有些提示词我已经用了三四次，而且每次都需要输入比较长的文本，那么我就会创建一个自定义命令。</p>
+            <p><b>主持人:</b> 另外，如果你是一个新手想写项目的话，我建议使用一些现成的脚手架，这样可以帮你省去大量的时间。</p>
+
+            <h2>三、瞬间开窍的提示词技巧</h2>
+            <p><b>主持人:</b> 聊完了Cloud Code的一些技巧，我们来聊一聊提示词技巧。先说清楚，我讲的是提示词技巧，不是提示词工程技巧。一些复杂的提示词工程技巧，那得让工程师们去研究。咱们只要记住一点：把话说清楚。经常有人问我，你需要套用什么提示词框架吗？答案是完全不需要，你只需要专注把你的任务说清楚，简单反而更好，因为Cloud Code已经足够聪明了，一些复杂的框架反而会让它产生一定的误导。</p>
+            <p><b>主持人:</b> 这里要讲一个有意思的点，我不知道你们有没有对AI发过火，比如说急了你就吐一句：“你给我好好想想！”结果AI它就突然变得聪明了。这个不是玄学，在Cloud里这是实打实的技术——Extended Thinking功能，能让AI进入深度思考模式。更绝的是Cloud Code里面藏着几个魔法咒语，比方说`Think`、`Think Harder`、`Think Harder`、`Ultra Think`。</p>
+            <p><b>主持人:</b> 为什么当你说“你给我好好想想”，它就突然有用呢？因为它调用了`Think Harder`这个咒语。AI想得越久，答案越准确，就像人一样，深思熟虑总比脱口而出靠谱。深度思考对于一些复杂的任务非常有必要，比如：“请你分析支付模块的瓶颈，并且给出重构方案。”当你使用`Ultra Think`的时候，你会发现服务器不停地超时，这个时候你需要搭配接下来的技巧使用——辩证思考，把复杂的问题让它自己思考，尝试拆解一下。比如说支付功能，它可能会拆解：理解业务系统、对接支付渠道、设计订单状态机、实现核心逻辑，然后做一些异常的处理。搭配辩证思考之后，你的`Ultra Think`很少会超时。</p>
+            <p><b>主持人:</b> 接下来这个技巧是，当你写提示词的时候，尽量使用正面的表达。说要AI做什么，而不是说AI别做什么。就像教小孩子一样，太多“这也不能做，那也不能做”，反而会把小孩子限制住，他不知道自己该怎么做。反面的案例是：“不要使用any类型，不要写重复代码，不要忘记错误处理。”而正面的表达是：“使用明确的TypeScript (JavaScript的超集，增加了静态类型定义，以提高代码的可维护性) 类型，提取公共逻辑为函数，增加try-catch错误处理。”看到区别没有？正面的表达让AI知道该往哪里走，而不是处处设防。</p>
+            <p><b>主持人:</b> 当你需要生产级的代码的时候，请提前说清楚你的标准。比如说你要实现一个通用的缓存系统，要求是适用于所有合法的输入，不只是测试用例；不要硬编码，要实现真正的逻辑；代码要健壮、可维护、可扩展。如果需求不合理，请直接告诉我。这样能够一定程度上降低AI投机取巧，只写出应付测试的代码。</p>
+            <p><b>主持人:</b> 还有一个小技巧是长文本优化：内容在前，指令在后。如果你要粘贴很长的错误日志或者是文档，记住这一个法则：先把错误日志贴上去，然后输入指令：“基于上面的错误日志，帮我分析崩溃的原因，并提供修复方案。”把大量的文本放在前，把指令放在后面，AI的理解效果会好很多。这是模型架构决定的，不是玄学。</p>
+
+            <h2>四、AI编程的边界与上限：人、工程与大模型框架</h2>
+            <p><b>主持人:</b> 我们来聊一聊AI编程的边界在哪。我把它总结为三个核心要素：大模型、工程、人。</p>
+            <p><b>主持人:</b> 首先是大模型。大模型决定了AI编程的这一个天花板。简单来说，如果像Claude 3 Opus、Gemini 1.5 Pro这些顶级的模型都写不出的代码，那么当前的AI编程就是写不出那些代码。就像再好的赛车手，它也不可能让普通轿车跑出F1的速度。模型能力就是那个硬性的限制。</p>
+            <p><b>主持人:</b> 工程是让能力落地的壳。Cloud Code、Cursor、Copilot这些工具，本质上都是大模型的一个套壳。它的作用是优化交互体验、管理上下文、集成到你的开发流程。但是工具再好，它也突破不了底层模型的限制。Cloud Code作为这个“套壳”这一层，它做得比较好的是，它缩短了人与大模型中间的距离。也就是说你下发指令，它尽量地帮你把一切做好，这一点是它做得比较好的。当然，像Aider做得也不错。</p>
+            <p><b>主持人:</b> 第三是人，也就是工程师。工程师在AI编程中扮演三个关键的角色：第一是定义者，能清晰描述需求，AI才能准确输出；第二是把关者，审核代码质量、业务逻辑、性能表现；三是创新者，并不是所有的代码、所有的需求都被AI充分训练，那么有一些关键的架构设计、算法上的创新还需要人类的创造力。</p>
+            <p><b>主持人:</b> AI编程现在能做好的，是一些常规功能的实现、代码的重构、测试编写、文档生成。理解这三要素就能更理性地看待AI编程：模型有多强，能力就有多强；工具有多好，体验就有多好；人有多专业，结果就有多专业。AI编程它不是替代程序员，它成为了程序员的超级助手。认清AI的边界，才能更好地使用它。</p>
+
+            <h2>五、总结与感悟：从胶卷时代到数码时代的编程变革</h2>
+            <p><b>主持人:</b> 几天前，Cloud Code突然宕机了。那个下午，我被迫手搓代码，没有AI的辅助，纯手敲。手指在键盘上犹豫不决，大脑疯狂地运转，却总觉得少了点什么。一个简单的功能，以前用Cloud Code可能10分钟就搞定，现在磕磕绊绊写了20多分钟。不是说语法记不清楚，而是整个习惯变了。我已经习惯了描述需求，而不是从零开始实现细节。</p>
+            <p><b>主持人:</b> 更让我震惊的是，当我写完代码的时候，我的第一反应居然是想让Cloud Code帮我检查一下。这一刻我就突然明白了，可能我们正在经历编程界的“胶卷到数码”的革命。</p>
+            <p><b>主持人:</b> 还记得胶卷时代吗？摄影师按一次快门都要深思熟虑，36张底片，张张都珍贵。而构图、光圈、快门全在脑中。按完冲洗，一步错，步步错，没有删除重拍，只有一次机会。</p>
+            <p><b>主持人:</b> 而数码时代，摄影又变了。存储卡管够，随意创作；即拍即看，不停地迭代。核心技能变成了你的审美和眼光，后期处理成为了必修课。</p>
+            <p><b>主持人:</b> 编程的变革好像也是这样。传统程序员像胶卷摄影师一样，每行代码都要深思熟虑，Bug靠经验和直觉定位，底层的原理必须烂熟于心。AI时代的程序员更像是数码摄影师，AI可以快速生成多个版本，择其善者而从之，其不善者而改之，实时验证，快速迭代。核心的能力变成了识别好代码，提示词成为了基本功。</p>
+            <p><b>主持人:</b> 别误会，我不是说基础不重要了，就像摄影师依然需要懂光影、懂构图，程序员依然需要理解核心原理。是我们创作的方式、思考的路径、解决问题的手段都已经彻底改变了。</p>
+            <p><b>主持人:</b> 上一个下午，我有点失落，也有点激动。失落的是时代变了，我们回不去了；激动的是，有这么一个时代，我们不必回去。</p>
+
+            <h2>结语</h2>
+            <p><b>主持人:</b> 好，今天的节目到此为止。我是海拉鲁编程课，AI永不眠，我们下期节目再见，拜拜。</p>
+
+            <div class="action-buttons">
+                <button id="copy-md-button">一键复制为Markdown</button>
+            </div>
+        </main>
+    </div>
+
+    <script>
+    document.addEventListener('DOMContentLoaded', () => {
+        // 仅当内容超过3000字时，AI才应生成包含目录的HTML结构，此JS仅用于填充
+        if (document.getElementById('toc-container') && document.getElementById('toc-container').innerHTML.trim() === "") {
+            generateTableOfContents();
+        }
+        initializeCopyToMarkdown();
+    });
+
+    function generateTableOfContents() {
+        const contentBody = document.getElementById('content-body');
+        const tocContainer = document.getElementById('toc-container');
+        if (!contentBody || !tocContainer) return;
+
+        const headings = contentBody.querySelectorAll('h2, h3');
+        if (headings.length > 0) {
+            tocContainer.innerHTML = '<h3>目录</h3>';
+            const tocList = document.createElement('ul');
+            headings.forEach((heading, index) => {
+                const id = `heading-${index}`;
+                heading.setAttribute('id', id);
+                const listItem = document.createElement('li');
+                const link = document.createElement('a');
+                link.setAttribute('href', `#${id}`);
+                link.textContent = heading.textContent;
+                listItem.appendChild(link);
+                tocList.appendChild(listItem);
+            });
+            tocContainer.appendChild(tocList);
+        } else {
+            tocContainer.style.display = 'none';
+        }
+    }
+
+    function initializeCopyToMarkdown() {
+        const copyButton = document.getElementById('copy-md-button'); // 假设此按钮在main-content内
+        if (!copyButton) return;
+
+        copyButton.addEventListener('click', () => {
+            const contentBody = document.getElementById('content-body');
+            if (contentBody && typeof TurndownService === 'function') {
+                var turndownService = new TurndownService({ headingStyle: 'atx' });
+                var markdown = turndownService.turndown(contentBody);
+                
+                navigator.clipboard.writeText(markdown).then(() => {
+                    copyButton.textContent = '复制成功!';
+                    setTimeout(() => { copyButton.textContent = '一键复制为Markdown'; }, 2000);
+                }).catch(err => {
+                    console.error('复制失败: ', err);
+                    copyButton.textContent = '复制失败';
+                });
+            }
+        });
+    }
+    </script>
+</body>
+</html>
